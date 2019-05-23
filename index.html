@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exportaciónes de CSV to JSON</title>
+    <script type="text/javascript" src="js/lib/vendor/d3.v3.min.js"></script>
+    <script type="text/javascript" src="js/source/Node.js"></script>
+    <script type="text/javascript" src="js/source/code.js"></script>
+
+</head>
+
+<body>
+    <div style="margin-bottom: 2vh;">
+        <span>Nombre del fichero: </span>
+        <input type="text" id="Name" placeholder="Nombre de archivo" onkeyup="UpdateName()"
+            style="width: 20%;">
+        <button onclick="downloadObjectAsJson()">DESCARGAR</button>
+        <span>Nombre de la etiqueta root: </span>
+        <input type="text" id="RootName" placeholder="Nombre del root" onkeyup="UpdateRootName()"
+            style="width: 20%;" value="Root">
+        <button onclick="generateJSON()">Generar Fichero</button>
+    </div>
+    <textarea id="MiID" style="width:100%;height: 93vh;"></textarea>
+</body>
+
+</html>
