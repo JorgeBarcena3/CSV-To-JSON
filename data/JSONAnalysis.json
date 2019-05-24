@@ -1,0 +1,518 @@
+{
+  "Calculator": {
+    "Title": "Calculadora de transporte",
+    "StartAgain": "empezar de nuevo",
+    "Basic": {
+      "BasicContainer": {
+        "lblTransportCalculator": "Calculadora de transporte"
+      },
+      "BasicStep1": {
+        "lblTransportationType": "Seleccionar Tipo Transporte",
+        "btnNational": "Nacional",
+        "btnInternational": "Internacional",
+        "lblPick-upLocation": "Seleccione Ubicación Recogida",
+        "lblCountryPick-upLocation": "Por favor seleccione ubicación de recogida (País)",
+        "dliSelect": "-- Seleccionar --",
+        "lblErrorLoadingCountry": "Debe seleccionar un país de carga",
+        "lblBCAPick-upLocation": "Por favor seleccione ubicación de recogida (BCA)",
+        "lblErrorCompound": "Debe seleccionar un lugar de recogida",
+        "lblSelectDeliveryLocation": "Seleccione Ubicación Entrega",
+        "lblSelectDestinationCountry": "Por favor seleccione el país de destino",
+        "lblErrorDestinationCountry": "Debe seleccionar un país de destino",
+        "lblZipCodeDestination": "Por favor ingrese el código postal de destino",
+        "lblErrorZipCode": "Debe escribir un código postal válido",
+        "btnCalculate": "Calcular"
+      },
+      "BasicStep2": {
+        "btnGoBack": "Regresar",
+        "lblDataSelected": "Datos Seleccionados para el Cálculo",
+        "lblTransportationType": "Tipo de transporte",
+        "lblPickupLocationCountry": "Lugar de recogida (País)",
+        "lblPickupLocationBCA": "Lugar de recogida (BCA)",
+        "lblDestinationCountry": "País de destino",
+        "lblDestinationPostcodeRegion": "Código postal/región de destino",
+        "lblCalculationResult": "Resultado del Cálculo",
+        "lblVehicleType": "Tipo de Vehículo",
+        "lblNumber": "Número",
+        "lblFee": "Cuota",
+        "lblDeliveryDeliveryUpTo": "Entrega hasta",
+        "lblBankWorkingDays": "(días hábiles bancarios)",
+        "lblPerPassengerCar": "Por Turismo                                     ",
+        "lblPerSUV": "Por TT, Mnv. o industrial                  ",
+        "lblPerLCV": "Por Furgón                                      ",
+        "lblFullTruckLoad": "Camión completo                            ",
+        "btnRequestThisTransport": "Solicitar este Transporte"
+      },
+      "BasicStep3": {
+        "btnGoBack": "Regresar",
+        "lblRequestTransport": "Solicitar Transporte",
+        "lblOverview": "Resumen",
+        "lblInfoDetails": "Para solicitar el transporte, proporcione sus datos de contacto y envíenos los detalles. Si toda la información proporcionada es correcta, le enviaremos la factura. Si falta alguna información, nos pondremos en contacto con usted.",
+        "lblMandatoryField": "Campo Obligatorio",
+        "btnOrderThisTransport": "Completar el Transporte",
+        "btnAddVehicle": "Añadir Vehículo",
+        "lblContactEmail": "Email de Contacto",
+        "lblVehicleVINPlateNo": "Vehicle VIN / Matrícula",
+        "lblRemarks": "Comentarios",
+        "lblDeliveryAddress": "Dirección de entrega",
+        "lblErrorInvalidCharacters": "Carácteres Inválidos",
+        "lblChooseFile": "Elegir Archivo...",
+        "lblEmptyList": "Lista Vacía",
+        "lblSelectedFiles": "Archivos Seleccionados",
+        "lblTransportType": "Tipo de Transporte",
+        "lblOverviewVIN": "VIN / Matrícula",
+        "lblOverviewTransportType": "Tipo",
+        "lblOverviewPrice": "Precio",
+        "lblOverviewDelete": "Borrar",
+        "lblTotalVehicles": "Vehiculos",
+        "lblTotalTransportPrice": "Precio Transporte",
+        "lblMessageMinVehicle": "Debe añadir un vehiculo como minimo",
+        "lblMessageNumVehiclesMax": "Solo se pueden añadir 8 vehiculos"
+      },
+      "BasicStep4": {
+        "btnOrderThisTransport": "Pedir el transporte",
+        "lblPhoneNumber": "Teléfono",
+        "placeholderCity": "Ciudad",
+        "placeholderStreet": "Calle",
+        "placeholderPostalCode": "C.P.",
+        "placeholderCountry": "Pais",
+        "CustomerNamelbl": "Nombre de vendedor"
+      }
+    },
+    "Step1": {
+      "Title": "PASO 1 - SELECCIONE TIPO DE TRANSPORTE",
+      "Local": "LOCAL",
+      "International": "INTERNACIONAL",
+      "InformationTextTitle": "Información:",
+      "InformationText": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock."
+    },
+    "Step2": {
+      "Title": "PASO 2 - SELECCIONE PAIS BCA"
+    },
+    "Step3": {
+      "Title": "PASO 3 - SELECCIONE LA UBICACIÓN DE RECOGIDA EN FRANCIA"
+    },
+    "Step4": {
+      "Title": "PASO 4 - SELECCIONE EL PAÍS DE DESTINO"
+    },
+    "Step5": {
+      "Title": "PASO 5 - CONFIGURAR LA UBICACIÓN DE ENTREGA EN FRANCIA",
+      "LocalAddress": "DIRECCIÓN LOCAL",
+      "ZipCode": "CÓDIGO POSTAL",
+      "Address": "DIRECCIÓN",
+      "VehicleType": "TIPO DE VEHÍCULO",
+      "PassengerCar": "Coche de Pasajeros",
+      "Suv": "SUV",
+      "Lcv": "LCV",
+      "FullTruckLoad": "Full Truck Load",
+      "ZipNumber": "NÚMERO POSTAL",
+      "Region": "REGIÓN",
+      "Calculate": "CALCULAR"
+    },
+    "Step6": {
+      "Title": "PASO FINAL - RESULTADO",
+      "DeliveryType": "Tipo de Entrega:",
+      "Country": "País:",
+      "Pick-upLocation": "Lugar de Recogida:",
+      "DestinationCountry": "País de Destino:",
+      "DestinationRegion": "Región de Destino:",
+      "Distance": "Distancia:",
+      "VehicleType": "Tipo de Vehículo:",
+      "TotalPrice": "Precio Total:",
+      "EstimatedDeliveryDate": "Fecha Estimada de Entrega:"
+    }
+  },
+  "Admin": {
+    "Common": {
+      "removeConfirmMessage": "¿Desea eliminar el registro?",
+      "removeMessage": "Eliminado correctamente",
+      "lblPricePassengerCar": "Precio Turismo",
+      "lblPriceSUV": "Precio Todo terreno o industrial",
+      "lblPriceLCV": "Precio Furgón",
+      "lblPriceFullTruckLoad": "Precio Camión Completo",
+      "lblSingleCarTransportationDay": "Días Transporte Vehículo Único",
+      "lblFullLoadTransportationDay": "Días Transporte Camión Completo",
+      "lblPC": "Turismo",
+      "lblSUV": "Todo terreno o industrial",
+      "lblLCV": "Furgón",
+      "lblFTL": "Camión completo",
+      "lblSingle": "Individual",
+      "lblFull": "Completo",
+      "successMessage": "Los datos se han guardado correctamente",
+      "errorCodeMsg": "El codigo introducido ya existe",
+      "lblDays": "dias",
+      "CalculatorPriceNotFoundMessage": "Mensaje para el precio no encontrado",
+      "CalculatorPriceFoundMessageFrance": "Mensaje para el precio encontrado - Francia",
+      "CalculatorPriceFoundMessageItaly": "Mensaje para el precio encontrado - Italia",
+      "CalculatorPriceFoundMessageGermany": "Mensaje para el precio encontrado - Alemania",
+      "CalculatorPriceFoundMessagePortugal": "Mensaje para el precio encontrado - Portugal",
+      "CalculatorPriceFoundMessageDenmark": "Mensaje para el precio encontrado - Dinamarca",
+      "CalculatorPriceFoundMessageSpain": "Mensaje para el precio encontrado - España",
+      "CalculatorPriceFoundMessageNetherlands": "Mensaje para el precio encontrado - Paises Bajos",
+      "CalculatorPriceFoundMessageSweden": "Mensaje para el precio encontrado - Suecia",
+      "CalculatorPriceFoundMessageBelgium": "Mensaje para el precio encontrado - Bélgica",
+      "CalculatorPriceFoundMessageCzechRepublic": "Mensaje para el precio encontrado - República Checa",
+      "CalculatorPriceFoundMessageAustria": "Mensaje para el precio encontrado - Austria",
+      "CalculatorPriceFoundMessageHungary": "Mensaje para el precio encontrado - Hungría",
+      "CalculatorPriceFoundMessageSlovenia": "Mensaje para el precio encontrado - Eslovenia",
+      "CalculatorPriceFoundMessageCroatia": "Mensaje para el precio encontrado - Croacia",
+      "CalculatorPriceFoundMessageRomania": "Mensaje para el precio encontrado - Rumania",
+      "CalculatorPriceFoundMessageSlovakia": "Mensaje para el precio encontrado - Eslovaquia",
+      "CalculatorPriceFoundMessageSwitzerland": "Mensaje para el precio encontrado - Suiza",
+      "CalculatorPriceFoundMessageEstonia": "Mensaje para el precio encontrado - Estonia",
+      "CalculatorPriceFoundMessageLatvia": "Mensaje para el precio encontrado - Letonia",
+      "CalculatorPriceFoundMessageLithuania": "Mensaje para el precio encontrado - Lituania",
+      "CalculatorPriceFoundMessagePoland": "Mensaje para el precio encontrado - Polonia",
+      "CalculatorPriceFoundMessageFinland": "Mensaje para el precio encontrado - Finlandia",
+      "CalculatorPriceFoundMessageLuxemburg": "Mensaje para el precio encontrado - Luxemburgo",
+      "CalculatorPriceFoundMessageNorway": "Mensaje para el precio encontrado - Noruega",
+      "CalculatorPriceFoundMessageBulgaria": "Mensaje para el precio encontrado - Bulgaria",
+      "CountryFrance": "Francia",
+      "CountryItaly": "Italia",
+      "CountryGermany": "Alemania",
+      "CountryPortugal": "Portugal",
+      "CountryDenmark": "Dinamarca",
+      "CountrySpain": "España",
+      "CountryNetherlands": "Países Bajos",
+      "CountrySweden": "Suecia",
+      "CountryBelgium": "Bélgica",
+      "CountryCzechRepublic": "República Checa",
+      "CountryAustria": "Austria",
+      "CountryHungary": "Hungría",
+      "CountrySlovenia": "Eslovenia",
+      "CountryCroatia": "Croacia",
+      "CountryRomania": "Rumania",
+      "CountrySlovakia": "Eslovaquia",
+      "CountrySwitzerland": "Suiza",
+      "CountryEstonia": "Estonia",
+      "CountryLatvia": "Letonia",
+      "CountryLithuania": "Lituania",
+      "CountryPoland": "Polonia",
+      "CountryFinland": "Finlandia",
+      "CountryLuxemburg": "Luxemburgo",
+      "CountryNorway": "Noruega",
+      "CountryBulgaria": "Bulgaria",
+      "successMailMessage": "El correo ha sido enviado",
+      "LabelNameToOptionRequest1": "Nombre de opciones para petición de transporte 1",
+      "LabelNameToOptionRequest2": "Nombre de opciones para petición de transporte 2",
+      "LabelNameToOptionRequest3": "Nombre de opciones para petición de transporte 3",
+      "LabelNameToOptionRequest4": "Nombre de opciones para petición de transporte 4",
+      "LabelNameToOptionRequest5": "Nombre de opciones para petición de transporte 5",
+      "LabelNameToOptionRequest6": "Nombre de opciones para petición de transporte 6",
+      "EmailHeaderText": "Texto para el encabezado del email",
+      "EmailFooterText": "Texto para el pie de página del email",
+      "InternationalFileText": "Texto para Petición de Documentos de Transporte Internacional",
+      "LocalFileText": "Texto para Petición de Documentos de Transporte Local"
+    },
+    "Layout": {
+      "Title": "ETC - ADMINISTRADOR <br /> <span>European Transport Calculator</span>",
+      "Welcome": "Bienvenido<br />",
+      "lblCountry": "País",
+      "btnCancel": "Cancelar",
+      "btnSave": "Guardar",
+      "CountryUser": "Usuario País",
+      "EtsUser": "Usuario ETS",
+      "AdminUser": "Usuario Admin",
+      "inputError": "Este campo es obligatorio",
+      "inputErrorFormat": "Formato no válido.",
+      "lblPrice": "Precio"
+    },
+    "Login": {
+      "lblUserLogin": "INICIO DE SESIÓN DE USUARIO",
+      "btnSignIn": "Registrarse",
+      "lblError": "Su nombre de usuario o contraseña es incorrecto."
+    },
+    "Dashboard": {
+      "Title": "Bienvenido a ETC - Panel de Administración",
+      "lblUserLogs": "Últimos 30 Presupuestos Calculados",
+      "lblLoadingData": "Cargando Datos...",
+      "lblDate": "Fecha",
+      "lblIP": "IP",
+      "lblType": "Tipo",
+      "lblCountryFrom": "País Desde",
+      "lblParkFrom": "Parque Desde",
+      "lblZipCode": "Código Postal",
+      "lblDestinationCountry": "País Destino"
+    },
+    "UsersList": {
+      "Title": "Usuarios",
+      "Info": "(Activo / Rol de Usuario / País / Inicio de Sesión de Usuario / Último Inicio de Sesión)",
+      "AddNewUser": "Agregar Nuevo Usuario",
+      "Active": "Activo",
+      "NotActive": "No Activo",
+      "UserRegion": "Región del Usuario"
+    },
+    "UsersEdit": {
+      "Title": "Edición de Usuario",
+      "Info": "Complete todos los campos para crear o editar un usuario",
+      "Name": "Nombre",
+      "Surname": "Apellido",
+      "UserName": "Nombre de Usuario para Iniciar Sesión",
+      "Email": "Email",
+      "DefaultLanguage": "Idioma predeterminado",
+      "Role": "Rol",
+      "SaveUser": "Guardar Usuario",
+      "SendPasswordByEmail": "Enviar Contraseña por Email",
+      "DesactiveUser": "Desactivar Usuario",
+      "ActiveUser": "Activar Usuario",
+      "desactiveMessage": "El usuario se ha desactivado",
+      "activeMessage": "El usuario se ha activado",
+      "emailSentMessage": "Se ha enviado el correo con éxito"
+    },
+    "RightMenu": {
+      "lblMyCountry": "Mi País",
+      "lblMyEmail": "Mi Email",
+      "imgFlag": "<img src=\"/assets/images/flags/flag_es.png\" />",
+      "Title1": "General",
+      "lblLanguageName": "Spanish",
+      "Dashboard": "Dashboard",
+      "MassCalculationByExcel": "Excel Cálculo de Peso",
+      "Title2-AdminUser": "Menú de Usuarios Administradores",
+      "Title2-ETSUser": "Menú de Usuarios ETS",
+      "Title2-UserCountry": "Menú de Usuarios País",
+      "LocalRegionsAdministrator": "Regiones Locales",
+      "RegionsAdministrator": "Regiones Internacionales",
+      "ImportRegionsAdministrator": "Importación de Regiones",
+      "PriceListAdministratorInternational": "Lista de Precios por Regiones Inter.",
+      "PriceListAdministratorLocal": "Lista de Precios por Regiones Local",
+      "LocalPriceListAdministrator": "Lista de Precios por Km Local",
+      "ImportPriceListAdministrator": "Importar Lista de Precios Por Region",
+      "ImportLocalPrices": "Importar Lista de Precios Por Km",
+      "CountryConfiguration": "Configuración de Paises",
+      "CompoundConfiguration": "Configuración de Campas",
+      "UsersAdministrator": "Usuarios",
+      "ResourceAdministrator": "Administrador de Recursos",
+      "ImportFileToCalculatePrices": "Calcular Precios por Plantilla",
+      "UserLogsAdministrator": "Registros de usuario",
+      "Title3": "Usuario",
+      "EditMyUser": "Editar Mi Usuario",
+      "LogOff": "Desconectarse"
+    },
+    "RegionEdit": {
+      "Title": "Edición de Región",
+      "Info": "Complete todos los campos para crear o editar una región",
+      "lblCode": "Código",
+      "lblName": "Nombre",
+      "btnSaveRegion": "Guardar Región",
+      "btnDesactiveRegion": "Desactivar Región",
+      "btnActiveRegion": "Activar Región",
+      "regionCodeAlreadyExistMessage": "Ya existe una región con ese código",
+      "desactivateMessage": "La región se ha desactivado",
+      "activateMessage": "La región se ha activado",
+      "lblOriginCountryName": "País Origen",
+      "lblDestinyCountryName": "País Destino",
+      "dliAllCountries": "Todos los Paises"
+    },
+    "RegionList": {
+      "TitleInternational": "Regiones Internacionales",
+      "TitleLocal": "Regiones Locales",
+      "InfoLocal": "(Activo / País / Código / Nombre)",
+      "InfoInternational": "(Activo / País Origen / País Destino / Código / Nombre)",
+      "dliCountries": "-- Todos los Paises --",
+      "lblNewRegion": "Nueva Región"
+    },
+    "RegionZipCodes": {
+      "Title": "Códigos Postales",
+      "lblAddNewZP": "Añadir Nuevo CP, máx digitos:",
+      "inputError": "Este campo debe ser numérico",
+      "iconDelete": "Eliminar Registro",
+      "deleteMessage": "Se ha eliminado correctamente",
+      "errorMessage": "El código ya existe dentro del mismo país",
+      "validationMessage": "Caracter no válido"
+    },
+    "ImportPricesList": {
+      "Title": "Importar Lista de Precios por Región",
+      "lblSelectRegionToImport": "Seleccione el tipo de Región que va a importar",
+      "dliInternational": "Internacional",
+      "dliLocal": "Local",
+      "lblDownloadTemplate": "Descargar plantilla para la importación",
+      "btnDownload": "Descargar Plantilla",
+      "lblSelectDestinityCountry": "Seleccione el país de origen",
+      "dliSelectDestinityCountry": "-- Seleccione un país de origen --",
+      "lblCountry": "País",
+      "lblBcaPark": "Parque BCA",
+      "lblSelectFilledTemplate": "Seleccione la plantilla rellena con los datos de la importación",
+      "btnAnalize": "Analizar Documento",
+      "lblAnalysisResult": "Resultados del análisis",
+      "lblResultsSuccess1": "El Documento se ha analizado correctamente, esta a punto de importar",
+      "lblResultsSuccess2": "registros, presione en el siguiente boton para proceder.",
+      "lblResultsErrorImportTemplate": "Ha ocurrido un error al importar la plantilla",
+      "lblResultsErrorAnalizeFile": "Ha ocurrido un error al analizar el documento en las lineas:",
+      "lblBadLine": "Linea",
+      "COMPOUND_NOT_FOUND": "- Parque no encontrado",
+      "REGION_NOT_FOUND": "- Región no encontrada",
+      "FORMAT_NOT_VALID": "- Formato no válido",
+      "btnImport": "Realizar Importación",
+      "lblResultsImport": "Resultados de la importación",
+      "lblResultSuccess1": "Se han importado con éxito",
+      "lblResultSuccess2": "registros",
+      "lblErrorImportTemplateInLines": "Ha ocurrido un error al importar la plantilla en las lineas:"
+    },
+    "ImportLocalPricesList": {
+      "Title": "Importación de lista de precios locales"
+    },
+    "FillFileWithPrices": {
+      "dliSelectTemplate": "-- Seleccione una Plantilla --",
+      "Title": "Calcular Precios por Plantilla",
+      "InputsTitle": "Entradas",
+      "lblInputsInfo": "Asignar las columnas correspondientes de la plantilla.",
+      "OutputsTitle": "Salidas",
+      "lblOutputsInfo": "Se han encontrado errores en la plantilla, por favor revise los errores y vuelva a intentarlo:",
+      "lblOutputsErrorRow": "Error en la fila: ",
+      "btnCreateNew": "Crear Plantilla",
+      "lblTemplateName": "Nombre Plantilla",
+      "lblPickUpCountryCode": "Código País de Recogida",
+      "lblPickUpCompoundCode": "Código Campa de Recogida",
+      "lblDeliveryCountryCode": "Código País de Entrega",
+      "lblDeliveryPostcode": "Código Postal de Entrega",
+      "lblVehicleType": "Tipo de Vehículo",
+      "lblResultPrice": "Precio Resultado",
+      "lblResultLeadTime": "Plazo de Entrega Resultado",
+      "bntSaveTemplate": "Guardar",
+      "bntRemoveTemplate": "Eliminar",
+      "bntFillPrices": "Calcular y Rellenar Precios",
+      "VEHICLE_TYPE_NOT_VALID": "Tipo de vehículo no encontrado",
+      "PICKUP_COUNTRY_NOT_VALID": "País de recogida no válido",
+      "DELIVERY_COUNTRY_NOT_VALID": "País de entrega no válido",
+      "COMPOUND_CODE_NOT_VALID": "Parque no válido",
+      "Template_save_success": "Guardada con éxito."
+    },
+    "PricesList": {
+      "Container": {
+        "Title": "Administrador de Lista de Precios por Regiones"
+      },
+      "BcaBranchList": {
+        "Title": "Parque BCA de origen"
+      },
+      "CountryList": {
+        "Title": "País de origen"
+      },
+      "DestinityCountryList": {
+        "Title": "País de destino"
+      },
+      "DestinityRegionList": {
+        "Title": "Regiones de Destino",
+        "lblCode": "Código",
+        "lblRegion": "Región",
+        "lblOriginCountry": "Origen"
+      },
+      "PriceListEdit": {
+        "Title": "Edición de Precio",
+        "lblInfo": "Complete todos los campos para editar un precio",
+        "lblEstimatedTime": "Tiempo Estimado"
+      }
+    },
+    "PricesListLocal": {
+      "Container": {
+        "Title": "Lista de Precios por Km Local"
+      },
+      "CountryListLocal": {
+        "Title": "Seleccione País"
+      },
+      "PricesListLocalEdit": {
+        "Title": "Edición de Precio",
+        "lblCompleteAllFields": "Complete todos los campos para crear o editar un precio",
+        "lblUpToKm": "Hasta (km)",
+        "lblEstimatedDays": "Días Estimados",
+        "btnDelete": "Borrar"
+      },
+      "PriceListLocalList": {
+        "Title": "Listado de Precios/Distancia",
+        "lblUpToKm": "Hasta Km",
+        "lblNewLog": "Nuevo Registro",
+        "lblUpTo": "Hasta",
+        "lblKm": "km",
+        "lblDays": "días"
+      }
+    },
+    "ErrorExcelBadLine": {
+      "COMPOUND_NOT_FOUND": "Parque no encontrado"
+    },
+    "Country": {
+      "CountryContainer": {
+        "Title": "Configuración de Paises"
+      },
+      "CountryEdit": {
+        "lblInfo": "Complete todos los campos para editar un país",
+        "lblCountryName": "Nombre País",
+        "lblOriginCountry": "País de Origen (Con Parques BCA)",
+        "lblDestinityCountry": "País de Destino",
+        "lblZipCodeLongitudeValidation": "Longitud de Código Postal para Validación",
+        "lblResourceKey": "Clave de Recurso",
+        "iconWarning": "Si modifica este campo, se eliminarán registros en la base de datos",
+        "lblLocalTransportType": "Tipo de Transporte Local",
+        "dliRegion": "Por región",
+        "dliKm": "Por Kms",
+        "iconInfoSearchRegion": "Nº de dígitos para buscar por región. Ej: 28005 -> Código Postal 28 (2 dígitos)",
+        "lblZipCode": "Primeros Dígitos por Código Postal",
+        "lblMandatoryTransportation": "Transporte Obligatorio",
+        "dliOrlblYes": "Sí",
+        "dliOrlblNo": "No",
+        "lblMandatoryTransportationMessage": "Mensaje de transporte obligatorio",
+        "lblNonMandatoryTransportationMessage": "Mensaje de transporte no obligatorio",
+        "btnSaveCountry": "Guardar País",
+        "warningMessage": "Si modifica este campo, se eliminarán todas las tarifas y regiones relacionadas con este país",
+        "lblZipPlaceholder": "Marcador de posición de código postal",
+        "lblMoneySymbolNational": "Símbolo de moneda nacional",
+        "lblMoneySymbolInternational": "Símbolo de moneda internacional",
+        "lblInternationalTransportActive": "Transporte Internacional Activo",
+        "lblLocalTransportActive": "Transporte Local Activo",
+        "lblTransportRequestActive": "Activo",
+        "lblEmailsToRequestInternationalTransport": "Emails para Petición de Transporte Internacional",
+        "lblEmailsToRequestLocalTransport": "Emails para Petición de Transporte Local",
+        "lblShowFieldOptionRequest1": "Mostrar Opción 1",
+        "lblShowFieldOptionRequest2": "Mostrar Opción 2",
+        "lblShowFieldOptionRequest3": "Mostrar Opción 3",
+        "lblShowFieldOptionRequest4": "Mostrar Opción 4",
+        "lblShowFieldOptionRequest5": "Mostrar Opción 5",
+        "lblShowFieldOptionRequest6": "Mostrar Opción 6",
+        "lblIsMandatoryOptionRequest1": "Obligatorio Opción 1",
+        "lblIsMandatoryOptionRequest2": "Obligatorio Opción 2",
+        "lblIsMandatoryOptionRequest3": "Obligatorio Opción 3",
+        "lblIsMandatoryOptionRequest4": "Obligatorio Opción 4",
+        "lblIsMandatoryOptionRequest5": "Obligatorio Opción 5",
+        "lblIsMandatoryOptionRequest6": "Obligatorio Opción 6",
+        "lblInputFileOption": "Permitir subir archivos",
+        "lblTitleRequestTransport": "Petición de Transporte",
+        "lblInfoRequestTransport": "Nota: Debes ir al Administrador de Recursos si quieres editar: etiquetas, pie de página y encabezado del email"
+      },
+      "CountryList": {
+        "Title": "Seleccione un país",
+        "lblInfo": "Activo Internacional / Activo Local / País / Código / Nombre"
+      }
+    },
+    "Resources": {
+      "Container": {
+        "lblResourceManager": "Administrador de Recursos"
+      },
+      "LanguageList": {
+        "lblSelectLanguage": "Seleccione un idioma"
+      },
+      "ResourceEdit": {
+        "lblWriteAddress": "Escriba una descripción",
+        "btnSaveResource": "Guardar Recurso"
+      },
+      "ResourceList": {
+        "lblSelectResource": "Seleccione el recurso"
+      }
+    },
+    "CompoundEdit": {
+      "Title": "Edición de Campa",
+      "Info": "Complete todos los campos para crear o editar una campa",
+      "lblAddress": "Dirección",
+      "lblInternationalAddress": "Activo Internacional",
+      "lblLocalActive": "Activo Local",
+      "lblCoordsX": "Coordenadas X",
+      "lblCoordsY": "Coordenadas Y",
+      "btnSaveCompound": "Guardar Campa",
+      "btnDeleteCompound": "Eliminar Campa",
+      "btnLocateCompound": "Localizar Campa",
+      "locateMessage": "Se ha localizado la campa"
+    },
+    "CompoundConfiguration": {
+      "Title": "Configuración de Campas",
+      "Info": "(Activo Internacional / Activo Local / Activo Localizar / País / Código / Nombre)",
+      "btnNewCompound": "Nueva Campa"
+    }
+  }
+}

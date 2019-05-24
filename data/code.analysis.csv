@@ -1,413 +1,415 @@
 ﻿Path;Traductions
-Nodo1.Title;Lunes
-Nodo1.StartAgain;Martes
-Nodo1.Nodo2.Nodo2Container.lblTransportNodo1;Miércoles
-Nodo1.Nodo2.Nodo2.1.lblTransportationType;Jueves
-Nodo1.Nodo2.Nodo2.1.btnNational;Viernes
-Nodo1.Nodo2.Nodo2.1.btnInternational;Sábado
-Nodo1.Nodo2.Nodo2.1.lblPick-upLocation;Domingo
-Nodo1.Nodo2.Nodo2.1.lblCountryPick-upLocation;Lunes
-Nodo1.Nodo2.Nodo2.1.dliSelect;Martes
-Nodo1.Nodo2.Nodo2.1.lblErrorLoadingCountry;Miércoles
-Nodo1.Nodo2.Nodo2.1.lblBCAPick-upLocation;Jueves
-Nodo1.Nodo2.Nodo2.1.lblErrorCompound;Viernes
-Nodo1.Nodo2.Nodo2.1.lblSelectDeliveryLocation;Sábado
-Nodo1.Nodo2.Nodo2.1.lblSelectDestinationCountry;Domingo
-Nodo1.Nodo2.Nodo2.1.lblErrorDestinationCountry;Lunes
-Nodo1.Nodo2.Nodo2.1.lblZipCodeDestination;Martes
-Nodo1.Nodo2.Nodo2.1.lblErrorZipCode;Miércoles
-Nodo1.Nodo2.Nodo2.1.btnCalculate;Jueves
-Nodo1.Nodo2.Nodo2Step2.btnGoBack;Viernes
-Nodo1.Nodo2.Nodo2Step2.lblDataSelected;Sábado
-Nodo1.Nodo2.Nodo2Step2.lblTransportationType;Domingo
-Nodo1.Nodo2.Nodo2Step2.lblPickupLocationCountry;Lunes
-Nodo1.Nodo2.Nodo2Step2.lblPickupLocationBCA;Martes
-Nodo1.Nodo2.Nodo2Step2.lblDestinationCountry;Miércoles
-Nodo1.Nodo2.Nodo2Step2.lblDestinationPostcodeRegion;Jueves
-Nodo1.Nodo2.Nodo2Step2.lblCalculationResult;Viernes
-Nodo1.Nodo2.Nodo2Step2.lblVehicleType;Sábado
-Nodo1.Nodo2.Nodo2Step2.lblNumber;Domingo
-Nodo1.Nodo2.Nodo2Step2.lblFee;Lunes
-Nodo1.Nodo2.Nodo2Step2.lblDeliveryDeliveryUpTo;Martes
-Nodo1.Nodo2.Nodo2Step2.lblBankWorkingDays;Miércoles
-Nodo1.Nodo2.Nodo2Step2.lblPerPassengerCar;Jueves
-Nodo1.Nodo2.Nodo2Step2.lblPerSUV;Viernes
-Nodo1.Nodo2.Nodo2Step2.lblPerLCV;Sábado
-Nodo1.Nodo2.Nodo2Step2.lblFullTruckLoad;Domingo
-Nodo1.Nodo2.Nodo2Step2.btnRequestThisTransport;Lunes
-Nodo1.Nodo2.Nodo2Step3.btnGoBack;Martes
-Nodo1.Nodo2.Nodo2Step3.lblRequestTransport;Miércoles
-Nodo1.Nodo2.Nodo2Step3.lblOverview;Jueves
-Nodo1.Nodo2.Nodo2Step3.lblInfoDetails;Viernes
-Nodo1.Nodo2.Nodo2Step3.lblMandatoryField;Sábado
-Nodo1.Nodo2.Nodo2Step3.btnOrderThisTransport;Domingo
-Nodo1.Nodo2.Nodo2Step3.btnAddVehicle;Lunes
-Nodo1.Nodo2.Nodo2Step3.lblContactEmail;Martes
-Nodo1.Nodo2.Nodo2Step3.lblVehicleVINPlateNo;Miércoles
-Nodo1.Nodo2.Nodo2Step3.lblRemarks;Jueves
-Nodo1.Nodo2.Nodo2Step3.lblDeliveryAddress;Viernes
-Nodo1.Nodo2.Nodo2Step3.lblErrorInvalidCharacters;Sábado
-Nodo1.Nodo2.Nodo2Step3.lblChooseFile;Domingo
-Nodo1.Nodo2.Nodo2Step3.lblEmptyList;Lunes
-Nodo1.Nodo2.Nodo2Step3.lblSelectedFiles;Martes
-Nodo1.Nodo2.Nodo2Step3.lblTransportType;Miércoles
-Nodo1.Nodo2.Nodo2Step3.lblOverviewVIN;Jueves
-Nodo1.Nodo2.Nodo2Step3.lblOverviewTransportType;Viernes
-Nodo1.Nodo2.Nodo2Step3.lblOverviewPrice;Sábado
-Nodo1.Nodo2.Nodo2Step3.lblOverviewDelete;Domingo
-Nodo1.Nodo2.Nodo2Step3.lblTotalVehicles;Lunes
-Nodo1.Nodo2.Nodo2Step3.lblTotalTransportPrice;Martes
-Nodo1.Nodo2.Nodo2Step3.lblMessageMinVehicle;Miércoles
-Nodo1.Nodo2.Nodo2Step3.lblMessageNumVehiclesMax;Jueves
-Nodo1.Nodo2.Nodo2Step4.btnOrderThisTransport;Viernes
-Nodo1.Nodo2.Nodo2Step4.lblPhoneNumber;Sábado
-Nodo1.Nodo2.Nodo2Step4.placeholderCity;Domingo
-Nodo1.Nodo2.Nodo2Step4.placeholderStreet;Lunes
-Nodo1.Nodo2.Nodo2Step4.placeholderPostalCode;Martes
-Nodo1.Nodo2.Nodo2Step4.placeholderCountry;Miércoles
-Nodo1.Nodo2.Nodo2Step4.CustomerNamelbl;Jueves
-Nodo1.Step1.Title;Viernes
-Nodo1.Step1.Local;Sábado
-Nodo1.Step1.International;Domingo
-Nodo1.Step1.InformationTextTitle;Lunes
-Nodo1.Step1.InformationText;Martes
-Nodo1.Step2.Title;Miércoles
-Nodo1.Step3.Title;Jueves
-Nodo1.Step4.Title;Viernes
-Nodo1.Step5.Title;Sábado
-Nodo1.Step5.LocalAddress;Domingo
-Nodo1.Step5.ZipCode;Lunes
-Nodo1.Step5.Address;Martes
-Nodo1.Step5.Address;Miércoles
-Nodo1.Step5.PassengerCar;Jueves
-Nodo1.Step5.Suv;Viernes
-Nodo1.Step5.Lcv;Sábado
-Nodo1.Step5.FullTruckLoad;Domingo
-Nodo1.Step5.ZipNumber;Lunes
-Nodo1.Step5.Region;Martes
-Nodo1.Step5.Calculate;Miércoles
-Nodo1.Step6.Title;Jueves
-Nodo1.Step6.DeliveryType;Viernes
-Nodo1.Step6.Country;Sábado
-Nodo1.Step6.Pick-upLocation;Domingo
-Nodo1.Step6.DestinationCountry;Lunes
-Nodo1.Step6.DestinationRegion;Martes
-Nodo1.Step6.Distance;Miércoles
-Nodo1.Step6.VehicleType;Jueves
-Nodo1.Step6.TotalPrice;Viernes
-Nodo1.Step6.EstimatedDeliveryDate;Sábado
-Nodo1.Nodo3.Nodo3,1.removeConfirmMessage;Domingo
-Nodo1.Nodo3.Nodo3,1.removeMessage;Lunes
-Nodo1.Nodo3.Nodo3,1.lblPricePassengerCar;Martes
-Nodo1.Nodo3.Nodo3,1.lblPriceSUV;Miércoles
-Nodo1.Nodo3.Nodo3,1.lblPriceLCV;Jueves
-Nodo1.Nodo3.Nodo3,1.lblPriceFullTruckLoad;Viernes
-Nodo1.Nodo3.Nodo3,1.lblSingleCarTransportationDay;Sábado
-Nodo1.Nodo3.Nodo3,1.lblFullLoadTransportationDay;Domingo
-Nodo1.Nodo3.Nodo3,1.lblPC;Lunes
-Nodo1.Nodo3.Nodo3,1.lblSUV;Martes
-Nodo1.Nodo3.Nodo3,1.lblLCV;Miércoles
-Nodo1.Nodo3.Nodo3,1.lblFTL;Jueves
-Nodo1.Nodo3.Nodo3,1.lblSingle;Viernes
-Nodo1.Nodo3.Nodo3,1.lblFull;Sábado
-Nodo1.Nodo3.Nodo3,1.successMessage;Domingo
-Nodo1.Nodo3.Nodo3,1.errorCodeMsg;Lunes
-Nodo1.Nodo3.Nodo3,1.lblDays;Martes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceNotFoundMessage;Miércoles
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageFrance;Jueves
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageItaly;Viernes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageGermany;Sábado
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessagePortugal;Domingo
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageDenmark;Lunes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSpain;Martes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageNetherlands;Miércoles
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSweeden;Jueves
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSweeden;Viernes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageCzechRepublic;Sábado
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageAustria;Domingo
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageHungary;Lunes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSlovenia;Martes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageCroatia;Miércoles
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageRomania;Jueves
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSlovakia;Viernes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageSwitzerland;Sábado
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageEstonia;Domingo
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageLatvia;Lunes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageLithuania;Martes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessagePoland;Miércoles
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageFinland;Jueves
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageLuxemburg;Viernes
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageNorway;Sábado
-Nodo1.Nodo3.Nodo3,1.Nodo1PriceFoundMessageBulgaria;Domingo
-Nodo1.Nodo3.Nodo3,1.CountryFrance;Lunes
-Nodo1.Nodo3.Nodo3,1.CountryItaly;Martes
-Nodo1.Nodo3.Nodo3,1.CountryGermany;Miércoles
-Nodo1.Nodo3.Nodo3,1.CountryPortugal;Jueves
-Nodo1.Nodo3.Nodo3,1.CountryDenmark;Viernes
-Nodo1.Nodo3.Nodo3,1.CountrySpain;Sábado
-Nodo1.Nodo3.Nodo3,1.CountryNetherlands;Domingo
-Nodo1.Nodo3.Nodo3,1.CountrySweden;Lunes
-Nodo1.Nodo3.Nodo3,1.CountryBelgium;Martes
-Nodo1.Nodo3.Nodo3,1.CountryCzechRepublic;Miércoles
-Nodo1.Nodo3.Nodo3,1.CountryAustria;Jueves
-Nodo1.Nodo3.Nodo3,1.CountryHungary;Viernes
-Nodo1.Nodo3.Nodo3,1.CountrySlovenia;Sábado
-Nodo1.Nodo3.Nodo3,1.CountryCroatia;Domingo
-Nodo1.Nodo3.Nodo3,1.CountryRomania;Lunes
-Nodo1.Nodo3.Nodo3,1.CountrySlovakia;Martes
-Nodo1.Nodo3.Nodo3,1.CountrySwitzerland;Miércoles
-Nodo1.Nodo3.Nodo3,1.CountryEstonia;Jueves
-Nodo1.Nodo3.Nodo3,1.CountryLatvia;Viernes
-Nodo1.Nodo3.Nodo3,1.CountryLithuania;Sábado
-Nodo1.Nodo3.Nodo3,1.CountryPoland;Domingo
-Nodo1.Nodo3.Nodo3,1.CountryFinland;Lunes
-Nodo1.Nodo3.Nodo3,1.CountryLuxemburg;Martes
-Nodo1.Nodo3.Nodo3,1.CountryNorway;Miércoles
-Nodo1.Nodo3.Nodo3,1.CountryBulgaria;Jueves
-Nodo1.Nodo3.Nodo3,1.successMailMessage;Viernes
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest1;Sábado
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest2;Domingo
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest3;Lunes
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest4;Martes
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest5;Miércoles
-Nodo1.Nodo3.Nodo3,1.LabelNameToOptionRequest6;Jueves
-Nodo1.Nodo3.Nodo3,1.EmailHeaderText;Viernes
-Nodo1.Nodo3.Nodo3,1.EmailFooterText;Sábado
-Nodo1.Nodo3.Nodo3,1.InternationalFileText;Domingo
-Nodo1.Nodo3.Nodo3,1.LocalFileText;Lunes
-Nodo1.Nodo3.Layout.Title;Martes
-Nodo1.Nodo3.Layout.Welcome;Miércoles
-Nodo1.Nodo3.Layout.lblCountry;Jueves
-Nodo1.Nodo3.Layout.btnCancel;Viernes
-Nodo1.Nodo3.Layout.btnSave;Sábado
-Nodo1.Nodo3.Layout.CountryUser;Domingo
-Nodo1.Nodo3.Layout.EtsUser;Lunes
-Nodo1.Nodo3.Layout.Nodo3User;Martes
-Nodo1.Nodo3.Layout.inputError;Miércoles
-Nodo1.Nodo3.Layout.inputErrorFormat;Jueves
-Nodo1.Nodo3.Layout.lblPrice;Viernes
-Nodo1.Nodo3.Login.lblUserLogin;Sábado
-Nodo1.Nodo3.Login.btnSignIn;Domingo
-Nodo1.Nodo3.Login.lblError;Lunes
-Nodo1.Nodo3.Dashboard.Title;Martes
-Nodo1.Nodo3.Dashboard.lblUserLogs;Miércoles
-Nodo1.Nodo3.Dashboard.lblLoadingData;Jueves
-Nodo1.Nodo3.Dashboard.lblDate;Viernes
-Nodo1.Nodo3.Dashboard.lblIP;Sábado
-Nodo1.Nodo3.Dashboard.lblType;Domingo
-Nodo1.Nodo3.Dashboard.lblCountryFrom;Lunes
-Nodo1.Nodo3.Dashboard.lblParkFrom;Martes
-Nodo1.Nodo3.Dashboard.lblZipCode;Miércoles
-Nodo1.Nodo3.Dashboard.lblDestinationCountry;Jueves
-Nodo1.Nodo3.UsersList.Title;Viernes
-Nodo1.Nodo3.UsersList.Info;Sábado
-Nodo1.Nodo3.UsersList.AddNewUser;Domingo
-Nodo1.Nodo3.UsersList.Active;Lunes
-Nodo1.Nodo3.UsersList.NotActive;Martes
-Nodo1.Nodo3.UsersList.UserRegion;Miércoles
-Nodo1.Nodo3.UsersEdit.Title;Jueves
-Nodo1.Nodo3.UsersEdit.Info;Viernes
-Nodo1.Nodo3.UsersEdit.Name;Sábado
-Nodo1.Nodo3.UsersEdit.Surname;Domingo
-Nodo1.Nodo3.UsersEdit.UserName;Lunes
-Nodo1.Nodo3.UsersEdit.Email;Martes
-Nodo1.Nodo3.UsersEdit.DefaultLanguage;Miércoles
-Nodo1.Nodo3.UsersEdit.Role;Jueves
-Nodo1.Nodo3.UsersEdit.SaveUser;Viernes
-Nodo1.Nodo3.UsersEdit.SendPasswordByEmail;Sábado
-Nodo1.Nodo3.UsersEdit.DesactiveUser;Domingo
-Nodo1.Nodo3.UsersEdit.ActiveUser;Lunes
-Nodo1.Nodo3.UsersEdit.desactiveMessage;Martes
-Nodo1.Nodo3.UsersEdit.activeMessage;Miércoles
-Nodo1.Nodo3.UsersEdit.emailSentMessage;Jueves
-Nodo1.Nodo3.RightMenu.lblMyCountry;Viernes
-Nodo1.Nodo3.RightMenu.lblMyEmail;Sábado
-Nodo1.Nodo3.RightMenu.imgFlag;Domingo
-Nodo1.Nodo3.RightMenu.Title1;Lunes
-Nodo1.Nodo3.RightMenu.lblLanguageName;Martes
-Nodo1.Nodo3.RightMenu.Dashboard;Miércoles
-Nodo1.Nodo3.RightMenu.Title2-Nodo3User;Jueves
-Nodo1.Nodo3.RightMenu.Title2-ETSUser;Viernes
-Nodo1.Nodo3.RightMenu.Title2-UserCountry;Sábado
-Nodo1.Nodo3.RightMenu.LocalRegionsNodo3istrator;Domingo
-Nodo1.Nodo3.RightMenu.RegionsNodo3istrator;Lunes
-Nodo1.Nodo3.RightMenu.ImportRegionsNodo3istrator;Martes
-Nodo1.Nodo3.RightMenu.PriceListNodo3istratorInternational;Miércoles
-Nodo1.Nodo3.RightMenu.PriceListNodo3istratorLocal;Jueves
-Nodo1.Nodo3.RightMenu.LocalPriceListNodo3istrator;Viernes
-Nodo1.Nodo3.RightMenu.ImportPriceListNodo3istrator;Sábado
-Nodo1.Nodo3.RightMenu.ImportLocalPrices;Domingo
-Nodo1.Nodo3.RightMenu.CountryConfiguration;Lunes
-Nodo1.Nodo3.RightMenu.CompoundConfiguration;Martes
-Nodo1.Nodo3.RightMenu.UsersNodo3istrator;Miércoles
-Nodo1.Nodo3.RightMenu.ResourceNodo3istrator;Jueves
-Nodo1.Nodo3.RightMenu.ImportFileToCalculatePrices;Viernes
-Nodo1.Nodo3.RightMenu.UserLogsNodo3istrator;Sábado
-Nodo1.Nodo3.RightMenu.Title3;Domingo
-Nodo1.Nodo3.RightMenu.EditMyUser;Lunes
-Nodo1.Nodo3.RightMenu.LogOff;Martes
-Nodo1.Nodo3.RegionEdit.Title;Miércoles
-Nodo1.Nodo3.RegionEdit.Info;Jueves
-Nodo1.Nodo3.RegionEdit.lblCode;Viernes
-Nodo1.Nodo3.RegionEdit.lblName;Sábado
-Nodo1.Nodo3.RegionEdit.btnSaveRegion;Domingo
-Nodo1.Nodo3.RegionEdit.btnDesactiveRegion;Lunes
-Nodo1.Nodo3.RegionEdit.btnActiveRegion;Martes
-Nodo1.Nodo3.RegionEdit.regionCodeAlreadyExistMessage;Miércoles
-Nodo1.Nodo3.RegionEdit.desactivateMessage;Jueves
-Nodo1.Nodo3.RegionEdit.activateMessage;Viernes
-Nodo1.Nodo3.RegionEdit.lblOriginCountryName;Sábado
-Nodo1.Nodo3.RegionEdit.lblDestinyCountryName;Domingo
-Nodo1.Nodo3.RegionEdit.dliAllCountries;Lunes
-Nodo1.Nodo3.RegionList.TitleInternational;Martes
-Nodo1.Nodo3.RegionList.TitleLocal;Miércoles
-Nodo1.Nodo3.RegionList.InfoLocal;Jueves
-Nodo1.Nodo3.RegionList.InfoInternational;Viernes
-Nodo1.Nodo3.RegionList.dliCountries;Sábado
-Nodo1.Nodo3.RegionList.lblNewRegion;Domingo
-Nodo1.Nodo3.RegionZipCodes.Title;Lunes
-Nodo1.Nodo3.RegionZipCodes.lblAddNewZP;Martes
-Nodo1.Nodo3.RegionZipCodes.inputError;Miércoles
-Nodo1.Nodo3.RegionZipCodes.iconDelete;Jueves
-Nodo1.Nodo3.RegionZipCodes.deleteMessage;Viernes
-Nodo1.Nodo3.RegionZipCodes.errorMessage;Sábado
-Nodo1.Nodo3.RegionZipCodes.validationMessage;Domingo
-Nodo1.Nodo3.ImportPricesList.Title;Lunes
-Nodo1.Nodo3.ImportPricesList.lblSelectRegionToImport;Martes
-Nodo1.Nodo3.ImportPricesList.dliInternational;Miércoles
-Nodo1.Nodo3.ImportPricesList.dliLocal;Jueves
-Nodo1.Nodo3.ImportPricesList.lblDownloadTemplate;Viernes
-Nodo1.Nodo3.ImportPricesList.btnDownload;Sábado
-Nodo1.Nodo3.ImportPricesList.lblSelectDestinityCountry;Domingo
-Nodo1.Nodo3.ImportPricesList.dliSelectDestinityCountry;Lunes
-Nodo1.Nodo3.ImportPricesList.lblCountry;Martes
-Nodo1.Nodo3.ImportPricesList.lblBcaPark;Miércoles
-Nodo1.Nodo3.ImportPricesList.lblSelectFilledTemplate;Jueves
-Nodo1.Nodo3.ImportPricesList.btnAnalize;Viernes
-Nodo1.Nodo3.ImportPricesList.lblAnalysisResult;Sábado
-Nodo1.Nodo3.ImportPricesList.lblResultsSuccess1;Domingo
-Nodo1.Nodo3.ImportPricesList.lblResultsSuccess2;Lunes
-Nodo1.Nodo3.ImportPricesList.lblResultsErrorImportTemplate;Martes
-Nodo1.Nodo3.ImportPricesList.lblResultsErrorAnalizeFile;Miércoles
-Nodo1.Nodo3.ImportPricesList.lblBadLine;Jueves
-Nodo1.Nodo3.ImportPricesList.COMPOUND_NOT_FOUND;Viernes
-Nodo1.Nodo3.ImportPricesList.REGION_NOT_FOUND;Sábado
-Nodo1.Nodo3.ImportPricesList.FORMAT_NOT_VALID;Domingo
-Nodo1.Nodo3.ImportPricesList.btnImport;Lunes
-Nodo1.Nodo3.ImportPricesList.lblResultsImport;Martes
-Nodo1.Nodo3.ImportPricesList.lblResultSuccess1;Miércoles
-Nodo1.Nodo3.ImportPricesList.lblResultSuccess2;Jueves
-Nodo1.Nodo3.ImportPricesList.lblErrorImportTemplateInLines;Viernes
-Nodo1.Nodo3.ImportLocalPricesList.Title;Sábado
-Nodo1.Nodo3.FillFileWithPrices.dliSelectTemplate;Domingo
-Nodo1.Nodo3.FillFileWithPrices.Title;Lunes
-Nodo1.Nodo3.FillFileWithPrices.InputsTitle;Martes
-Nodo1.Nodo3.FillFileWithPrices.lblInputsInfo;Miércoles
-Nodo1.Nodo3.FillFileWithPrices.OutputsTitle;Jueves
-Nodo1.Nodo3.FillFileWithPrices.lblOutputsInfo;Viernes
-Nodo1.Nodo3.FillFileWithPrices.lblOutputsErrorRow;Sábado
-Nodo1.Nodo3.FillFileWithPrices.btnCreateNew;Domingo
-Nodo1.Nodo3.FillFileWithPrices.lblTemplateName;Lunes
-Nodo1.Nodo3.FillFileWithPrices.lblPickUpCountryCode;Martes
-Nodo1.Nodo3.FillFileWithPrices.lblPickUpCompoundCode;Miércoles
-Nodo1.Nodo3.FillFileWithPrices.lblDeliveryCountryCode;Jueves
-Nodo1.Nodo3.FillFileWithPrices.lblDeliveryPostcode;Viernes
-Nodo1.Nodo3.FillFileWithPrices.lblVehicleType;Sábado
-Nodo1.Nodo3.FillFileWithPrices.lblResultPrice;Domingo
-Nodo1.Nodo3.FillFileWithPrices.lblResultLeadTime;Lunes
-Nodo1.Nodo3.FillFileWithPrices.bntSaveTemplate;Martes
-Nodo1.Nodo3.FillFileWithPrices.bntRemoveTemplate;Miércoles
-Nodo1.Nodo3.FillFileWithPrices.bntFillPrices;Jueves
-Nodo1.Nodo3.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Viernes
-Nodo1.Nodo3.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;Sábado
-Nodo1.Nodo3.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;Domingo
-Nodo1.Nodo3.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Lunes
-Nodo1.Nodo3.PricesList.Container.Title;Martes
-Nodo1.Nodo3.PricesList.BcaBranchList.Title;Miércoles
-Nodo1.Nodo3.PricesList.CountryList.Title;Jueves
-Nodo1.Nodo3.PricesList.DestinityCountryList.Title;Viernes
-Nodo1.Nodo3.PricesList.DestinityRegionList.Title;Sábado
-Nodo1.Nodo3.PricesList.DestinityRegionList.lblCode;Domingo
-Nodo1.Nodo3.PricesList.DestinityRegionList.lblRegion;Lunes
-Nodo1.Nodo3.PricesList.DestinityRegionList.lblOriginCountry;Martes
-Nodo1.Nodo3.PricesList.PriceListEdit.Title;Miércoles
-Nodo1.Nodo3.PricesList.PriceListEdit.lblInfo;Jueves
-Nodo1.Nodo3.PricesList.PriceListEdit.lblEstimatedTime;Viernes
-Nodo1.Nodo3.PricesListLocal.Container.Title;Sábado
-Nodo1.Nodo3.PricesListLocal.CountryListLocal.Title;Domingo
-Nodo1.Nodo3.PricesListLocal.PricesListLocalEdit.Title;Lunes
-Nodo1.Nodo3.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Martes
-Nodo1.Nodo3.PricesListLocal.PricesListLocalEdit.lblUpToKm;Miércoles
-Nodo1.Nodo3.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Jueves
-Nodo1.Nodo3.PricesListLocal.PricesListLocalEdit.btnDelete;Viernes
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.Title;Sábado
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.lblUpToKm;Domingo
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.lblNewLog;Lunes
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.lblUpTo;Martes
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.lblKm;Miércoles
-Nodo1.Nodo3.PricesListLocal.PriceListLocalList.lblKm;Jueves
-Nodo1.Nodo3.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Viernes
-Nodo1.Nodo3.Country.CountryContainer.Title;Sábado
-Nodo1.Nodo3.Country.CountryEdit.lblInfo;Domingo
-Nodo1.Nodo3.Country.CountryEdit.lblCountryName;Lunes
-Nodo1.Nodo3.Country.CountryEdit.lblOriginCountry;Martes
-Nodo1.Nodo3.Country.CountryEdit.lblDestinityCountry;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.lblZipCodeLongitudeValidation;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblResourceKey;Viernes
-Nodo1.Nodo3.Country.CountryEdit.iconWarning;Sábado
-Nodo1.Nodo3.Country.CountryEdit.lblLocalTransportType;Domingo
-Nodo1.Nodo3.Country.CountryEdit.dliRegion;Lunes
-Nodo1.Nodo3.Country.CountryEdit.dliKm;Martes
-Nodo1.Nodo3.Country.CountryEdit.iconInfoSearchRegion;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.lblZipCode;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblMandatoryTransportation;Viernes
-Nodo1.Nodo3.Country.CountryEdit.dliOrlblYes;Sábado
-Nodo1.Nodo3.Country.CountryEdit.dliOrlblNo;Domingo
-Nodo1.Nodo3.Country.CountryEdit.lblMandatoryTransportationMessage;Lunes
-Nodo1.Nodo3.Country.CountryEdit.lblNonMandatoryTransportationMessage;Martes
-Nodo1.Nodo3.Country.CountryEdit.btnSaveCountry;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.warningMessage;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblZipPlaceholder;Viernes
-Nodo1.Nodo3.Country.CountryEdit.lblMoneySymbolNational;Sábado
-Nodo1.Nodo3.Country.CountryEdit.lblMoneySymbolInternational;Domingo
-Nodo1.Nodo3.Country.CountryEdit.lblInternationalTransportActive;Lunes
-Nodo1.Nodo3.Country.CountryEdit.lblLocalTransportActive;Martes
-Nodo1.Nodo3.Country.CountryEdit.lblTransportRequestActive;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblEmailsToRequestLocalTransport;Viernes
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest1;Sábado
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest2;Domingo
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest3;Lunes
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest4;Martes
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest5;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.lblShowFieldOptionRequest6;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest1;Viernes
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest2;Sábado
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest3;Domingo
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest4;Lunes
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest5;Martes
-Nodo1.Nodo3.Country.CountryEdit.lblIsMandatoryOptionRequest6;Miércoles
-Nodo1.Nodo3.Country.CountryEdit.lblTitleRequestTransport;Jueves
-Nodo1.Nodo3.Country.CountryEdit.lblInfoRequestTransport;Viernes
-Nodo1.Nodo3.Country.CountryEdit.lblInputFileOption;Sábado
-Nodo1.Nodo3.Country.CountryList.Title;Domingo
-Nodo1.Nodo3.Country.CountryList.lblInfo;Lunes
-Nodo1.Nodo3.Resources.Container.lblResourceManager;Martes
-Nodo1.Nodo3.Resources.LanguageList.lblSelectLanguage;Miércoles
-Nodo1.Nodo3.Resources.ResourceEdit.lblWriteAddress;Jueves
-Nodo1.Nodo3.Resources.ResourceEdit.btnSaveResource;Viernes
-Nodo1.Nodo3.Resources.ResourceList.lblSelectResource;Sábado
-Nodo1.Nodo3.CompoundEdit.Title;Domingo
-Nodo1.Nodo3.CompoundEdit.Info;Lunes
-Nodo1.Nodo3.CompoundEdit.lblAddress;Martes
-Nodo1.Nodo3.CompoundEdit.lblInternationalAddress;Miércoles
-Nodo1.Nodo3.CompoundEdit.lblLocalActive;Jueves
-Nodo1.Nodo3.CompoundEdit.lblCoordsX;Viernes
-Nodo1.Nodo3.CompoundEdit.lblCoordsY;Sábado
-Nodo1.Nodo3.CompoundEdit.btnSaveCompound;Domingo
-Nodo1.Nodo3.CompoundEdit.btnDeleteCompound;Lunes
-Nodo1.Nodo3.CompoundEdit.btnLocateCompound;Martes
-Nodo1.Nodo3.CompoundEdit.locateMessage;Miércoles
-Nodo1.Nodo3.CompoundConfiguration.Title;Jueves
-Nodo1.Nodo3.CompoundConfiguration.Info;Viernes
-Nodo1.Nodo3.CompoundConfiguration.btnNewCompound;Sábado
+Calculator.Title;Calculadora de transporte
+Calculator.StartAgain;empezar de nuevo
+Calculator.Basic.BasicContainer.lblTransportCalculator;Calculadora de transporte
+Calculator.Basic.BasicStep1.lblTransportationType;Seleccionar Tipo Transporte
+Calculator.Basic.BasicStep1.btnNational;Nacional
+Calculator.Basic.BasicStep1.btnInternational;Internacional
+Calculator.Basic.BasicStep1.lblPick-upLocation;Seleccione Ubicación Recogida
+Calculator.Basic.BasicStep1.lblCountryPick-upLocation;Por favor seleccione ubicación de recogida (País)
+Calculator.Basic.BasicStep1.dliSelect;-- Seleccionar --
+Calculator.Basic.BasicStep1.lblErrorLoadingCountry;Debe seleccionar un país de carga
+Calculator.Basic.BasicStep1.lblBCAPick-upLocation;Por favor seleccione ubicación de recogida (BCA)
+Calculator.Basic.BasicStep1.lblErrorCompound;Debe seleccionar un lugar de recogida
+Calculator.Basic.BasicStep1.lblSelectDeliveryLocation;Seleccione Ubicación Entrega
+Calculator.Basic.BasicStep1.lblSelectDestinationCountry;Por favor seleccione el país de destino
+Calculator.Basic.BasicStep1.lblErrorDestinationCountry;Debe seleccionar un país de destino
+Calculator.Basic.BasicStep1.lblZipCodeDestination;Por favor ingrese el código postal de destino
+Calculator.Basic.BasicStep1.lblErrorZipCode;Debe escribir un código postal válido
+Calculator.Basic.BasicStep1.btnCalculate;Calcular
+Calculator.Basic.BasicStep2.btnGoBack;Regresar
+Calculator.Basic.BasicStep2.lblDataSelected;Datos Seleccionados para el Cálculo
+Calculator.Basic.BasicStep2.lblTransportationType;Tipo de transporte
+Calculator.Basic.BasicStep2.lblPickupLocationCountry;Lugar de recogida (País)
+Calculator.Basic.BasicStep2.lblPickupLocationBCA;Lugar de recogida (BCA)
+Calculator.Basic.BasicStep2.lblDestinationCountry;País de destino
+Calculator.Basic.BasicStep2.lblDestinationPostcodeRegion;Código postal/región de destino
+Calculator.Basic.BasicStep2.lblCalculationResult;Resultado del Cálculo
+Calculator.Basic.BasicStep2.lblVehicleType;Tipo de Vehículo
+Calculator.Basic.BasicStep2.lblNumber;Número
+Calculator.Basic.BasicStep2.lblFee;Cuota
+Calculator.Basic.BasicStep2.lblDeliveryDeliveryUpTo;Entrega hasta
+Calculator.Basic.BasicStep2.lblBankWorkingDays;(días hábiles bancarios)
+Calculator.Basic.BasicStep2.lblPerPassengerCar;Por Turismo                                     
+Calculator.Basic.BasicStep2.lblPerSUV;Por TT, Mnv. o industrial                  
+Calculator.Basic.BasicStep2.lblPerLCV;Por Furgón                                      
+Calculator.Basic.BasicStep2.lblFullTruckLoad;Camión completo                            
+Calculator.Basic.BasicStep2.btnRequestThisTransport;Solicitar este Transporte
+Calculator.Basic.BasicStep3.btnGoBack;Regresar
+Calculator.Basic.BasicStep3.lblRequestTransport;Solicitar Transporte
+Calculator.Basic.BasicStep3.lblOverview;Resumen
+Calculator.Basic.BasicStep3.lblInfoDetails;Para solicitar el transporte, proporcione sus datos de contacto y envíenos los detalles. Si toda la información proporcionada es correcta, le enviaremos la factura. Si falta alguna información, nos pondremos en contacto con usted.
+Calculator.Basic.BasicStep3.lblMandatoryField;Campo Obligatorio
+Calculator.Basic.BasicStep3.btnOrderThisTransport;Completar el Transporte
+Calculator.Basic.BasicStep3.btnAddVehicle;Añadir Vehículo
+Calculator.Basic.BasicStep3.lblContactEmail;Email de Contacto
+Calculator.Basic.BasicStep3.lblVehicleVINPlateNo;Vehicle VIN / Matrícula
+Calculator.Basic.BasicStep3.lblRemarks;Comentarios
+Calculator.Basic.BasicStep3.lblDeliveryAddress;Dirección de entrega
+Calculator.Basic.BasicStep3.lblErrorInvalidCharacters;Carácteres Inválidos
+Calculator.Basic.BasicStep3.lblChooseFile;Elegir Archivo...
+Calculator.Basic.BasicStep3.lblEmptyList;Lista Vacía
+Calculator.Basic.BasicStep3.lblSelectedFiles;Archivos Seleccionados
+Calculator.Basic.BasicStep3.lblTransportType;Tipo de Transporte
+Calculator.Basic.BasicStep3.lblOverviewVIN;VIN / Matrícula
+Calculator.Basic.BasicStep3.lblOverviewTransportType;Tipo
+Calculator.Basic.BasicStep3.lblOverviewPrice;Precio
+Calculator.Basic.BasicStep3.lblOverviewDelete;Borrar
+Calculator.Basic.BasicStep3.lblTotalVehicles;Vehiculos
+Calculator.Basic.BasicStep3.lblTotalTransportPrice;Precio Transporte
+Calculator.Basic.BasicStep3.lblMessageMinVehicle;Debe añadir un vehiculo como minimo
+Calculator.Basic.BasicStep3.lblMessageNumVehiclesMax;Solo se pueden añadir 8 vehiculos
+Calculator.Basic.BasicStep4.btnOrderThisTransport;Pedir el transporte
+Calculator.Basic.BasicStep4.lblPhoneNumber;Teléfono
+Calculator.Basic.BasicStep4.placeholderCity;Ciudad
+Calculator.Basic.BasicStep4.placeholderStreet;Calle
+Calculator.Basic.BasicStep4.placeholderPostalCode;C.P.
+Calculator.Basic.BasicStep4.placeholderCountry;Pais
+Calculator.Basic.BasicStep4.CustomerNamelbl;Nombre de vendedor
+Calculator.Step1.Title;PASO 1 - SELECCIONE TIPO DE TRANSPORTE
+Calculator.Step1.Local;LOCAL
+Calculator.Step1.International;INTERNACIONAL
+Calculator.Step1.InformationTextTitle;Información:
+Calculator.Step1.InformationText;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.
+Calculator.Step2.Title;PASO 2 - SELECCIONE PAIS BCA
+Calculator.Step3.Title;PASO 3 - SELECCIONE LA UBICACIÓN DE RECOGIDA EN FRANCIA
+Calculator.Step4.Title;PASO 4 - SELECCIONE EL PAÍS DE DESTINO
+Calculator.Step5.Title;PASO 5 - CONFIGURAR LA UBICACIÓN DE ENTREGA EN FRANCIA
+Calculator.Step5.LocalAddress;DIRECCIÓN LOCAL
+Calculator.Step5.ZipCode;CÓDIGO POSTAL
+Calculator.Step5.Address;DIRECCIÓN
+Calculator.Step5.VehicleType;TIPO DE VEHÍCULO
+Calculator.Step5.PassengerCar;Coche de Pasajeros
+Calculator.Step5.Suv;SUV
+Calculator.Step5.Lcv;LCV
+Calculator.Step5.FullTruckLoad;Full Truck Load
+Calculator.Step5.ZipNumber;NÚMERO POSTAL
+Calculator.Step5.Region;REGIÓN
+Calculator.Step5.Calculate;CALCULAR
+Calculator.Step6.Title;PASO FINAL - RESULTADO
+Calculator.Step6.DeliveryType;Tipo de Entrega:
+Calculator.Step6.Country;País:
+Calculator.Step6.Pick-upLocation;Lugar de Recogida:
+Calculator.Step6.DestinationCountry;País de Destino:
+Calculator.Step6.DestinationRegion;Región de Destino:
+Calculator.Step6.Distance;Distancia:
+Calculator.Step6.VehicleType;Tipo de Vehículo:
+Calculator.Step6.TotalPrice;Precio Total:
+Calculator.Step6.EstimatedDeliveryDate;Fecha Estimada de Entrega:
+Admin.Common.removeConfirmMessage;¿Desea eliminar el registro?
+Admin.Common.removeMessage;Eliminado correctamente
+Admin.Common.lblPricePassengerCar;Precio Turismo
+Admin.Common.lblPriceSUV;Precio Todo terreno o industrial
+Admin.Common.lblPriceLCV;Precio Furgón
+Admin.Common.lblPriceFullTruckLoad;Precio Camión Completo
+Admin.Common.lblSingleCarTransportationDay;Días Transporte Vehículo Único
+Admin.Common.lblFullLoadTransportationDay;Días Transporte Camión Completo
+Admin.Common.lblPC;Turismo
+Admin.Common.lblSUV;Todo terreno o industrial
+Admin.Common.lblLCV;Furgón
+Admin.Common.lblFTL;Camión completo
+Admin.Common.lblSingle;Individual
+Admin.Common.lblFull;Completo
+Admin.Common.successMessage;Los datos se han guardado correctamente
+Admin.Common.errorCodeMsg;El codigo introducido ya existe
+Admin.Common.lblDays;dias
+Admin.Common.CalculatorPriceNotFoundMessage;Mensaje para el precio no encontrado
+Admin.Common.CalculatorPriceFoundMessageFrance;Mensaje para el precio encontrado - Francia
+Admin.Common.CalculatorPriceFoundMessageItaly;Mensaje para el precio encontrado - Italia
+Admin.Common.CalculatorPriceFoundMessageGermany;Mensaje para el precio encontrado - Alemania
+Admin.Common.CalculatorPriceFoundMessagePortugal;Mensaje para el precio encontrado - Portugal
+Admin.Common.CalculatorPriceFoundMessageDenmark;Mensaje para el precio encontrado - Dinamarca
+Admin.Common.CalculatorPriceFoundMessageSpain;Mensaje para el precio encontrado - España
+Admin.Common.CalculatorPriceFoundMessageNetherlands;Mensaje para el precio encontrado - Paises Bajos
+Admin.Common.CalculatorPriceFoundMessageSweden;Mensaje para el precio encontrado - Suecia
+Admin.Common.CalculatorPriceFoundMessageBelgium;Mensaje para el precio encontrado - Bélgica
+Admin.Common.CalculatorPriceFoundMessageCzechRepublic;Mensaje para el precio encontrado - República Checa
+Admin.Common.CalculatorPriceFoundMessageAustria;Mensaje para el precio encontrado - Austria
+Admin.Common.CalculatorPriceFoundMessageHungary;Mensaje para el precio encontrado - Hungría
+Admin.Common.CalculatorPriceFoundMessageSlovenia;Mensaje para el precio encontrado - Eslovenia
+Admin.Common.CalculatorPriceFoundMessageCroatia;Mensaje para el precio encontrado - Croacia
+Admin.Common.CalculatorPriceFoundMessageRomania;Mensaje para el precio encontrado - Rumania
+Admin.Common.CalculatorPriceFoundMessageSlovakia;Mensaje para el precio encontrado - Eslovaquia
+Admin.Common.CalculatorPriceFoundMessageSwitzerland;Mensaje para el precio encontrado - Suiza
+Admin.Common.CalculatorPriceFoundMessageEstonia;Mensaje para el precio encontrado - Estonia
+Admin.Common.CalculatorPriceFoundMessageLatvia;Mensaje para el precio encontrado - Letonia
+Admin.Common.CalculatorPriceFoundMessageLithuania;Mensaje para el precio encontrado - Lituania
+Admin.Common.CalculatorPriceFoundMessagePoland;Mensaje para el precio encontrado - Polonia
+Admin.Common.CalculatorPriceFoundMessageFinland;Mensaje para el precio encontrado - Finlandia
+Admin.Common.CalculatorPriceFoundMessageLuxemburg;Mensaje para el precio encontrado - Luxemburgo
+Admin.Common.CalculatorPriceFoundMessageNorway;Mensaje para el precio encontrado - Noruega
+Admin.Common.CalculatorPriceFoundMessageBulgaria;Mensaje para el precio encontrado - Bulgaria
+Admin.Common.CountryFrance;Francia
+Admin.Common.CountryItaly;Italia
+Admin.Common.CountryGermany;Alemania
+Admin.Common.CountryPortugal;Portugal
+Admin.Common.CountryDenmark;Dinamarca
+Admin.Common.CountrySpain;España
+Admin.Common.CountryNetherlands;Países Bajos
+Admin.Common.CountrySweden;Suecia
+Admin.Common.CountryBelgium;Bélgica
+Admin.Common.CountryCzechRepublic;República Checa
+Admin.Common.CountryAustria;Austria
+Admin.Common.CountryHungary;Hungría
+Admin.Common.CountrySlovenia;Eslovenia
+Admin.Common.CountryCroatia;Croacia
+Admin.Common.CountryRomania;Rumania
+Admin.Common.CountrySlovakia;Eslovaquia
+Admin.Common.CountrySwitzerland;Suiza
+Admin.Common.CountryEstonia;Estonia
+Admin.Common.CountryLatvia;Letonia
+Admin.Common.CountryLithuania;Lituania
+Admin.Common.CountryPoland;Polonia
+Admin.Common.CountryFinland;Finlandia
+Admin.Common.CountryLuxemburg;Luxemburgo
+Admin.Common.CountryNorway;Noruega
+Admin.Common.CountryBulgaria;Bulgaria
+Admin.Common.successMailMessage;El correo ha sido enviado
+Admin.Common.LabelNameToOptionRequest1;Nombre de opciones para petición de transporte 1
+Admin.Common.LabelNameToOptionRequest2;Nombre de opciones para petición de transporte 2
+Admin.Common.LabelNameToOptionRequest3;Nombre de opciones para petición de transporte 3
+Admin.Common.LabelNameToOptionRequest4;Nombre de opciones para petición de transporte 4
+Admin.Common.LabelNameToOptionRequest5;Nombre de opciones para petición de transporte 5
+Admin.Common.LabelNameToOptionRequest6;Nombre de opciones para petición de transporte 6
+Admin.Common.EmailHeaderText;Texto para el encabezado del email
+Admin.Common.EmailFooterText;Texto para el pie de página del email
+Admin.Common.InternationalFileText;Texto para Petición de Documentos de Transporte Internacional
+Admin.Common.LocalFileText;Texto para Petición de Documentos de Transporte Local
+Admin.Layout.Title;ETC - ADMINISTRADOR <br /> <span>European Transport Calculator</span>
+Admin.Layout.Welcome;Bienvenido<br />
+Admin.Layout.lblCountry;País
+Admin.Layout.btnCancel;Cancelar
+Admin.Layout.btnSave;Guardar
+Admin.Layout.CountryUser;Usuario País
+Admin.Layout.EtsUser;Usuario ETS
+Admin.Layout.AdminUser;Usuario Admin
+Admin.Layout.inputError;Este campo es obligatorio
+Admin.Layout.inputErrorFormat;Formato no válido.
+Admin.Layout.lblPrice;Precio
+Admin.Login.lblUserLogin;INICIO DE SESIÓN DE USUARIO
+Admin.Login.btnSignIn;Registrarse
+Admin.Login.lblError;Su nombre de usuario o contraseña es incorrecto.
+Admin.Dashboard.Title;Bienvenido a ETC - Panel de Administración
+Admin.Dashboard.lblUserLogs;Últimos 30 Presupuestos Calculados
+Admin.Dashboard.lblLoadingData;Cargando Datos...
+Admin.Dashboard.lblDate;Fecha
+Admin.Dashboard.lblIP;IP
+Admin.Dashboard.lblType;Tipo
+Admin.Dashboard.lblCountryFrom;País Desde
+Admin.Dashboard.lblParkFrom;Parque Desde
+Admin.Dashboard.lblZipCode;Código Postal
+Admin.Dashboard.lblDestinationCountry;País Destino
+Admin.UsersList.Title;Usuarios
+Admin.UsersList.Info;(Activo / Rol de Usuario / País / Inicio de Sesión de Usuario / Último Inicio de Sesión)
+Admin.UsersList.AddNewUser;Agregar Nuevo Usuario
+Admin.UsersList.Active;Activo
+Admin.UsersList.NotActive;No Activo
+Admin.UsersList.UserRegion;Región del Usuario
+Admin.UsersEdit.Title;Edición de Usuario
+Admin.UsersEdit.Info;Complete todos los campos para crear o editar un usuario
+Admin.UsersEdit.Name;Nombre
+Admin.UsersEdit.Surname;Apellido
+Admin.UsersEdit.UserName;Nombre de Usuario para Iniciar Sesión
+Admin.UsersEdit.Email;Email
+Admin.UsersEdit.DefaultLanguage;Idioma predeterminado
+Admin.UsersEdit.Role;Rol
+Admin.UsersEdit.SaveUser;Guardar Usuario
+Admin.UsersEdit.SendPasswordByEmail;Enviar Contraseña por Email
+Admin.UsersEdit.DesactiveUser;Desactivar Usuario
+Admin.UsersEdit.ActiveUser;Activar Usuario
+Admin.UsersEdit.desactiveMessage;El usuario se ha desactivado
+Admin.UsersEdit.activeMessage;El usuario se ha activado
+Admin.UsersEdit.emailSentMessage;Se ha enviado el correo con éxito
+Admin.RightMenu.lblMyCountry;Mi País
+Admin.RightMenu.lblMyEmail;Mi Email
+Admin.RightMenu.imgFlag;"<img src=""/assets/images/flags/flag_es.png"" />"
+Admin.RightMenu.Title1;General
+Admin.RightMenu.lblLanguageName;Spanish
+Admin.RightMenu.Dashboard;Dashboard
+Admin.RightMenu.MassCalculationByExcel;Excel Cálculo de Peso
+Admin.RightMenu.Title2-AdminUser;Menú de Usuarios Administradores
+Admin.RightMenu.Title2-ETSUser;Menú de Usuarios ETS
+Admin.RightMenu.Title2-UserCountry;Menú de Usuarios País
+Admin.RightMenu.LocalRegionsAdministrator;Regiones Locales
+Admin.RightMenu.RegionsAdministrator;Regiones Internacionales
+Admin.RightMenu.ImportRegionsAdministrator;Importación de Regiones
+Admin.RightMenu.PriceListAdministratorInternational;Lista de Precios por Regiones Inter.
+Admin.RightMenu.PriceListAdministratorLocal;Lista de Precios por Regiones Local
+Admin.RightMenu.LocalPriceListAdministrator;Lista de Precios por Km Local
+Admin.RightMenu.ImportPriceListAdministrator;Importar Lista de Precios Por Region
+Admin.RightMenu.ImportLocalPrices;Importar Lista de Precios Por Km
+Admin.RightMenu.CountryConfiguration;Configuración de Paises
+Admin.RightMenu.CompoundConfiguration;Configuración de Campas
+Admin.RightMenu.UsersAdministrator;Usuarios
+Admin.RightMenu.ResourceAdministrator;Administrador de Recursos
+Admin.RightMenu.ImportFileToCalculatePrices;Calcular Precios por Plantilla
+Admin.RightMenu.UserLogsAdministrator;Registros de usuario
+Admin.RightMenu.Title3;Usuario
+Admin.RightMenu.EditMyUser;Editar Mi Usuario
+Admin.RightMenu.LogOff;Desconectarse
+Admin.RegionEdit.Title;Edición de Región
+Admin.RegionEdit.Info;Complete todos los campos para crear o editar una región
+Admin.RegionEdit.lblCode;Código
+Admin.RegionEdit.lblName;Nombre
+Admin.RegionEdit.btnSaveRegion;Guardar Región
+Admin.RegionEdit.btnDesactiveRegion;Desactivar Región
+Admin.RegionEdit.btnActiveRegion;Activar Región
+Admin.RegionEdit.regionCodeAlreadyExistMessage;Ya existe una región con ese código
+Admin.RegionEdit.desactivateMessage;La región se ha desactivado
+Admin.RegionEdit.activateMessage;La región se ha activado
+Admin.RegionEdit.lblOriginCountryName;País Origen
+Admin.RegionEdit.lblDestinyCountryName;País Destino
+Admin.RegionEdit.dliAllCountries;Todos los Paises
+Admin.RegionList.TitleInternational;Regiones Internacionales
+Admin.RegionList.TitleLocal;Regiones Locales
+Admin.RegionList.InfoLocal;(Activo / País / Código / Nombre)
+Admin.RegionList.InfoInternational;(Activo / País Origen / País Destino / Código / Nombre)
+Admin.RegionList.dliCountries;-- Todos los Paises --
+Admin.RegionList.lblNewRegion;Nueva Región
+Admin.RegionZipCodes.Title;Códigos Postales
+Admin.RegionZipCodes.lblAddNewZP;Añadir Nuevo CP, máx digitos:
+Admin.RegionZipCodes.inputError;Este campo debe ser numérico
+Admin.RegionZipCodes.iconDelete;Eliminar Registro
+Admin.RegionZipCodes.deleteMessage;Se ha eliminado correctamente
+Admin.RegionZipCodes.errorMessage;El código ya existe dentro del mismo país
+Admin.RegionZipCodes.validationMessage;Caracter no válido
+Admin.ImportPricesList.Title;Importar Lista de Precios por Región
+Admin.ImportPricesList.lblSelectRegionToImport;Seleccione el tipo de Región que va a importar
+Admin.ImportPricesList.dliInternational;Internacional
+Admin.ImportPricesList.dliLocal;Local
+Admin.ImportPricesList.lblDownloadTemplate;Descargar plantilla para la importación
+Admin.ImportPricesList.btnDownload;Descargar Plantilla
+Admin.ImportPricesList.lblSelectDestinityCountry;Seleccione el país de origen
+Admin.ImportPricesList.dliSelectDestinityCountry;-- Seleccione un país de origen --
+Admin.ImportPricesList.lblCountry;País
+Admin.ImportPricesList.lblBcaPark;Parque BCA
+Admin.ImportPricesList.lblSelectFilledTemplate;Seleccione la plantilla rellena con los datos de la importación
+Admin.ImportPricesList.btnAnalize;Analizar Documento
+Admin.ImportPricesList.lblAnalysisResult;Resultados del análisis
+Admin.ImportPricesList.lblResultsSuccess1;El Documento se ha analizado correctamente, esta a punto de importar
+Admin.ImportPricesList.lblResultsSuccess2;registros, presione en el siguiente boton para proceder.
+Admin.ImportPricesList.lblResultsErrorImportTemplate;Ha ocurrido un error al importar la plantilla
+Admin.ImportPricesList.lblResultsErrorAnalizeFile;Ha ocurrido un error al analizar el documento en las lineas:
+Admin.ImportPricesList.lblBadLine;Linea
+Admin.ImportPricesList.COMPOUND_NOT_FOUND;#¿NOMBRE?
+Admin.ImportPricesList.REGION_NOT_FOUND;#¿NOMBRE?
+Admin.ImportPricesList.FORMAT_NOT_VALID;#¿NOMBRE?
+Admin.ImportPricesList.btnImport;Realizar Importación
+Admin.ImportPricesList.lblResultsImport;Resultados de la importación
+Admin.ImportPricesList.lblResultSuccess1;Se han importado con éxito
+Admin.ImportPricesList.lblResultSuccess2;registros
+Admin.ImportPricesList.lblErrorImportTemplateInLines;Ha ocurrido un error al importar la plantilla en las lineas:
+Admin.ImportLocalPricesList.Title;Importación de lista de precios locales
+Admin.FillFileWithPrices.dliSelectTemplate;-- Seleccione una Plantilla --
+Admin.FillFileWithPrices.Title;Calcular Precios por Plantilla
+Admin.FillFileWithPrices.InputsTitle;Entradas
+Admin.FillFileWithPrices.lblInputsInfo;Asignar las columnas correspondientes de la plantilla.
+Admin.FillFileWithPrices.OutputsTitle;Salidas
+Admin.FillFileWithPrices.lblOutputsInfo;Se han encontrado errores en la plantilla, por favor revise los errores y vuelva a intentarlo:
+Admin.FillFileWithPrices.lblOutputsErrorRow;Error en la fila: 
+Admin.FillFileWithPrices.btnCreateNew;Crear Plantilla
+Admin.FillFileWithPrices.lblTemplateName;Nombre Plantilla
+Admin.FillFileWithPrices.lblPickUpCountryCode;Código País de Recogida
+Admin.FillFileWithPrices.lblPickUpCompoundCode;Código Campa de Recogida
+Admin.FillFileWithPrices.lblDeliveryCountryCode;Código País de Entrega
+Admin.FillFileWithPrices.lblDeliveryPostcode;Código Postal de Entrega
+Admin.FillFileWithPrices.lblVehicleType;Tipo de Vehículo
+Admin.FillFileWithPrices.lblResultPrice;Precio Resultado
+Admin.FillFileWithPrices.lblResultLeadTime;Plazo de Entrega Resultado
+Admin.FillFileWithPrices.bntSaveTemplate;Guardar
+Admin.FillFileWithPrices.bntRemoveTemplate;Eliminar
+Admin.FillFileWithPrices.bntFillPrices;Calcular y Rellenar Precios
+Admin.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Tipo de vehículo no encontrado
+Admin.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;País de recogida no válido
+Admin.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;País de entrega no válido
+Admin.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Parque no válido
+Admin.FillFileWithPrices.Template_save_success;Guardada con éxito.
+Admin.PricesList.Container.Title;Administrador de Lista de Precios por Regiones
+Admin.PricesList.BcaBranchList.Title;Parque BCA de origen
+Admin.PricesList.CountryList.Title;País de origen
+Admin.PricesList.DestinityCountryList.Title;País de destino
+Admin.PricesList.DestinityRegionList.Title;Regiones de Destino
+Admin.PricesList.DestinityRegionList.lblCode;Código
+Admin.PricesList.DestinityRegionList.lblRegion;Región
+Admin.PricesList.DestinityRegionList.lblOriginCountry;Origen
+Admin.PricesList.PriceListEdit.Title;Edición de Precio
+Admin.PricesList.PriceListEdit.lblInfo;Complete todos los campos para editar un precio
+Admin.PricesList.PriceListEdit.lblEstimatedTime;Tiempo Estimado
+Admin.PricesListLocal.Container.Title;Lista de Precios por Km Local
+Admin.PricesListLocal.CountryListLocal.Title;Seleccione País
+Admin.PricesListLocal.PricesListLocalEdit.Title;Edición de Precio
+Admin.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Complete todos los campos para crear o editar un precio
+Admin.PricesListLocal.PricesListLocalEdit.lblUpToKm;Hasta (km)
+Admin.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Días Estimados
+Admin.PricesListLocal.PricesListLocalEdit.btnDelete;Borrar
+Admin.PricesListLocal.PriceListLocalList.Title;Listado de Precios/Distancia
+Admin.PricesListLocal.PriceListLocalList.lblUpToKm;Hasta Km
+Admin.PricesListLocal.PriceListLocalList.lblNewLog;Nuevo Registro
+Admin.PricesListLocal.PriceListLocalList.lblUpTo;Hasta
+Admin.PricesListLocal.PriceListLocalList.lblKm;km
+Admin.PricesListLocal.PriceListLocalList.lblDays;días
+Admin.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Parque no encontrado
+Admin.Country.CountryContainer.Title;Configuración de Paises
+Admin.Country.CountryEdit.lblInfo;Complete todos los campos para editar un país
+Admin.Country.CountryEdit.lblCountryName;Nombre País
+Admin.Country.CountryEdit.lblOriginCountry;País de Origen (Con Parques BCA)
+Admin.Country.CountryEdit.lblDestinityCountry;País de Destino
+Admin.Country.CountryEdit.lblZipCodeLongitudeValidation;Longitud de Código Postal para Validación
+Admin.Country.CountryEdit.lblResourceKey;Clave de Recurso
+Admin.Country.CountryEdit.iconWarning;Si modifica este campo, se eliminarán registros en la base de datos
+Admin.Country.CountryEdit.lblLocalTransportType;Tipo de Transporte Local
+Admin.Country.CountryEdit.dliRegion;Por región
+Admin.Country.CountryEdit.dliKm;Por Kms
+Admin.Country.CountryEdit.iconInfoSearchRegion;Nº de dígitos para buscar por región. Ej: 28005 -> Código Postal 28 (2 dígitos)
+Admin.Country.CountryEdit.lblZipCode;Primeros Dígitos por Código Postal
+Admin.Country.CountryEdit.lblMandatoryTransportation;Transporte Obligatorio
+Admin.Country.CountryEdit.dliOrlblYes;Sí
+Admin.Country.CountryEdit.dliOrlblNo;No
+Admin.Country.CountryEdit.lblMandatoryTransportationMessage;Mensaje de transporte obligatorio
+Admin.Country.CountryEdit.lblNonMandatoryTransportationMessage;Mensaje de transporte no obligatorio
+Admin.Country.CountryEdit.btnSaveCountry;Guardar País
+Admin.Country.CountryEdit.warningMessage;Si modifica este campo, se eliminarán todas las tarifas y regiones relacionadas con este país
+Admin.Country.CountryEdit.lblZipPlaceholder;Marcador de posición de código postal
+Admin.Country.CountryEdit.lblMoneySymbolNational;Símbolo de moneda nacional
+Admin.Country.CountryEdit.lblMoneySymbolInternational;Símbolo de moneda internacional
+Admin.Country.CountryEdit.lblInternationalTransportActive;Transporte Internacional Activo
+Admin.Country.CountryEdit.lblLocalTransportActive;Transporte Local Activo
+Admin.Country.CountryEdit.lblTransportRequestActive;Activo
+Admin.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Emails para Petición de Transporte Internacional
+Admin.Country.CountryEdit.lblEmailsToRequestLocalTransport;Emails para Petición de Transporte Local
+Admin.Country.CountryEdit.lblShowFieldOptionRequest1;Mostrar Opción 1
+Admin.Country.CountryEdit.lblShowFieldOptionRequest2;Mostrar Opción 2
+Admin.Country.CountryEdit.lblShowFieldOptionRequest3;Mostrar Opción 3
+Admin.Country.CountryEdit.lblShowFieldOptionRequest4;Mostrar Opción 4
+Admin.Country.CountryEdit.lblShowFieldOptionRequest5;Mostrar Opción 5
+Admin.Country.CountryEdit.lblShowFieldOptionRequest6;Mostrar Opción 6
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest1;Obligatorio Opción 1
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest2;Obligatorio Opción 2
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest3;Obligatorio Opción 3
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest4;Obligatorio Opción 4
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest5;Obligatorio Opción 5
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest6;Obligatorio Opción 6
+Admin.Country.CountryEdit.lblInputFileOption;Permitir subir archivos
+Admin.Country.CountryEdit.lblTitleRequestTransport;Petición de Transporte
+Admin.Country.CountryEdit.lblInfoRequestTransport;Nota: Debes ir al Administrador de Recursos si quieres editar: etiquetas, pie de página y encabezado del email
+Admin.Country.CountryList.Title;Seleccione un país
+Admin.Country.CountryList.lblInfo;Activo Internacional / Activo Local / País / Código / Nombre
+Admin.Resources.Container.lblResourceManager;Administrador de Recursos
+Admin.Resources.LanguageList.lblSelectLanguage;Seleccione un idioma
+Admin.Resources.ResourceEdit.lblWriteAddress;Escriba una descripción
+Admin.Resources.ResourceEdit.btnSaveResource;Guardar Recurso
+Admin.Resources.ResourceList.lblSelectResource;Seleccione el recurso
+Admin.CompoundEdit.Title;Edición de Campa
+Admin.CompoundEdit.Info;Complete todos los campos para crear o editar una campa
+Admin.CompoundEdit.lblAddress;Dirección
+Admin.CompoundEdit.lblInternationalAddress;Activo Internacional
+Admin.CompoundEdit.lblLocalActive;Activo Local
+Admin.CompoundEdit.lblCoordsX;Coordenadas X
+Admin.CompoundEdit.lblCoordsY;Coordenadas Y
+Admin.CompoundEdit.btnSaveCompound;Guardar Campa
+Admin.CompoundEdit.btnDeleteCompound;Eliminar Campa
+Admin.CompoundEdit.btnLocateCompound;Localizar Campa
+Admin.CompoundEdit.locateMessage;Se ha localizado la campa
+Admin.CompoundConfiguration.Title;Configuración de Campas
+Admin.CompoundConfiguration.Info;(Activo Internacional / Activo Local / Activo Localizar / País / Código / Nombre)
+Admin.CompoundConfiguration.btnNewCompound;Nueva Campa
