@@ -24,9 +24,10 @@ function generateJSON() {
       let allContent = content.split(";");
       let valueArray = allContent[1];
       let contentArray = allContent[0].split(".");
-      if (valueArray.includes("<") || valueArray.includes("#")) {
+      if (valueArray.includes("<") || valueArray.includes("#") || valueArray.includes("-") || valueArray.includes("ø") || valueArray.includes("æ")) {
         if (valueArray.includes("img")) {
-          valueArray = valueArray.substring(0, valueArray.length - 1).substr(1);
+          
+          valueArray = valueArray.replace(" ", "");
         }
         this.errorFiles.push(valueArray);
         valueArray = "INVALID_CHARACTER_" + this.errorFiles.length.toString();
@@ -47,7 +48,7 @@ function generateJSON() {
       this.myObj = JSON.parse(finalResult);
       this.objStr = JSON.stringify(this.myObj, undefined, 4);
 
-      this.objStr = this.replaceInvalidChar(this.objStr);
+      this.objStr = "OJO TENER CUIDADO CON LAS ETIQUETAS <IMG... Y LOS PUNTOS EN LOS LABELS\n" + this.replaceInvalidChar(this.objStr);
 
       document.getElementById("MiID").innerHTML = objStr;
 
