@@ -12,16 +12,8 @@ this.generateCSV();
 
 function generateCSV() {
 
-  d3.json("/data/JSONAnalysis.json", function (data) {
-
-    if (data.includes("<") || data.includes("#")) {
-      if (data.includes("img")) {
-        data = data.substring(0, data.length - 1).substr(1);
-      }
-      this.errorFiles.push(data);
-      data = "INVALID_CHARACTER_" + this.errorFiles.length.toString();
-    }
-
+  d3.json("./data/JSONAnalysis.json", function (data) {
+    
     this.myObj = data;
     this.MyJSON = "Path;Traductions\r\n";
 

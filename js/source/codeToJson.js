@@ -8,7 +8,8 @@ var objStr;
 var fileName;
 var errorFiles = new Array();
 
-var loadDsv = d3.dsv(",", "text/plain;charset=ANSI");
+var charToDelimite = '&';
+var loadDsv = d3.dsv(charToDelimite, "text/plain;charset=ANSI");
 
 this.generateJSON();
 
@@ -26,8 +27,7 @@ function generateJSON() {
       let contentArray = allContent[0].split(".");
       if (valueArray.includes("<") || valueArray.includes("#") || valueArray.includes("-") || valueArray.includes("ø") || valueArray.includes("æ")) {
         if (valueArray.includes("img")) {
-          
-          valueArray = valueArray.replace(" ", "");
+          valueArray = valueArray.replace('\"', "");
         }
         this.errorFiles.push(valueArray);
         valueArray = "INVALID_CHARACTER_" + this.errorFiles.length.toString();
@@ -35,7 +35,6 @@ function generateJSON() {
       this.EtccNode.expandNodo(contentArray, valueArray);
 
     });
-
 
     let result = this.EtccNode.getArrayNames();
     //Correct fromat of json
@@ -65,7 +64,7 @@ function generateJSON() {
 }
 
 function replaceInvalidChar(str) {
-  
+
   for (let i = 0; i < this.errorFiles.length; i++) {
     let errorName = "INVALID_CHARACTER_" + (i + 1).toString();
     var search = str.search(errorName);
@@ -78,7 +77,7 @@ function replaceInvalidChar(str) {
 
 function downloadObjectAsJson() {
   var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(this.myObj));
- // dataStr = this.replaceInvalidChar(dataStr);
+  // dataStr = this.replaceInvalidChar(dataStr);
   var downloadAnchorNode = document.createElement('a');
   downloadAnchorNode.setAttribute("href", dataStr);
   downloadAnchorNode.setAttribute("download", this.fileName + ".json");

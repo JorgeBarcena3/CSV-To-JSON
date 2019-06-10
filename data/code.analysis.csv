@@ -1,413 +1,413 @@
 ﻿Path;Traductions
-Calculator.Title;Calculatrice de transport
-Calculator.StartAgain;recommencer
-Calculator.Basic.BasicContainer.lblTransportCalculator;Calculatrice de transport
-Calculator.Basic.BasicStep1.lblTransportationType;Sélectionner le type de transport
-Calculator.Basic.BasicStep1.btnNational;National
-Calculator.Basic.BasicStep1.btnInternational;International
-Calculator.Basic.BasicStep1.lblPick-upLocation;Sélectionner le lieu de prise en charge
-Calculator.Basic.BasicStep1.lblCountryPick-upLocation;Veuillez sélectionner le lieu de prise en charge (pays)
-Calculator.Basic.BasicStep1.dliSelect;- Sélectionner -
-Calculator.Basic.BasicStep1.lblErrorLoadingCountry;Doit choisir un pays de chargement
-Calculator.Basic.BasicStep1.lblBCAPick-upLocation;Veuillez sélectionner le lieu de prise en charge (emplacement BCA)
-Calculator.Basic.BasicStep1.lblErrorCompound;Doit choisir un lieu de prise en charge
-Calculator.Basic.BasicStep1.lblSelectDeliveryLocation;Sélectionner le lieu de livraison
-Calculator.Basic.BasicStep1.lblSelectDestinationCountry;Veuillez sélectionner le pays de destination
-Calculator.Basic.BasicStep1.lblErrorDestinationCountry;Doit choisir un pays de destination
-Calculator.Basic.BasicStep1.lblZipCodeDestination;Veuillez entrer le code postal de destination
-Calculator.Basic.BasicStep1.lblErrorZipCode;Doit écrire un code postal valide
-Calculator.Basic.BasicStep1.btnCalculate;Calculer
-Calculator.Basic.BasicStep2.btnGoBack;Retour
-Calculator.Basic.BasicStep2.lblDataSelected;Données sélectionnées pour le calcul
-Calculator.Basic.BasicStep2.lblTransportationType;Type de transport
-Calculator.Basic.BasicStep2.lblPickupLocationCountry;Lieu de prise en charge (pays)
-Calculator.Basic.BasicStep2.lblPickupLocationBCA;Lieu de prise en charge (BCA)
-Calculator.Basic.BasicStep2.lblDestinationCountry;Pays de destination
-Calculator.Basic.BasicStep2.lblDestinationPostcodeRegion;Code postal / région de destination
-Calculator.Basic.BasicStep2.lblCalculationResult;Résultat du calcul
-Calculator.Basic.BasicStep2.lblVehicleType;Type de véhicule
-Calculator.Basic.BasicStep2.lblNumber;Numéro
-Calculator.Basic.BasicStep2.lblFee;Frais
-Calculator.Basic.BasicStep2.lblDeliveryDeliveryUpTo;Livraison jusqu'à
-Calculator.Basic.BasicStep2.lblBankWorkingDays;(jours ouvrables bancaires)
-Calculator.Basic.BasicStep2.lblPerPassengerCar;Par voiture
-Calculator.Basic.BasicStep2.lblPerSUV;Par SUV
-Calculator.Basic.BasicStep2.lblPerLCV;Par VUL
-Calculator.Basic.BasicStep2.lblFullTruckLoad;Chargement complet du camion
-Calculator.Basic.BasicStep2.btnRequestThisTransport;Effectuer la demande de transport
-Calculator.Basic.BasicStep3.btnGoBack;Retour
-Calculator.Basic.BasicStep3.lblRequestTransport;Effectuer la demande de transport
-Calculator.Basic.BasicStep3.lblOverview;Vue d'ensemble
-Calculator.Basic.BasicStep3.lblInfoDetails;Afin d'effectuer la demande de transport, veuillez fournir vos coordonnées complètes et le motif de votre demande. Si toutes les informations fournies sont correctes, nous vous enverrons la facture. Si une information nous manque, nous reviendrons vers vous.
-Calculator.Basic.BasicStep3.lblMandatoryField;Champ obligatoire
-Calculator.Basic.BasicStep3.btnOrderThisTransport;Compléter la demande de transport
-Calculator.Basic.BasicStep3.btnAddVehicle;Ajouter un véhicule
-Calculator.Basic.BasicStep3.lblContactEmail;Adresse email
-Calculator.Basic.BasicStep3.lblVehicleVINPlateNo;Numéro d'identification du véhicule / Numéro de plateau
-Calculator.Basic.BasicStep3.lblRemarks;Remarques
-Calculator.Basic.BasicStep3.lblDeliveryAddress;Adresse de livraison
-Calculator.Basic.BasicStep3.lblErrorInvalidCharacters;Caractère non valide
-Calculator.Basic.BasicStep3.lblChooseFile;Choisir un fichier
-Calculator.Basic.BasicStep3.lblEmptyList;Liste vide
-Calculator.Basic.BasicStep3.lblSelectedFiles;Fichier(s) sélectionné(s)
-Calculator.Basic.BasicStep3.lblTransportType;Type de transport
-Calculator.Basic.BasicStep3.lblOverviewVIN;numéro d'identification du véhicule / plateau
-Calculator.Basic.BasicStep3.lblOverviewTransportType;Type
-Calculator.Basic.BasicStep3.lblOverviewPrice;Prix
-Calculator.Basic.BasicStep3.lblOverviewDelete;Supprimer
-Calculator.Basic.BasicStep3.lblTotalVehicles;Véhicules
-Calculator.Basic.BasicStep3.lblTotalTransportPrice;Prix du transport
-Calculator.Basic.BasicStep3.lblMessageMinVehicle;Vous devez ajouter au moins un véhicule.
-Calculator.Basic.BasicStep3.lblMessageNumVehiclesMax;Seulement 8 véhicules peuvent être ajoutés.
-Calculator.Basic.BasicStep4.btnOrderThisTransport;Compléter la demande de transport
-Calculator.Basic.BasicStep4.lblPhoneNumber;Numéro de téléphone
-Calculator.Basic.BasicStep4.placeholderCity;Ville
-Calculator.Basic.BasicStep4.placeholderStreet;Rue
-Calculator.Basic.BasicStep4.placeholderPostalCode;Code Postal
-Calculator.Basic.BasicStep4.placeholderCountry;Pays
-Calculator.Basic.BasicStep4.CustomerNamelbl;Nom du client
-Calculator.Step1.Title;ÉTAPE 1 - SÉLECTIONNER LE TYPE DE TRANSPORT
+Calculator.Title;Calculador de Transporte
+Calculator.StartAgain;Começar de novo
+Calculator.Basic.BasicContainer.lblTransportCalculator;Calculador de Transporte
+Calculator.Basic.BasicStep1.lblTransportationType;Selecione o tipo de transporte
+Calculator.Basic.BasicStep1.btnNational;Nacional
+Calculator.Basic.BasicStep1.btnInternational;Internacional
+Calculator.Basic.BasicStep1.lblPick-upLocation;Selecione local de recolha
+Calculator.Basic.BasicStep1.lblCountryPick-upLocation;Por favor, selecione o local de recolha (País)
+Calculator.Basic.BasicStep1.dliSelect;- Selecione -
+Calculator.Basic.BasicStep1.lblErrorLoadingCountry;Deve selecionar um país de carga
+Calculator.Basic.BasicStep1.lblBCAPick-upLocation;Por favor, selecione o local de recolha (local da BCA)
+Calculator.Basic.BasicStep1.lblErrorCompound;Deve selecionar um local de recolha
+Calculator.Basic.BasicStep1.lblSelectDeliveryLocation;Selecione o local de entrega
+Calculator.Basic.BasicStep1.lblSelectDestinationCountry;Por favor selecione o país de destino
+Calculator.Basic.BasicStep1.lblErrorDestinationCountry;Deve selecionar um país de destino
+Calculator.Basic.BasicStep1.lblZipCodeDestination;Por favor, indique o código postal do destino
+Calculator.Basic.BasicStep1.lblErrorZipCode;Deve escrever um código postal válido
+Calculator.Basic.BasicStep1.btnCalculate;Calcular
+Calculator.Basic.BasicStep2.btnGoBack;Voltar
+Calculator.Basic.BasicStep2.lblDataSelected;Dados selecionados para cálculo
+Calculator.Basic.BasicStep2.lblTransportationType;Tipo de transporte
+Calculator.Basic.BasicStep2.lblPickupLocationCountry;Local de recolha (país)
+Calculator.Basic.BasicStep2.lblPickupLocationBCA;Local de recolha (BCA)
+Calculator.Basic.BasicStep2.lblDestinationCountry;País de destino
+Calculator.Basic.BasicStep2.lblDestinationPostcodeRegion;Código postal / região de destino
+Calculator.Basic.BasicStep2.lblCalculationResult;Resultado do cálculo
+Calculator.Basic.BasicStep2.lblVehicleType;Tipo de veículo
+Calculator.Basic.BasicStep2.lblNumber;Número
+Calculator.Basic.BasicStep2.lblFee;Taxa
+Calculator.Basic.BasicStep2.lblDeliveryDeliveryUpTo;Entrega até
+Calculator.Basic.BasicStep2.lblBankWorkingDays;Dias úteis
+Calculator.Basic.BasicStep2.lblPerPassengerCar;Por ligeiro
+Calculator.Basic.BasicStep2.lblPerSUV;Por SUV
+Calculator.Basic.BasicStep2.lblPerLCV;Por LCV
+Calculator.Basic.BasicStep2.lblFullTruckLoad;Carga Camião Completo
+Calculator.Basic.BasicStep2.btnRequestThisTransport;Pedir este transporte
+Calculator.Basic.BasicStep3.btnGoBack;Voltar
+Calculator.Basic.BasicStep3.lblRequestTransport;Pedir transporte
+Calculator.Basic.BasicStep3.lblOverview;Visão geral
+Calculator.Basic.BasicStep3.lblInfoDetails;Para pedir este transporte, por favor forneça abaixo os detalhes do contacto. Quando todos os detalhes estiverem correctos, enviaremos a factura do transporte por email. Se faltar alguma informação, entraremos em contacto.
+Calculator.Basic.BasicStep3.lblMandatoryField;Campo obrigatório
+Calculator.Basic.BasicStep3.btnOrderThisTransport;Complete este transporte
+Calculator.Basic.BasicStep3.btnAddVehicle;Adicionar veículo
+Calculator.Basic.BasicStep3.lblContactEmail;Email de contacto
+Calculator.Basic.BasicStep3.lblVehicleVINPlateNo;Nº Chassis/Matrícula
+Calculator.Basic.BasicStep3.lblRemarks;Anotações
+Calculator.Basic.BasicStep3.lblDeliveryAddress;Morada de entrega
+Calculator.Basic.BasicStep3.lblErrorInvalidCharacters;Caracteres inválidos
+Calculator.Basic.BasicStep3.lblChooseFile;Escolha ficheiro …
+Calculator.Basic.BasicStep3.lblEmptyList;Lista vazia
+Calculator.Basic.BasicStep3.lblSelectedFiles;Ficheiros seleccionados
+Calculator.Basic.BasicStep3.lblTransportType;Tipo de transporte
+Calculator.Basic.BasicStep3.lblOverviewVIN;Chassis/Matrícula
+Calculator.Basic.BasicStep3.lblOverviewTransportType;Tipo
+Calculator.Basic.BasicStep3.lblOverviewPrice;Preço
+Calculator.Basic.BasicStep3.lblOverviewDelete;Apagar
+Calculator.Basic.BasicStep3.lblTotalVehicles;Veículos
+Calculator.Basic.BasicStep3.lblTotalTransportPrice;Preço do transporte
+Calculator.Basic.BasicStep3.lblMessageMinVehicle;Tem adicionar pelo menos um veículo
+Calculator.Basic.BasicStep3.lblMessageNumVehiclesMax;Apenas pode adicionar 8 veículos
+Calculator.Basic.BasicStep4.btnOrderThisTransport;Completar este transporte
+Calculator.Basic.BasicStep4.lblPhoneNumber;Número de telefone
+Calculator.Basic.BasicStep4.placeholderCity;Cidade
+Calculator.Basic.BasicStep4.placeholderStreet;Rua
+Calculator.Basic.BasicStep4.placeholderPostalCode;Código Postal
+Calculator.Basic.BasicStep4.placeholderCountry;País
+Calculator.Basic.BasicStep4.CustomerNamelbl;Nome do cliente
+Calculator.Step1.Title;PASSO 1 - SELECIONAR TIPO DE TRANSPORTE
 Calculator.Step1.Local;LOCAL
 Calculator.Step1.International;INTERNATIONAL
-Calculator.Step1.InformationTextTitle;Information
-Calculator.Step1.InformationText;Contrairement à la croyance populaire, le Lorem Ipsum n’est pas simplement un texte aléatoire. Il a ses racines dans la littérature latine classique datant de 45 ans av. J.-C., ce qui fait qu'il a plus de 2000 ans. Richard McClintock.
-Calculator.Step2.Title;ÉTAPE 2 - CHOISISSEZ UN PAYS BCA
-Calculator.Step3.Title;ÉTAPE 3 - SÉLECTIONNER L’EMPLACEMENT DE PRISE EN CHARGE EN FRANCE
-Calculator.Step4.Title;ÉTAPE 4 - SÉLECTIONNER LE PAYS DE DESTINATION
-Calculator.Step5.Title;ÉTAPE 5 - DÉFINIR L'EMPLACEMENT DE LIVRAISON EN FRANCE
-Calculator.Step5.LocalAddress;ADRESSE LOCALE
-Calculator.Step5.ZipCode;CODE POSTAL
-Calculator.Step5.Address;ADRESSE
-Calculator.Step5.Address;Type de véhicule
-Calculator.Step5.PassengerCar;Voiture
+Calculator.Step1.InformationTextTitle;Informação
+Calculator.Step1.InformationText;Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto aleatório. Tem raízes numa peça da literatura latina clássica de 45 aC, completando 2000 anos de idade. Richard McClintock.
+Calculator.Step2.Title;PASSO 2 - SELECIONE O PAÍS BCA
+Calculator.Step3.Title;PASSO 3 - SELECIONE O LOCAL DE CARGA NA FRANÇA
+Calculator.Step4.Title;PASSO 4 - SELECIONAR O PAÍS DE DESTINO
+Calculator.Step5.Title;PASSO 5 - LOCALIZAÇÃO DE ENTREGA EM FRANÇA
+Calculator.Step5.LocalAddress;ENDEREÇO LOCAL
+Calculator.Step5.ZipCode;Código Postal
+Calculator.Step5.Address;ENDEREÇO
+Calculator.Step5.Address;Tipo de Veículo
+Calculator.Step5.PassengerCar;Ligeiro
 Calculator.Step5.Suv;SUV
-Calculator.Step5.Lcv;Utilitaire
-Calculator.Step5.FullTruckLoad;Chargement complet du camion
-Calculator.Step5.ZipNumber;NUMÉRO POSTAL
-Calculator.Step5.Region;RÉGION
-Calculator.Step5.Calculate;CALCULER
-Calculator.Step6.Title;ÉTAPE FINALE - RÉSULTAT
-Calculator.Step6.DeliveryType;Type de livraison :
-Calculator.Step6.Country;Pays :
-Calculator.Step6.Pick-upLocation;Lieu de prise en charge :
-Calculator.Step6.DestinationCountry;Pays de destination :
-Calculator.Step6.DestinationRegion;Région de destination :
-Calculator.Step6.Distance;Distance :
-Calculator.Step6.VehicleType;Type de véhicule :
-Calculator.Step6.TotalPrice;Prix total :
-Calculator.Step6.EstimatedDeliveryDate;Date de livraison estimée :
-Admin.Common.removeConfirmMessage;Souhaitez-vous effacer ?
-Admin.Common.removeMessage;Correctement retiré
-Admin.Common.lblPricePassengerCar;Prix de la voiture
-Admin.Common.lblPriceSUV;Prix du SUV
-Admin.Common.lblPriceLCV;Prix du véhicule utilitaire
-Admin.Common.lblPriceFullTruckLoad;Prix de chargement complet du camion
-Admin.Common.lblSingleCarTransportationDay;Journées de transport en voiture simple
-Admin.Common.lblFullLoadTransportationDay;Journées de transport en charge complète
-Admin.Common.lblPC;ordinateur personnel
+Calculator.Step5.Lcv;LCV
+Calculator.Step5.FullTruckLoad;Carga completa do camião
+Calculator.Step5.ZipNumber;Código Postal
+Calculator.Step5.Region;REGIÃO
+Calculator.Step5.Calculate;CALCULAR
+Calculator.Step6.Title;PASSO FINAL - RESULTADO
+Calculator.Step6.DeliveryType;Tipo de entrega:
+Calculator.Step6.Country;País:
+Calculator.Step6.Pick-upLocation;Local de carga:
+Calculator.Step6.DestinationCountry;País de destino:
+Calculator.Step6.DestinationRegion;Região de destino:
+Calculator.Step6.Distance;Distância:
+Calculator.Step6.VehicleType;Tipo de veículo:
+Calculator.Step6.TotalPrice;Preço Total:
+Calculator.Step6.EstimatedDeliveryDate;Data de entrega estimada:
+Admin.Common.removeConfirmMessage;Deseja apagar o registo?
+Admin.Common.removeMessage;Removido correctamente
+Admin.Common.lblPricePassengerCar;Preço de ligeiro
+Admin.Common.lblPriceSUV;Preço SUV
+Admin.Common.lblPriceLCV;Preço LCV
+Admin.Common.lblPriceFullTruckLoad;Preço para Camião completo
+Admin.Common.lblSingleCarTransportationDay;Dias de transporte para só uma viatura
+Admin.Common.lblFullLoadTransportationDay;Dias de transporte para Camião completo
+Admin.Common.lblPC;PC
 Admin.Common.lblSUV;SUV
-Admin.Common.lblLCV;Utilitaire
+Admin.Common.lblLCV;LCV
 Admin.Common.lblFTL;FTL
-Admin.Common.lblSingle;unique
-Admin.Common.lblFull;complet
-Admin.Common.successMessage;Les données ont été sauvegardées correctement
-Admin.Common.errorCodeMsg;Le code inséré existe déjà.
-Admin.Common.lblDays;journées
-Admin.Common.CalculatorPriceNotFoundMessage;Message pour le prix non trouvé
-Admin.Common.CalculatorPriceFoundMessageFrance;Message pour le prix trouvé - France
-Admin.Common.CalculatorPriceFoundMessageItaly;Message pour le prix trouvé - Italie
-Admin.Common.CalculatorPriceFoundMessageGermany;Message pour le prix trouvé - Allemagne
-Admin.Common.CalculatorPriceFoundMessagePortugal;Message pour le prix trouvé - Portugal
-Admin.Common.CalculatorPriceFoundMessageDenmark;Message pour le prix trouvé - Danemark
-Admin.Common.CalculatorPriceFoundMessageSpain;Message pour le prix trouvé - Espagne
-Admin.Common.CalculatorPriceFoundMessageNetherlands;Message pour le prix trouvé - Pays-Bas
-Admin.Common.CalculatorPriceFoundMessageSweeden;Message pour le prix trouvé - Suède
-Admin.Common.CalculatorPriceFoundMessageSweeden;Message pour le prix trouvé - Belgique
-Admin.Common.CalculatorPriceFoundMessageCzechRepublic;Message pour le prix trouvé - République Tchèque
-Admin.Common.CalculatorPriceFoundMessageAustria;Message pour le prix trouvé - Autriche
-Admin.Common.CalculatorPriceFoundMessageHungary;Message pour le prix trouvé - Hongrie
-Admin.Common.CalculatorPriceFoundMessageSlovenia;Message pour le prix trouvé - Slovénie
-Admin.Common.CalculatorPriceFoundMessageCroatia;Message pour le prix trouvé - Croatie
-Admin.Common.CalculatorPriceFoundMessageRomania;Message pour le prix trouvé - Roumanie
-Admin.Common.CalculatorPriceFoundMessageSlovakia;Message pour le prix trouvé - Slovaquie
-Admin.Common.CalculatorPriceFoundMessageSwitzerland;Message pour le prix trouvé - Suisse
-Admin.Common.CalculatorPriceFoundMessageEstonia;Message pour le prix trouvé - Estonie
-Admin.Common.CalculatorPriceFoundMessageLatvia;Message pour le prix trouvé - Lettonie
-Admin.Common.CalculatorPriceFoundMessageLithuania;Message pour le prix trouvé - Lituanie
-Admin.Common.CalculatorPriceFoundMessagePoland;Message pour le prix trouvé - Pologne
-Admin.Common.CalculatorPriceFoundMessageFinland;Message pour le prix trouvé - Finlande
-Admin.Common.CalculatorPriceFoundMessageLuxemburg;Message pour le prix trouvé - Luxembourg
-Admin.Common.CalculatorPriceFoundMessageNorway;Message pour le prix trouvé - Norvège
-Admin.Common.CalculatorPriceFoundMessageBulgaria;Message pour le prix trouvé - Bulgarie
-Admin.Common.CountryFrance;France
-Admin.Common.CountryItaly;Italie
-Admin.Common.CountryGermany;Allemagne
+Admin.Common.lblSingle;Único
+Admin.Common.lblFull;Completo
+Admin.Common.successMessage;Os dados foram salvos corretamente
+Admin.Common.errorCodeMsg;O código inserido já existe
+Admin.Common.lblDays;dias
+Admin.Common.CalculatorPriceNotFoundMessage;Mensagem para o preço não encontrado
+Admin.Common.CalculatorPriceFoundMessageFrance;Mensagem para o preço encontrado - França
+Admin.Common.CalculatorPriceFoundMessageItaly;Mensagem para o preço encontrado - Itália
+Admin.Common.CalculatorPriceFoundMessageGermany;Mensagem para o preço encontrado - Alemanha
+Admin.Common.CalculatorPriceFoundMessagePortugal;Mensagem para o preço encontrado - Portugal
+Admin.Common.CalculatorPriceFoundMessageDenmark;Mensagem para o preço encontrado - Dinamarca
+Admin.Common.CalculatorPriceFoundMessageSpain;Mensagem para o preço encontrado - Espanha
+Admin.Common.CalculatorPriceFoundMessageNetherlands;Mensagem para o preço encontrado - Holanda
+Admin.Common.CalculatorPriceFoundMessageSweeden;Mensagem para o preço encontrado - Suécia
+Admin.Common.CalculatorPriceFoundMessageSweeden;Mensagem para o preço encontrado - Bélgica
+Admin.Common.CalculatorPriceFoundMessageCzechRepublic;Mensagem para o preço encontrado - CzechRepublic
+Admin.Common.CalculatorPriceFoundMessageAustria;Mensagem para o preço encontrado - Austria
+Admin.Common.CalculatorPriceFoundMessageHungary;Mensagem para o preço encontrado - Hungria
+Admin.Common.CalculatorPriceFoundMessageSlovenia;Mensagem para o preço encontrado - Eslovénia
+Admin.Common.CalculatorPriceFoundMessageCroatia;Mensagem para o preço encontrado - Croácia
+Admin.Common.CalculatorPriceFoundMessageRomania;Mensagem para o preço encontrado - Romania
+Admin.Common.CalculatorPriceFoundMessageSlovakia;Mensagem para o preço encontrado - Slovakia
+Admin.Common.CalculatorPriceFoundMessageSwitzerland;Mensagem para o preço encontrado - Suíça
+Admin.Common.CalculatorPriceFoundMessageEstonia;Mensagem para o preço encontrado - Estónia
+Admin.Common.CalculatorPriceFoundMessageLatvia;Mensagem para o preço encontrado - Letónia
+Admin.Common.CalculatorPriceFoundMessageLithuania;Mensagem para o preço encontrado - Lituânia
+Admin.Common.CalculatorPriceFoundMessagePoland;Mensagem para o preço encontrado - Polónia
+Admin.Common.CalculatorPriceFoundMessageFinland;Mensagem para o preço encontrado - Finlandia
+Admin.Common.CalculatorPriceFoundMessageLuxemburg;Mensagem para o preço encontrado - Luxamburgo
+Admin.Common.CalculatorPriceFoundMessageNorway;Mensagem para o preço encontrado - Noruega
+Admin.Common.CalculatorPriceFoundMessageBulgaria;Mensagem para o preço encontrado - Bulgária
+Admin.Common.CountryFrance;França
+Admin.Common.CountryItaly;Itália
+Admin.Common.CountryGermany;Alemanha
 Admin.Common.CountryPortugal;Portugal
-Admin.Common.CountryDenmark;Dannemark
-Admin.Common.CountrySpain;Espagne
-Admin.Common.CountryNetherlands;Pays-Bas
-Admin.Common.CountrySweden;Suède
-Admin.Common.CountryBelgium;Belgique
-Admin.Common.CountryCzechRepublic;République Tchèque
-Admin.Common.CountryAustria;Autriche
-Admin.Common.CountryHungary;Hongrie
-Admin.Common.CountrySlovenia;Slovénie
-Admin.Common.CountryCroatia;Croatie
-Admin.Common.CountryRomania;Roumanie
-Admin.Common.CountrySlovakia;Slovaquie
-Admin.Common.CountrySwitzerland;Suisse
-Admin.Common.CountryEstonia;Estonie
-Admin.Common.CountryLatvia;Lettonie
-Admin.Common.CountryLithuania;Lituanie
-Admin.Common.CountryPoland;Pologne
-Admin.Common.CountryFinland;Finlande
-Admin.Common.CountryLuxemburg;Luxembourg
-Admin.Common.CountryNorway;Norvège
-Admin.Common.CountryBulgaria;Bulgarie
-Admin.Common.successMailMessage;L'email a été envoyé
-Admin.Common.LabelNameToOptionRequest1;Nom des options de la demande de transport 1
-Admin.Common.LabelNameToOptionRequest2;Nom des options de la demande de transport 2
-Admin.Common.LabelNameToOptionRequest3;Nom des options de la demande de transport 3
-Admin.Common.LabelNameToOptionRequest4;Nom des options de la demande de transport 4
-Admin.Common.LabelNameToOptionRequest5;Nom des options de la demande de transport 5
-Admin.Common.LabelNameToOptionRequest6;Nom des options de la demande de transport 6
-Admin.Common.EmailHeaderText;Texte du header de l'email
-Admin.Common.EmailFooterText;Texte du footer de l'email
-Admin.Common.InternationalFileText;Texte de demande de documents de transport international
-Admin.Common.LocalFileText;Texte de demande de documents de transport local
-Admin.Layout.Title;ETC - ADMINISTRATEUR <br /> <span> Calculateur de transport européen </ span>
-Admin.Layout.Welcome;Bienvenue <br />
-Admin.Layout.lblCountry;pays
-Admin.Layout.btnCancel;annuler
-Admin.Layout.btnSave;Enregistrer
-Admin.Layout.CountryUser;Pays utilisateur
-Admin.Layout.EtsUser;Utilisateur ETS
-Admin.Layout.AdminUser;Utilisateur administrateur
-Admin.Layout.inputError;Ce champ est obligatoire
-Admin.Layout.inputErrorFormat;Le format n'est pas valide
-Admin.Layout.lblPrice;prix
-Admin.Login.lblUserLogin;CONNEXION UTILISATEUR
-Admin.Login.btnSignIn;Se connecter
-Admin.Login.lblError;Votre nom d'utilisateur ou mot de passe est incorrect.
-Admin.Dashboard.Title;Bienvenue dans ETC - Tableau de bord administrateur
-Admin.Dashboard.lblUserLogs;30 derniers budgets calculés
-Admin.Dashboard.lblLoadingData;Chargement des données ...
-Admin.Dashboard.lblDate;date
+Admin.Common.CountryDenmark;Dinamarca
+Admin.Common.CountrySpain;Espanha
+Admin.Common.CountryNetherlands;Holanda
+Admin.Common.CountrySweden;Suécia
+Admin.Common.CountryBelgium;Bélgica
+Admin.Common.CountryCzechRepublic;República Checa
+Admin.Common.CountryAustria;Austria
+Admin.Common.CountryHungary;Hungria
+Admin.Common.CountrySlovenia;Eslovenia
+Admin.Common.CountryCroatia;Croácia
+Admin.Common.CountryRomania;Roménia
+Admin.Common.CountrySlovakia;Eslovaquia
+Admin.Common.CountrySwitzerland;Suíça
+Admin.Common.CountryEstonia;Estónia
+Admin.Common.CountryLatvia;Letónia
+Admin.Common.CountryLithuania;Lituania
+Admin.Common.CountryPoland;Polónia
+Admin.Common.CountryFinland;Finlandia
+Admin.Common.CountryLuxemburg;Luxamburgo
+Admin.Common.CountryNorway;Noruega
+Admin.Common.CountryBulgaria;Bulgária
+Admin.Common.successMailMessage;O email foi enviado
+Admin.Common.LabelNameToOptionRequest1;Nome da opção para pedido de transporte 1
+Admin.Common.LabelNameToOptionRequest2;Nome da opção para pedido de transporte 2
+Admin.Common.LabelNameToOptionRequest3;Nome da opção para pedido de transporte 3
+Admin.Common.LabelNameToOptionRequest4;Nome da opção para pedido de transporte 4
+Admin.Common.LabelNameToOptionRequest5;Nome da opção para pedido de transporte 5
+Admin.Common.LabelNameToOptionRequest6;Nome da opção para pedido de transporte 6
+Admin.Common.EmailHeaderText;Texto para cabeçalho do email
+Admin.Common.EmailFooterText;Texto para rodapé do email
+Admin.Common.InternationalFileText;Texto para Pedido de Documentos de Transporte Internacional
+Admin.Common.LocalFileText;Texto para Pedido de Documentos de Transporte Local
+Admin.Layout.Title;ETC - ADMINISTRADOR <br /> <span> Calculadora Europeia de Transportes </ span>
+Admin.Layout.Welcome;Bem-vindo <br />
+Admin.Layout.lblCountry;País
+Admin.Layout.btnCancel;Cancelar
+Admin.Layout.btnSave;Guardar
+Admin.Layout.CountryUser;Utilizador do país
+Admin.Layout.EtsUser;Utilizador ETS
+Admin.Layout.AdminUser;Utilizador Admin
+Admin.Layout.inputError;Este campo é obrigatório
+Admin.Layout.inputErrorFormat;Formato não é válido
+Admin.Layout.lblPrice;Preço
+Admin.Login.lblUserLogin;LOGIN DO UTILIZADDOR
+Admin.Login.btnSignIn;Entrar
+Admin.Login.lblError;Utilizador ou Senha incorreto
+Admin.Dashboard.Title;Bem-vindo ao ETC - Painel do Administrador
+Admin.Dashboard.lblUserLogs;Últimos 30 orçamentos calculados
+Admin.Dashboard.lblLoadingData;A carregar …
+Admin.Dashboard.lblDate;Data
 Admin.Dashboard.lblIP;IP
-Admin.Dashboard.lblType;Type
-Admin.Dashboard.lblCountryFrom;Pays de départ
-Admin.Dashboard.lblParkFrom;Parc de départ
-Admin.Dashboard.lblZipCode;Code postal
-Admin.Dashboard.lblDestinationCountry;Pays de destination
-Admin.UsersList.Title;Les utilisateurs
-Admin.UsersList.Info;(Actif / Utilisateur Rol / Pays / UserLogin / Dernière connexion)
-Admin.UsersList.AddNewUser;Ajouter un nouvel utilisateur
-Admin.UsersList.Active;actif
-Admin.UsersList.NotActive;Pas actif
-Admin.UsersList.UserRegion;Région utilisateur
-Admin.UsersEdit.Title;User Edition
-Admin.UsersEdit.Info;Remplir tous les champs pour créer ou éditer un profil utilisateur
-Admin.UsersEdit.Name;nom
-Admin.UsersEdit.Surname;nom de famille
-Admin.UsersEdit.UserName;Nom d'utilisateur pour se connecter
-Admin.UsersEdit.Email;email
-Admin.UsersEdit.DefaultLanguage;Langue par défaut
-Admin.UsersEdit.Role;rôle
-Admin.UsersEdit.SaveUser;Enregistrer l'utilisateur
-Admin.UsersEdit.SendPasswordByEmail;Envoyer le mot de passe par email
-Admin.UsersEdit.DesactiveUser;Utilisateur désactivé
-Admin.UsersEdit.ActiveUser;Utilisateur actif
-Admin.UsersEdit.desactiveMessage;L'utilisateur a été désactivé
-Admin.UsersEdit.activeMessage;L'utilisateur a activé
-Admin.UsersEdit.emailSentMessage;L'email a été envoyé avec succès
-Admin.RightMenu.lblMyCountry;Mon pays
-Admin.RightMenu.lblMyEmail;Mon email
+Admin.Dashboard.lblType;Tipo
+Admin.Dashboard.lblCountryFrom;País De
+Admin.Dashboard.lblParkFrom;Parque De
+Admin.Dashboard.lblZipCode;Código Postal
+Admin.Dashboard.lblDestinationCountry;País de destino
+Admin.UsersList.Title;Utilizadores
+Admin.UsersList.Info;(Ativo / Função / País / Login / Último Login)
+Admin.UsersList.AddNewUser;Adicionar novo utilizador
+Admin.UsersList.Active;Ativo
+Admin.UsersList.NotActive;Não ativo
+Admin.UsersList.UserRegion;Região do utilizador
+Admin.UsersEdit.Title;Edição do utilizador
+Admin.UsersEdit.Info;Preencha todos os campos para criar ou editar um utilizador
+Admin.UsersEdit.Name;Nome
+Admin.UsersEdit.Surname;Sobrenome
+Admin.UsersEdit.UserName;Nome de utilizador para login
+Admin.UsersEdit.Email;e-mail
+Admin.UsersEdit.DefaultLanguage;Idioma padrão
+Admin.UsersEdit.Role;Função
+Admin.UsersEdit.SaveUser;Gravar utilizador
+Admin.UsersEdit.SendPasswordByEmail;Enviar senha por email
+Admin.UsersEdit.DesactiveUser;Utilizador não ativo
+Admin.UsersEdit.ActiveUser;Utilizador ativo
+Admin.UsersEdit.desactiveMessage;Este Utilizador foi desativado
+Admin.UsersEdit.activeMessage;Este Utilizador foi ativado
+Admin.UsersEdit.emailSentMessage;O email foi enviado com sucesso
+Admin.RightMenu.lblMyCountry;Meu país
+Admin.RightMenu.lblMyEmail;Meu email
 Admin.RightMenu.imgFlag;"<img src = \ ""/ assets / images / flags / flag_en.png \"" />"
-Admin.RightMenu.Title1;général
-Admin.RightMenu.lblLanguageName;anglais
-Admin.RightMenu.Dashboard;tableau de bord
-Admin.RightMenu.Title2-AdminUser;Menu Utilisateurs Admin
-Admin.RightMenu.Title2-ETSUser;Menu Utilisateurs ETS
-Admin.RightMenu.Title2-UserCountry;Menu Pays Utilisateurs
-Admin.RightMenu.LocalRegionsAdministrator;Régions locales
-Admin.RightMenu.RegionsAdministrator;Régions internationales
-Admin.RightMenu.ImportRegionsAdministrator;Régions d'importations
-Admin.RightMenu.PriceListAdministratorInternational;Liste de prix internationaux par région
-Admin.RightMenu.PriceListAdministratorLocal;Liste de prix locale par région
-Admin.RightMenu.LocalPriceListAdministrator;Liste de prix par kilomètre local
-Admin.RightMenu.ImportPriceListAdministrator;Liste de prix d'importation par région
-Admin.RightMenu.ImportLocalPrices;Liste des prix d'importation par kilomètre local
-Admin.RightMenu.CountryConfiguration;Configuration des pays
-Admin.RightMenu.CompoundConfiguration;configuration du centre
-Admin.RightMenu.UsersAdministrator;Les utilisateurs
-Admin.RightMenu.ResourceAdministrator;Gestionnaire de ressources
-Admin.RightMenu.ImportFileToCalculatePrices;Calculer les prix avec le template
-Admin.RightMenu.UserLogsAdministrator;Entrées de l'utilisateur
-Admin.RightMenu.Title3;utilisateur
-Admin.RightMenu.EditMyUser;Editer mon utilisateur
-Admin.RightMenu.LogOff;Se déconnecter
-Admin.RegionEdit.Title;Edition de région
-Admin.RegionEdit.Info;Remplissez tous les champs pour créer ou éditer une région
-Admin.RegionEdit.lblCode;code
-Admin.RegionEdit.lblName;nom
-Admin.RegionEdit.btnSaveRegion;Enregistrer la région
-Admin.RegionEdit.btnDesactiveRegion;Région désactive
-Admin.RegionEdit.btnActiveRegion;Région active
-Admin.RegionEdit.regionCodeAlreadyExistMessage;Une région avec ce code existe déjà
-Admin.RegionEdit.desactivateMessage;La région a été désactivée
-Admin.RegionEdit.activateMessage;La région a été activée
-Admin.RegionEdit.lblOriginCountryName;Pays d'origine
-Admin.RegionEdit.lblDestinyCountryName;Pays d'expédition
-Admin.RegionEdit.dliAllCountries;Tous les pays
-Admin.RegionList.TitleInternational;Régions internationales
-Admin.RegionList.TitleLocal;Régions locales
-Admin.RegionList.InfoLocal;(Actif / Pays / Code / Nom)
-Admin.RegionList.InfoInternational;(Actif / Pays d'origine / Pays d'expédition / Code / Nom)
-Admin.RegionList.dliCountries;- Tous les pays -
-Admin.RegionList.lblNewRegion;Nouvelle région
-Admin.RegionZipCodes.Title;Codes postaux
-Admin.RegionZipCodes.lblAddNewZP;Ajouter un nouveau CP, chiffres max:
-Admin.RegionZipCodes.inputError;Ce champ doit être numérique
-Admin.RegionZipCodes.iconDelete;Supprimer l'entrée
-Admin.RegionZipCodes.deleteMessage;Les données ont été supprimées correctement
-Admin.RegionZipCodes.errorMessage;Le code existe déjà dans le même pays
-Admin.RegionZipCodes.validationMessage;Caractère non valide
-Admin.ImportPricesList.Title;Liste de prix d'importation par région
-Admin.ImportPricesList.lblSelectRegionToImport;Sélectionner le type de région à importer
-Admin.ImportPricesList.dliInternational;au niveau international
-Admin.ImportPricesList.dliLocal;local
-Admin.ImportPricesList.lblDownloadTemplate;Télécharger le modèle pour l'importation
-Admin.ImportPricesList.btnDownload;Télécharger le modèle -
-Admin.ImportPricesList.lblSelectDestinityCountry;Sélectionner le pays d'origine
-Admin.ImportPricesList.dliSelectDestinityCountry;- Choisir un pays d'origine -
-Admin.ImportPricesList.lblCountry;pays
-Admin.ImportPricesList.lblBcaPark;Parc BCA
-Admin.ImportPricesList.lblSelectFilledTemplate;Sélectionner le modèle rempli les données importées
-Admin.ImportPricesList.btnAnalize;Analyser le document -
-Admin.ImportPricesList.lblAnalysisResult;Résultats de l'analyse
-Admin.ImportPricesList.lblResultsSuccess1;Le document a été correctement analysé, il va être importé
-Admin.ImportPricesList.lblResultsSuccess2;enregistrements, cliquez sur le bouton suivant pour continuer.
-Admin.ImportPricesList.lblResultsErrorImportTemplate;Une erreur s'est produite lors de l'importation du modèle
-Admin.ImportPricesList.lblResultsErrorAnalizeFile;Une erreur s'est produite lors de l'analyse du document dans les lignes:
-Admin.ImportPricesList.lblBadLine;Ligne
-Admin.ImportPricesList.COMPOUND_NOT_FOUND;- parc de stockage non trouvé
-Admin.ImportPricesList.REGION_NOT_FOUND;- Région non trouvée
-Admin.ImportPricesList.FORMAT_NOT_VALID;- Format non valide
-Admin.ImportPricesList.btnImport;Importer
-Admin.ImportPricesList.lblResultsImport;Résultats de l'importation
-Admin.ImportPricesList.lblResultSuccess1;Ont été importés avec succès
-Admin.ImportPricesList.lblResultSuccess2;les entrées
-Admin.ImportPricesList.lblErrorImportTemplateInLines;Une erreur s'est produite lors de l'importation du modèle dans les lignes:
-Admin.ImportLocalPricesList.Title;Prix local d'importation
-Admin.FillFileWithPrices.dliSelectTemplate;Sélectionner un modèle
-Admin.FillFileWithPrices.Title;Calculer les prix par modèle
-Admin.FillFileWithPrices.InputsTitle;Données
-Admin.FillFileWithPrices.lblInputsInfo;Assigner les colonnes correspondantes du modèle
-Admin.FillFileWithPrices.OutputsTitle;Résultats
-Admin.FillFileWithPrices.lblOutputsInfo;Des erreurs ont été trouvées dans le modèle. Merci de vérifier les erreurs et de réessayer:
-Admin.FillFileWithPrices.lblOutputsErrorRow;Erreur dans la ligne:
-Admin.FillFileWithPrices.btnCreateNew;Créer un modèle
-Admin.FillFileWithPrices.lblTemplateName;Nom du modèle
-Admin.FillFileWithPrices.lblPickUpCountryCode;Code pays de collecte
-Admin.FillFileWithPrices.lblPickUpCompoundCode;Code parc de collecte
-Admin.FillFileWithPrices.lblDeliveryCountryCode;Code pays de livraison
-Admin.FillFileWithPrices.lblDeliveryPostcode;Code postal de livraion
-Admin.FillFileWithPrices.lblVehicleType;Type de véhicule
-Admin.FillFileWithPrices.lblResultPrice;Prix de vente
-Admin.FillFileWithPrices.lblResultLeadTime;Délai
-Admin.FillFileWithPrices.bntSaveTemplate;Enregistrer
-Admin.FillFileWithPrices.bntRemoveTemplate;Enlever
-Admin.FillFileWithPrices.bntFillPrices;Calculez et complétez les prix
-Admin.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Type de véhicule non trouvé
-Admin.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;Pays de collecte non valide
-Admin.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;Pays de livraison non valide
-Admin.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Parc non valide
-Admin.PricesList.Container.Title;Liste de prix administrateur par région
-Admin.PricesList.BcaBranchList.Title;Parc BCA de départ
-Admin.PricesList.CountryList.Title;Pays d'origine
-Admin.PricesList.DestinityCountryList.Title;Pays de destination
-Admin.PricesList.DestinityRegionList.Title;Régions de destination
-Admin.PricesList.DestinityRegionList.lblCode;Code
-Admin.PricesList.DestinityRegionList.lblRegion;Région
-Admin.PricesList.DestinityRegionList.lblOriginCountry;Origine
-Admin.PricesList.PriceListEdit.Title;Prix d'édition
-Admin.PricesList.PriceListEdit.lblInfo;Remplisser tous les champs pour modifier un prix
-Admin.PricesList.PriceListEdit.lblEstimatedTime;Temps estimé
-Admin.PricesListLocal.Container.Title;Liste de prix par kilomètre local
-Admin.PricesListLocal.CountryListLocal.Title;Choisisser le pays
-Admin.PricesListLocal.PricesListLocalEdit.Title;Prix Édition
-Admin.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Remplissez tous les champs pour créer ou modifier un prix
-Admin.PricesListLocal.PricesListLocalEdit.lblUpToKm;Jusqu'à (km)
-Admin.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Nombre estimé de jours
-Admin.PricesListLocal.PricesListLocalEdit.btnDelete;Effacer
-Admin.PricesListLocal.PriceListLocalList.Title;Liste de prix / Distance
-Admin.PricesListLocal.PriceListLocalList.lblUpToKm;Jusqu'à km
-Admin.PricesListLocal.PriceListLocalList.lblNewLog;Nouvelle entrée
-Admin.PricesListLocal.PriceListLocalList.lblUpTo;Jusqu'à
+Admin.RightMenu.Title1;Geral
+Admin.RightMenu.lblLanguageName;Inglês
+Admin.RightMenu.Dashboard;Painel de instrumentos
+Admin.RightMenu.Title2-AdminUser;Menu de utilizadores administradores
+Admin.RightMenu.Title2-ETSUser;Menu de utilizadores ETS
+Admin.RightMenu.Title2-UserCountry;Menu de utilizador por país
+Admin.RightMenu.LocalRegionsAdministrator;Regiões locais
+Admin.RightMenu.RegionsAdministrator;Regiões Internacionais
+Admin.RightMenu.ImportRegionsAdministrator;Regiões de importação
+Admin.RightMenu.PriceListAdministratorInternational;Lista de Preços Internacionais por Região
+Admin.RightMenu.PriceListAdministratorLocal;Lista de Preços Locais por Região
+Admin.RightMenu.LocalPriceListAdministrator;Lista de Preços por Km Locais
+Admin.RightMenu.ImportPriceListAdministrator;Lista de preços de importação por região
+Admin.RightMenu.ImportLocalPrices;Lista de Preços de Importação por Km Local
+Admin.RightMenu.CountryConfiguration;Configuração do país
+Admin.RightMenu.CompoundConfiguration;Configuração das instalações
+Admin.RightMenu.UsersAdministrator;Utilizadores
+Admin.RightMenu.ResourceAdministrator;Gerenciador de recursos
+Admin.RightMenu.ImportFileToCalculatePrices;Calcular os preços por modelo
+Admin.RightMenu.UserLogsAdministrator;Logs do utilizador
+Admin.RightMenu.Title3;Utilizador
+Admin.RightMenu.EditMyUser;Editar o meu utilizador
+Admin.RightMenu.LogOff;Logoff
+Admin.RegionEdit.Title;Editar Região
+Admin.RegionEdit.Info;Preencha todos os campos para criar ou editar uma região
+Admin.RegionEdit.lblCode;Código
+Admin.RegionEdit.lblName;Nome
+Admin.RegionEdit.btnSaveRegion;Guardar Região
+Admin.RegionEdit.btnDesactiveRegion;Região desativada
+Admin.RegionEdit.btnActiveRegion;Região ativa
+Admin.RegionEdit.regionCodeAlreadyExistMessage;Já existe uma região com esse código 
+Admin.RegionEdit.desactivateMessage;A região foi desativada
+Admin.RegionEdit.activateMessage;A região foi ativada
+Admin.RegionEdit.lblOriginCountryName;País de origem
+Admin.RegionEdit.lblDestinyCountryName;País de destino
+Admin.RegionEdit.dliAllCountries;Todos os países
+Admin.RegionList.TitleInternational;Regiões Internacionais
+Admin.RegionList.TitleLocal;Regiões locais
+Admin.RegionList.InfoLocal;(Ativo / País / Código / Nome)
+Admin.RegionList.InfoInternational;(Activo / País de origem / País de destino / Código / Nome)
+Admin.RegionList.dliCountries;- Todos os países -
+Admin.RegionList.lblNewRegion;Nova Região
+Admin.RegionZipCodes.Title;Códigos Postais
+Admin.RegionZipCodes.lblAddNewZP;Adicionar novo CP, dígitos máximos:
+Admin.RegionZipCodes.inputError;Este campo deve ser numérico
+Admin.RegionZipCodes.iconDelete;Apagar Log
+Admin.RegionZipCodes.deleteMessage;Os dados foram removidos corretamente
+Admin.RegionZipCodes.errorMessage;O código já existe no mesmo país
+Admin.RegionZipCodes.validationMessage;Caráter não válido
+Admin.ImportPricesList.Title;Lista de preços de importação por região
+Admin.ImportPricesList.lblSelectRegionToImport;Selecione o tipo de região que deseja ser importada
+Admin.ImportPricesList.dliInternational;Internacional
+Admin.ImportPricesList.dliLocal;Local
+Admin.ImportPricesList.lblDownloadTemplate;Download do modelo para importação
+Admin.ImportPricesList.btnDownload;Download do Modelo -
+Admin.ImportPricesList.lblSelectDestinityCountry;Selecione o país de origem
+Admin.ImportPricesList.dliSelectDestinityCountry;- Selecione um país de origem -
+Admin.ImportPricesList.lblCountry;País
+Admin.ImportPricesList.lblBcaPark;Parque BCA
+Admin.ImportPricesList.lblSelectFilledTemplate;Selecione o modelo preenchido com os dados de importação
+Admin.ImportPricesList.btnAnalize;Analize Documento -
+Admin.ImportPricesList.lblAnalysisResult;Resultados da análise
+Admin.ImportPricesList.lblResultsSuccess1;O documento foi analisado corretamente, está prestes a ser importado
+Admin.ImportPricesList.lblResultsSuccess2;registros, pressione no botão seguinte para prosseguir.
+Admin.ImportPricesList.lblResultsErrorImportTemplate;Ocorreu um erro ao importar o modelo
+Admin.ImportPricesList.lblResultsErrorAnalizeFile;Ocorreu um erro ao analisar o documento nas linhas:
+Admin.ImportPricesList.lblBadLine;linha
+Admin.ImportPricesList.COMPOUND_NOT_FOUND;- Local não encontrado
+Admin.ImportPricesList.REGION_NOT_FOUND;- Região não encontrada
+Admin.ImportPricesList.FORMAT_NOT_VALID;- Formato não válido
+Admin.ImportPricesList.btnImport;Importar
+Admin.ImportPricesList.lblResultsImport;Resultados da importação
+Admin.ImportPricesList.lblResultSuccess1;Foram importados com sucesso
+Admin.ImportPricesList.lblResultSuccess2;Entradas
+Admin.ImportPricesList.lblErrorImportTemplateInLines;Ocorreu um erro ao importar o modelo nas linhas:
+Admin.ImportLocalPricesList.Title;Importar preço local
+Admin.FillFileWithPrices.dliSelectTemplate;Seleccionar modelo
+Admin.FillFileWithPrices.Title;Calcular preço por modelo
+Admin.FillFileWithPrices.InputsTitle;Entradas
+Admin.FillFileWithPrices.lblInputsInfo;Atribuir as colunas correspondentes do modelo
+Admin.FillFileWithPrices.OutputsTitle;Saídas
+Admin.FillFileWithPrices.lblOutputsInfo;Foram encontrados erros no modelo, por favor verifique os erros e tente novamente:
+Admin.FillFileWithPrices.lblOutputsErrorRow;Erros na linha:
+Admin.FillFileWithPrices.btnCreateNew;Criar Modelo
+Admin.FillFileWithPrices.lblTemplateName;Nome do Modelo
+Admin.FillFileWithPrices.lblPickUpCountryCode;Código do País de recolha
+Admin.FillFileWithPrices.lblPickUpCompoundCode;Código do local de recolha
+Admin.FillFileWithPrices.lblDeliveryCountryCode;Código do País de entrega
+Admin.FillFileWithPrices.lblDeliveryPostcode;Código Postal de entrega
+Admin.FillFileWithPrices.lblVehicleType;Tipo de veículo
+Admin.FillFileWithPrices.lblResultPrice;Preço resultante
+Admin.FillFileWithPrices.lblResultLeadTime;Tempo de entrega resultante
+Admin.FillFileWithPrices.bntSaveTemplate;Gravar
+Admin.FillFileWithPrices.bntRemoveTemplate;Remover
+Admin.FillFileWithPrices.bntFillPrices;Calcular e preencher preços
+Admin.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Tipo de veículo não encontrado
+Admin.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;País de recolha inválido
+Admin.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;País de entrega inválido
+Admin.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Instalações inválidas
+Admin.PricesList.Container.Title;Administrador de lista de preços por regiões
+Admin.PricesList.BcaBranchList.Title;Parque de origem BCA
+Admin.PricesList.CountryList.Title;País de origem
+Admin.PricesList.DestinityCountryList.Title;País de destino
+Admin.PricesList.DestinityRegionList.Title;Regiões de destino
+Admin.PricesList.DestinityRegionList.lblCode;Código
+Admin.PricesList.DestinityRegionList.lblRegion;Região
+Admin.PricesList.DestinityRegionList.lblOriginCountry;Origem
+Admin.PricesList.PriceListEdit.Title;Edição de Preços
+Admin.PricesList.PriceListEdit.lblInfo;Preencha todos os campos para editar um preço
+Admin.PricesList.PriceListEdit.lblEstimatedTime;Tempo estimado
+Admin.PricesListLocal.Container.Title;Lista de Preços por Km Local
+Admin.PricesListLocal.CountryListLocal.Title;Selecione o país
+Admin.PricesListLocal.PricesListLocalEdit.Title;Edição de Preços
+Admin.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Preencha todos os campos para criar ou editar um preço
+Admin.PricesListLocal.PricesListLocalEdit.lblUpToKm;Até (km)
+Admin.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Dias estimados
+Admin.PricesListLocal.PricesListLocalEdit.btnDelete;Apagar
+Admin.PricesListLocal.PriceListLocalList.Title;Lista de Preços / Distância
+Admin.PricesListLocal.PriceListLocalList.lblUpToKm;Até a Km
+Admin.PricesListLocal.PriceListLocalList.lblNewLog;Novo log
+Admin.PricesListLocal.PriceListLocalList.lblUpTo;Até
 Admin.PricesListLocal.PriceListLocalList.lblKm;km
-Admin.PricesListLocal.PriceListLocalList.lblKm;jours
-Admin.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Centre de stockage non trouvé
-Admin.Country.CountryContainer.Title;Configuration des pays
-Admin.Country.CountryEdit.lblInfo;Remplissez tous les champs pour éditer un pays
-Admin.Country.CountryEdit.lblCountryName;Nom du pays
-Admin.Country.CountryEdit.lblOriginCountry;Pays d'origine (avec parcs BCA)
-Admin.Country.CountryEdit.lblDestinityCountry;Pays de destination
-Admin.Country.CountryEdit.lblZipCodeLongitudeValidation;Longueur du code postal pour validation
-Admin.Country.CountryEdit.lblResourceKey;Clé de ressource
-Admin.Country.CountryEdit.iconWarning;Si vous modifiez ce champ, les enregistrements de la base de données seront supprimés.
-Admin.Country.CountryEdit.lblLocalTransportType;Type de transport local
-Admin.Country.CountryEdit.dliRegion;Par région
-Admin.Country.CountryEdit.dliKm;Par Kms
-Admin.Country.CountryEdit.iconInfoSearchRegion;Nombre de chiffres à rechercher par région. Ex: 28005 -> Code postal 28 (2 chiffres)
-Admin.Country.CountryEdit.lblZipCode;Premiers chiffres par code postal
-Admin.Country.CountryEdit.lblMandatoryTransportation;Transport obligatoire
-Admin.Country.CountryEdit.dliOrlblYes;Oui
-Admin.Country.CountryEdit.dliOrlblNo;Non
-Admin.Country.CountryEdit.lblMandatoryTransportationMessage;Message de transport obligatoire
-Admin.Country.CountryEdit.lblNonMandatoryTransportationMessage;Message de transport non obligatoire
-Admin.Country.CountryEdit.btnSaveCountry;Enregistrer le pays
-Admin.Country.CountryEdit.warningMessage;Si vous modifiez ce champ, tous les frais et régions liés à ce pays seront supprimés
-Admin.Country.CountryEdit.lblZipPlaceholder;Code postal de substitution
-Admin.Country.CountryEdit.lblMoneySymbolNational;Symbole de monnaie nationale
-Admin.Country.CountryEdit.lblMoneySymbolInternational;Symbole de monnaie internationale
-Admin.Country.CountryEdit.lblInternationalTransportActive;Transport international actif
-Admin.Country.CountryEdit.lblLocalTransportActive;Transport local actif
-Admin.Country.CountryEdit.lblTransportRequestActive;Actif/ve
-Admin.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Emails pour demander un transport international
-Admin.Country.CountryEdit.lblEmailsToRequestLocalTransport;Emails pour demander un transport local
-Admin.Country.CountryEdit.lblShowFieldOptionRequest1;Montrer l'option 1
-Admin.Country.CountryEdit.lblShowFieldOptionRequest2;Montrer l'option 2
-Admin.Country.CountryEdit.lblShowFieldOptionRequest3;Montrer l'option 3
-Admin.Country.CountryEdit.lblShowFieldOptionRequest4;Montrer l'option 4
-Admin.Country.CountryEdit.lblShowFieldOptionRequest5;Montrer l'option 5
-Admin.Country.CountryEdit.lblShowFieldOptionRequest6;Montrer l'option 6
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest1;Option 1 obligatoire
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest2;Option 2 obligatoire
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest3;Option 3 obligatoire
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest4;Option 4 obligatoire
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest5;Option 5 obligatoire
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest6;Option 6 obligatoire
-Admin.Country.CountryEdit.lblTitleRequestTransport;Demande de transport
-Admin.Country.CountryEdit.lblInfoRequestTransport;Attention: veuillez contacter le gestionnaire de ressources si vous désirez éditer: des étiquettes, des hauts et bas de page
-Admin.Country.CountryEdit.lblInputFileOption;Importer des documents
-Admin.Country.CountryList.Title;Choisissez un pays
-Admin.Country.CountryList.lblInfo;Actif internationalement / actif localement / Pays / Code / Nom
-Admin.Resources.Container.lblResourceManager;Gestionnaire de ressources
-Admin.Resources.LanguageList.lblSelectLanguage;Sélectionner une langue
-Admin.Resources.ResourceEdit.lblWriteAddress;Écrire une adresse
-Admin.Resources.ResourceEdit.btnSaveResource;Enregistrer la ressource
-Admin.Resources.ResourceList.lblSelectResource;Sélectionner la ressource
-Admin.CompoundEdit.Title;Modifier le parc de stockage
-Admin.CompoundEdit.Info;Remplir tous les champs pour créer ou éditer un parc de stockage
-Admin.CompoundEdit.lblAddress;Adresse
-Admin.CompoundEdit.lblInternationalAddress;Actif internationalement
-Admin.CompoundEdit.lblLocalActive;Actif localement
-Admin.CompoundEdit.lblCoordsX;Coordonnées X
-Admin.CompoundEdit.lblCoordsY;Coordonnées Y
-Admin.CompoundEdit.btnSaveCompound;Enregistrer le parc de stockage
-Admin.CompoundEdit.btnDeleteCompound;Supprimer le parc de stockage
-Admin.CompoundEdit.btnLocateCompound;Parc de stockage local
-Admin.CompoundEdit.locateMessage;Le parc de stockage a été localisé
-Admin.CompoundConfiguration.Title;Configuration du parc de stockage
-Admin.CompoundConfiguration.Info;(Actif internationalement / actif localement / Pays / Code / Nom)
-Admin.CompoundConfiguration.btnNewCompound;Nouveau parc de stockage
+Admin.PricesListLocal.PriceListLocalList.lblKm;dias
+Admin.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Local não encontrado
+Admin.Country.CountryContainer.Title;Configuração do país
+Admin.Country.CountryEdit.lblInfo;Preencha todos os campos para editar um país
+Admin.Country.CountryEdit.lblCountryName;Nome do país
+Admin.Country.CountryEdit.lblOriginCountry;País de origem (com parques BCA)
+Admin.Country.CountryEdit.lblDestinityCountry;País de destino
+Admin.Country.CountryEdit.lblZipCodeLongitudeValidation;Comprimento do Código Postal para validação
+Admin.Country.CountryEdit.lblResourceKey;Chave de Recurso
+Admin.Country.CountryEdit.iconWarning;Se modificar este campo, os registos na base de dados serão apagados
+Admin.Country.CountryEdit.lblLocalTransportType;Tipo de transporte local
+Admin.Country.CountryEdit.dliRegion;Por região
+Admin.Country.CountryEdit.dliKm;Por Kms
+Admin.Country.CountryEdit.iconInfoSearchRegion;Número de dígitos para pesquisar por região. Ex: 28005 -> CEP 28 (2 dígitos)
+Admin.Country.CountryEdit.lblZipCode;Primeiros Dígitos por Código Postal
+Admin.Country.CountryEdit.lblMandatoryTransportation;Transporte Obrigatório
+Admin.Country.CountryEdit.dliOrlblYes;Sim
+Admin.Country.CountryEdit.dliOrlblNo;Não
+Admin.Country.CountryEdit.lblMandatoryTransportationMessage;Mensagem obrigatória de transporte
+Admin.Country.CountryEdit.lblNonMandatoryTransportationMessage;Mensagem de transporte não obrigatória
+Admin.Country.CountryEdit.btnSaveCountry;Gravar o país
+Admin.Country.CountryEdit.warningMessage;Se modificar este campo, todas as taxas e regiões relacionadas com este país serão eliminadas
+Admin.Country.CountryEdit.lblZipPlaceholder;Espaço reservado para código
+Admin.Country.CountryEdit.lblMoneySymbolNational;Símbolo da moeda local
+Admin.Country.CountryEdit.lblMoneySymbolInternational;Símbolo da moeda internacional
+Admin.Country.CountryEdit.lblInternationalTransportActive;Transporte Internacional activo
+Admin.Country.CountryEdit.lblLocalTransportActive;Transporte local activo
+Admin.Country.CountryEdit.lblTransportRequestActive;Activo
+Admin.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Emails para pedir transporte internacional
+Admin.Country.CountryEdit.lblEmailsToRequestLocalTransport;Emails para pedir transporte local
+Admin.Country.CountryEdit.lblShowFieldOptionRequest1;Mostrar opção 1
+Admin.Country.CountryEdit.lblShowFieldOptionRequest2;Mostrar opção 2
+Admin.Country.CountryEdit.lblShowFieldOptionRequest3;Mostrar opção 3
+Admin.Country.CountryEdit.lblShowFieldOptionRequest4;Mostrar opção 4
+Admin.Country.CountryEdit.lblShowFieldOptionRequest5;Mostrar opção 5
+Admin.Country.CountryEdit.lblShowFieldOptionRequest6;Mostrar opção 6
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest1;Obrigatória opção 1
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest2;Obrigatória opção 2
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest3;Obrigatória opção 3
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest4;Obrigatória opção 4
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest5;Obrigatória opção 5
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest6;Obrigatória opção 6
+Admin.Country.CountryEdit.lblTitleRequestTransport;Pedir Transporte
+Admin.Country.CountryEdit.lblInfoRequestTransport;Aviso: Tem de ir ao gestor de recursos se quer editar: etiquetas, rodapé e cabeçalho do email
+Admin.Country.CountryEdit.lblInputFileOption;Carregar ficheiros
+Admin.Country.CountryList.Title;Selecione um país
+Admin.Country.CountryList.lblInfo;Internacional Activo / Local Activo / País / Código / Nome
+Admin.Resources.Container.lblResourceManager;Gerenciador de recursos
+Admin.Resources.LanguageList.lblSelectLanguage;Selecione um idioma
+Admin.Resources.ResourceEdit.lblWriteAddress;Escreva um endereço
+Admin.Resources.ResourceEdit.btnSaveResource;Salvar Recurso
+Admin.Resources.ResourceList.lblSelectResource;Selecione o recurso
+Admin.CompoundEdit.Title;Editar local
+Admin.CompoundEdit.Info;Completar todos os campos para criar ou editar Local
+Admin.CompoundEdit.lblAddress;Morada
+Admin.CompoundEdit.lblInternationalAddress;Internacional Activo
+Admin.CompoundEdit.lblLocalActive;Local Activo
+Admin.CompoundEdit.lblCoordsX;Coordenadas X
+Admin.CompoundEdit.lblCoordsY;Coordenadas Y
+Admin.CompoundEdit.btnSaveCompound;Guardar Local
+Admin.CompoundEdit.btnDeleteCompound;Apagar Local
+Admin.CompoundEdit.btnLocateCompound;Localizar Local
+Admin.CompoundEdit.locateMessage;O local foi localizado
+Admin.CompoundConfiguration.Title;Configurar Local
+Admin.CompoundConfiguration.Info;(Internacional Activo / Local Activo / Localizar Activo / País / Código / Nome)
+Admin.CompoundConfiguration.btnNewCompound;Novo Local
