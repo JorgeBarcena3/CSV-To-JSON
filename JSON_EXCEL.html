@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Exportaciónes de CSV to JSON</title>
-    <script type="text/javascript" src="js/lib/vendor/d3.v3.min.js"></script>
+    <script type="text/javascript" src="js/lib/vendor/d3.js"></script>
     <script type="text/javascript" src="js/source/Nodo.js"></script>
     <script type="text/javascript" src="js/source/codeToCSV.js"></script>
 
@@ -17,10 +17,10 @@
         <span>Nombre del fichero: </span>
         <input type="text" id="Name" placeholder="Nombre de archivo" onkeyup="UpdateName()"
             style="width: 20%;">
-        <button onclick="downloadObjectAsCSV()">DESCARGAR PLANTILLA</button>
+        <button onclick="downloadObjectAsCSV()">DESCARGAR JSON</button>
         <span><a href="./index.html">EXCEL TO JSON</a></span>
     </div>
-    <!-- <textarea id="MiID" style="width:100%;height: 93vh;"></textarea> -->
+    <textarea id="MiID" style="width:100%;height: 93vh;"></textarea>
 </body>
 
 </html>

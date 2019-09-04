@@ -1,413 +1,429 @@
-﻿Path;Traductions
-Calculator.Title;Calculador de Transporte
-Calculator.StartAgain;Começar de novo
-Calculator.Basic.BasicContainer.lblTransportCalculator;Calculador de Transporte
-Calculator.Basic.BasicStep1.lblTransportationType;Selecione o tipo de transporte
-Calculator.Basic.BasicStep1.btnNational;Nacional
-Calculator.Basic.BasicStep1.btnInternational;Internacional
-Calculator.Basic.BasicStep1.lblPick-upLocation;Selecione local de recolha
-Calculator.Basic.BasicStep1.lblCountryPick-upLocation;Por favor, selecione o local de recolha (País)
-Calculator.Basic.BasicStep1.dliSelect;- Selecione -
-Calculator.Basic.BasicStep1.lblErrorLoadingCountry;Deve selecionar um país de carga
-Calculator.Basic.BasicStep1.lblBCAPick-upLocation;Por favor, selecione o local de recolha (local da BCA)
-Calculator.Basic.BasicStep1.lblErrorCompound;Deve selecionar um local de recolha
-Calculator.Basic.BasicStep1.lblSelectDeliveryLocation;Selecione o local de entrega
-Calculator.Basic.BasicStep1.lblSelectDestinationCountry;Por favor selecione o país de destino
-Calculator.Basic.BasicStep1.lblErrorDestinationCountry;Deve selecionar um país de destino
-Calculator.Basic.BasicStep1.lblZipCodeDestination;Por favor, indique o código postal do destino
-Calculator.Basic.BasicStep1.lblErrorZipCode;Deve escrever um código postal válido
-Calculator.Basic.BasicStep1.btnCalculate;Calcular
-Calculator.Basic.BasicStep2.btnGoBack;Voltar
-Calculator.Basic.BasicStep2.lblDataSelected;Dados selecionados para cálculo
-Calculator.Basic.BasicStep2.lblTransportationType;Tipo de transporte
-Calculator.Basic.BasicStep2.lblPickupLocationCountry;Local de recolha (país)
-Calculator.Basic.BasicStep2.lblPickupLocationBCA;Local de recolha (BCA)
-Calculator.Basic.BasicStep2.lblDestinationCountry;País de destino
-Calculator.Basic.BasicStep2.lblDestinationPostcodeRegion;Código postal / região de destino
-Calculator.Basic.BasicStep2.lblCalculationResult;Resultado do cálculo
-Calculator.Basic.BasicStep2.lblVehicleType;Tipo de veículo
-Calculator.Basic.BasicStep2.lblNumber;Número
-Calculator.Basic.BasicStep2.lblFee;Taxa
-Calculator.Basic.BasicStep2.lblDeliveryDeliveryUpTo;Entrega até
-Calculator.Basic.BasicStep2.lblBankWorkingDays;Dias úteis
-Calculator.Basic.BasicStep2.lblPerPassengerCar;Por ligeiro
-Calculator.Basic.BasicStep2.lblPerSUV;Por SUV
-Calculator.Basic.BasicStep2.lblPerLCV;Por LCV
-Calculator.Basic.BasicStep2.lblFullTruckLoad;Carga Camião Completo
-Calculator.Basic.BasicStep2.btnRequestThisTransport;Pedir este transporte
-Calculator.Basic.BasicStep3.btnGoBack;Voltar
-Calculator.Basic.BasicStep3.lblRequestTransport;Pedir transporte
-Calculator.Basic.BasicStep3.lblOverview;Visão geral
-Calculator.Basic.BasicStep3.lblInfoDetails;Para pedir este transporte, por favor forneça abaixo os detalhes do contacto. Quando todos os detalhes estiverem correctos, enviaremos a factura do transporte por email. Se faltar alguma informação, entraremos em contacto.
-Calculator.Basic.BasicStep3.lblMandatoryField;Campo obrigatório
-Calculator.Basic.BasicStep3.btnOrderThisTransport;Complete este transporte
-Calculator.Basic.BasicStep3.btnAddVehicle;Adicionar veículo
-Calculator.Basic.BasicStep3.lblContactEmail;Email de contacto
-Calculator.Basic.BasicStep3.lblVehicleVINPlateNo;Nº Chassis/Matrícula
-Calculator.Basic.BasicStep3.lblRemarks;Anotações
-Calculator.Basic.BasicStep3.lblDeliveryAddress;Morada de entrega
-Calculator.Basic.BasicStep3.lblErrorInvalidCharacters;Caracteres inválidos
-Calculator.Basic.BasicStep3.lblChooseFile;Escolha ficheiro …
-Calculator.Basic.BasicStep3.lblEmptyList;Lista vazia
-Calculator.Basic.BasicStep3.lblSelectedFiles;Ficheiros seleccionados
-Calculator.Basic.BasicStep3.lblTransportType;Tipo de transporte
-Calculator.Basic.BasicStep3.lblOverviewVIN;Chassis/Matrícula
-Calculator.Basic.BasicStep3.lblOverviewTransportType;Tipo
-Calculator.Basic.BasicStep3.lblOverviewPrice;Preço
-Calculator.Basic.BasicStep3.lblOverviewDelete;Apagar
-Calculator.Basic.BasicStep3.lblTotalVehicles;Veículos
-Calculator.Basic.BasicStep3.lblTotalTransportPrice;Preço do transporte
-Calculator.Basic.BasicStep3.lblMessageMinVehicle;Tem adicionar pelo menos um veículo
-Calculator.Basic.BasicStep3.lblMessageNumVehiclesMax;Apenas pode adicionar 8 veículos
-Calculator.Basic.BasicStep4.btnOrderThisTransport;Completar este transporte
-Calculator.Basic.BasicStep4.lblPhoneNumber;Número de telefone
-Calculator.Basic.BasicStep4.placeholderCity;Cidade
-Calculator.Basic.BasicStep4.placeholderStreet;Rua
-Calculator.Basic.BasicStep4.placeholderPostalCode;Código Postal
-Calculator.Basic.BasicStep4.placeholderCountry;País
-Calculator.Basic.BasicStep4.CustomerNamelbl;Nome do cliente
-Calculator.Step1.Title;PASSO 1 - SELECIONAR TIPO DE TRANSPORTE
-Calculator.Step1.Local;LOCAL
-Calculator.Step1.International;INTERNATIONAL
-Calculator.Step1.InformationTextTitle;Informação
-Calculator.Step1.InformationText;Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto aleatório. Tem raízes numa peça da literatura latina clássica de 45 aC, completando 2000 anos de idade. Richard McClintock.
-Calculator.Step2.Title;PASSO 2 - SELECIONE O PAÍS BCA
-Calculator.Step3.Title;PASSO 3 - SELECIONE O LOCAL DE CARGA NA FRANÇA
-Calculator.Step4.Title;PASSO 4 - SELECIONAR O PAÍS DE DESTINO
-Calculator.Step5.Title;PASSO 5 - LOCALIZAÇÃO DE ENTREGA EM FRANÇA
-Calculator.Step5.LocalAddress;ENDEREÇO LOCAL
-Calculator.Step5.ZipCode;Código Postal
-Calculator.Step5.Address;ENDEREÇO
-Calculator.Step5.Address;Tipo de Veículo
-Calculator.Step5.PassengerCar;Ligeiro
-Calculator.Step5.Suv;SUV
-Calculator.Step5.Lcv;LCV
-Calculator.Step5.FullTruckLoad;Carga completa do camião
-Calculator.Step5.ZipNumber;Código Postal
-Calculator.Step5.Region;REGIÃO
-Calculator.Step5.Calculate;CALCULAR
-Calculator.Step6.Title;PASSO FINAL - RESULTADO
-Calculator.Step6.DeliveryType;Tipo de entrega:
-Calculator.Step6.Country;País:
-Calculator.Step6.Pick-upLocation;Local de carga:
-Calculator.Step6.DestinationCountry;País de destino:
-Calculator.Step6.DestinationRegion;Região de destino:
-Calculator.Step6.Distance;Distância:
-Calculator.Step6.VehicleType;Tipo de veículo:
-Calculator.Step6.TotalPrice;Preço Total:
-Calculator.Step6.EstimatedDeliveryDate;Data de entrega estimada:
-Admin.Common.removeConfirmMessage;Deseja apagar o registo?
-Admin.Common.removeMessage;Removido correctamente
-Admin.Common.lblPricePassengerCar;Preço de ligeiro
-Admin.Common.lblPriceSUV;Preço SUV
-Admin.Common.lblPriceLCV;Preço LCV
-Admin.Common.lblPriceFullTruckLoad;Preço para Camião completo
-Admin.Common.lblSingleCarTransportationDay;Dias de transporte para só uma viatura
-Admin.Common.lblFullLoadTransportationDay;Dias de transporte para Camião completo
-Admin.Common.lblPC;PC
-Admin.Common.lblSUV;SUV
-Admin.Common.lblLCV;LCV
-Admin.Common.lblFTL;FTL
-Admin.Common.lblSingle;Único
-Admin.Common.lblFull;Completo
-Admin.Common.successMessage;Os dados foram salvos corretamente
-Admin.Common.errorCodeMsg;O código inserido já existe
-Admin.Common.lblDays;dias
-Admin.Common.CalculatorPriceNotFoundMessage;Mensagem para o preço não encontrado
-Admin.Common.CalculatorPriceFoundMessageFrance;Mensagem para o preço encontrado - França
-Admin.Common.CalculatorPriceFoundMessageItaly;Mensagem para o preço encontrado - Itália
-Admin.Common.CalculatorPriceFoundMessageGermany;Mensagem para o preço encontrado - Alemanha
-Admin.Common.CalculatorPriceFoundMessagePortugal;Mensagem para o preço encontrado - Portugal
-Admin.Common.CalculatorPriceFoundMessageDenmark;Mensagem para o preço encontrado - Dinamarca
-Admin.Common.CalculatorPriceFoundMessageSpain;Mensagem para o preço encontrado - Espanha
-Admin.Common.CalculatorPriceFoundMessageNetherlands;Mensagem para o preço encontrado - Holanda
-Admin.Common.CalculatorPriceFoundMessageSweeden;Mensagem para o preço encontrado - Suécia
-Admin.Common.CalculatorPriceFoundMessageSweeden;Mensagem para o preço encontrado - Bélgica
-Admin.Common.CalculatorPriceFoundMessageCzechRepublic;Mensagem para o preço encontrado - CzechRepublic
-Admin.Common.CalculatorPriceFoundMessageAustria;Mensagem para o preço encontrado - Austria
-Admin.Common.CalculatorPriceFoundMessageHungary;Mensagem para o preço encontrado - Hungria
-Admin.Common.CalculatorPriceFoundMessageSlovenia;Mensagem para o preço encontrado - Eslovénia
-Admin.Common.CalculatorPriceFoundMessageCroatia;Mensagem para o preço encontrado - Croácia
-Admin.Common.CalculatorPriceFoundMessageRomania;Mensagem para o preço encontrado - Romania
-Admin.Common.CalculatorPriceFoundMessageSlovakia;Mensagem para o preço encontrado - Slovakia
-Admin.Common.CalculatorPriceFoundMessageSwitzerland;Mensagem para o preço encontrado - Suíça
-Admin.Common.CalculatorPriceFoundMessageEstonia;Mensagem para o preço encontrado - Estónia
-Admin.Common.CalculatorPriceFoundMessageLatvia;Mensagem para o preço encontrado - Letónia
-Admin.Common.CalculatorPriceFoundMessageLithuania;Mensagem para o preço encontrado - Lituânia
-Admin.Common.CalculatorPriceFoundMessagePoland;Mensagem para o preço encontrado - Polónia
-Admin.Common.CalculatorPriceFoundMessageFinland;Mensagem para o preço encontrado - Finlandia
-Admin.Common.CalculatorPriceFoundMessageLuxemburg;Mensagem para o preço encontrado - Luxamburgo
-Admin.Common.CalculatorPriceFoundMessageNorway;Mensagem para o preço encontrado - Noruega
-Admin.Common.CalculatorPriceFoundMessageBulgaria;Mensagem para o preço encontrado - Bulgária
-Admin.Common.CountryFrance;França
-Admin.Common.CountryItaly;Itália
-Admin.Common.CountryGermany;Alemanha
-Admin.Common.CountryPortugal;Portugal
-Admin.Common.CountryDenmark;Dinamarca
-Admin.Common.CountrySpain;Espanha
-Admin.Common.CountryNetherlands;Holanda
-Admin.Common.CountrySweden;Suécia
-Admin.Common.CountryBelgium;Bélgica
-Admin.Common.CountryCzechRepublic;República Checa
-Admin.Common.CountryAustria;Austria
-Admin.Common.CountryHungary;Hungria
-Admin.Common.CountrySlovenia;Eslovenia
-Admin.Common.CountryCroatia;Croácia
-Admin.Common.CountryRomania;Roménia
-Admin.Common.CountrySlovakia;Eslovaquia
-Admin.Common.CountrySwitzerland;Suíça
-Admin.Common.CountryEstonia;Estónia
-Admin.Common.CountryLatvia;Letónia
-Admin.Common.CountryLithuania;Lituania
-Admin.Common.CountryPoland;Polónia
-Admin.Common.CountryFinland;Finlandia
-Admin.Common.CountryLuxemburg;Luxamburgo
-Admin.Common.CountryNorway;Noruega
-Admin.Common.CountryBulgaria;Bulgária
-Admin.Common.successMailMessage;O email foi enviado
-Admin.Common.LabelNameToOptionRequest1;Nome da opção para pedido de transporte 1
-Admin.Common.LabelNameToOptionRequest2;Nome da opção para pedido de transporte 2
-Admin.Common.LabelNameToOptionRequest3;Nome da opção para pedido de transporte 3
-Admin.Common.LabelNameToOptionRequest4;Nome da opção para pedido de transporte 4
-Admin.Common.LabelNameToOptionRequest5;Nome da opção para pedido de transporte 5
-Admin.Common.LabelNameToOptionRequest6;Nome da opção para pedido de transporte 6
-Admin.Common.EmailHeaderText;Texto para cabeçalho do email
-Admin.Common.EmailFooterText;Texto para rodapé do email
-Admin.Common.InternationalFileText;Texto para Pedido de Documentos de Transporte Internacional
-Admin.Common.LocalFileText;Texto para Pedido de Documentos de Transporte Local
-Admin.Layout.Title;ETC - ADMINISTRADOR <br /> <span> Calculadora Europeia de Transportes </ span>
-Admin.Layout.Welcome;Bem-vindo <br />
-Admin.Layout.lblCountry;País
-Admin.Layout.btnCancel;Cancelar
-Admin.Layout.btnSave;Guardar
-Admin.Layout.CountryUser;Utilizador do país
-Admin.Layout.EtsUser;Utilizador ETS
-Admin.Layout.AdminUser;Utilizador Admin
-Admin.Layout.inputError;Este campo é obrigatório
-Admin.Layout.inputErrorFormat;Formato não é válido
-Admin.Layout.lblPrice;Preço
-Admin.Login.lblUserLogin;LOGIN DO UTILIZADDOR
-Admin.Login.btnSignIn;Entrar
-Admin.Login.lblError;Utilizador ou Senha incorreto
-Admin.Dashboard.Title;Bem-vindo ao ETC - Painel do Administrador
-Admin.Dashboard.lblUserLogs;Últimos 30 orçamentos calculados
-Admin.Dashboard.lblLoadingData;A carregar …
-Admin.Dashboard.lblDate;Data
-Admin.Dashboard.lblIP;IP
-Admin.Dashboard.lblType;Tipo
-Admin.Dashboard.lblCountryFrom;País De
-Admin.Dashboard.lblParkFrom;Parque De
-Admin.Dashboard.lblZipCode;Código Postal
-Admin.Dashboard.lblDestinationCountry;País de destino
-Admin.UsersList.Title;Utilizadores
-Admin.UsersList.Info;(Ativo / Função / País / Login / Último Login)
-Admin.UsersList.AddNewUser;Adicionar novo utilizador
-Admin.UsersList.Active;Ativo
-Admin.UsersList.NotActive;Não ativo
-Admin.UsersList.UserRegion;Região do utilizador
-Admin.UsersEdit.Title;Edição do utilizador
-Admin.UsersEdit.Info;Preencha todos os campos para criar ou editar um utilizador
-Admin.UsersEdit.Name;Nome
-Admin.UsersEdit.Surname;Sobrenome
-Admin.UsersEdit.UserName;Nome de utilizador para login
-Admin.UsersEdit.Email;e-mail
-Admin.UsersEdit.DefaultLanguage;Idioma padrão
-Admin.UsersEdit.Role;Função
-Admin.UsersEdit.SaveUser;Gravar utilizador
-Admin.UsersEdit.SendPasswordByEmail;Enviar senha por email
-Admin.UsersEdit.DesactiveUser;Utilizador não ativo
-Admin.UsersEdit.ActiveUser;Utilizador ativo
-Admin.UsersEdit.desactiveMessage;Este Utilizador foi desativado
-Admin.UsersEdit.activeMessage;Este Utilizador foi ativado
-Admin.UsersEdit.emailSentMessage;O email foi enviado com sucesso
-Admin.RightMenu.lblMyCountry;Meu país
-Admin.RightMenu.lblMyEmail;Meu email
-Admin.RightMenu.imgFlag;"<img src = \ ""/ assets / images / flags / flag_en.png \"" />"
-Admin.RightMenu.Title1;Geral
-Admin.RightMenu.lblLanguageName;Inglês
-Admin.RightMenu.Dashboard;Painel de instrumentos
-Admin.RightMenu.Title2-AdminUser;Menu de utilizadores administradores
-Admin.RightMenu.Title2-ETSUser;Menu de utilizadores ETS
-Admin.RightMenu.Title2-UserCountry;Menu de utilizador por país
-Admin.RightMenu.LocalRegionsAdministrator;Regiões locais
-Admin.RightMenu.RegionsAdministrator;Regiões Internacionais
-Admin.RightMenu.ImportRegionsAdministrator;Regiões de importação
-Admin.RightMenu.PriceListAdministratorInternational;Lista de Preços Internacionais por Região
-Admin.RightMenu.PriceListAdministratorLocal;Lista de Preços Locais por Região
-Admin.RightMenu.LocalPriceListAdministrator;Lista de Preços por Km Locais
-Admin.RightMenu.ImportPriceListAdministrator;Lista de preços de importação por região
-Admin.RightMenu.ImportLocalPrices;Lista de Preços de Importação por Km Local
-Admin.RightMenu.CountryConfiguration;Configuração do país
-Admin.RightMenu.CompoundConfiguration;Configuração das instalações
-Admin.RightMenu.UsersAdministrator;Utilizadores
-Admin.RightMenu.ResourceAdministrator;Gerenciador de recursos
-Admin.RightMenu.ImportFileToCalculatePrices;Calcular os preços por modelo
-Admin.RightMenu.UserLogsAdministrator;Logs do utilizador
-Admin.RightMenu.Title3;Utilizador
-Admin.RightMenu.EditMyUser;Editar o meu utilizador
-Admin.RightMenu.LogOff;Logoff
-Admin.RegionEdit.Title;Editar Região
-Admin.RegionEdit.Info;Preencha todos os campos para criar ou editar uma região
-Admin.RegionEdit.lblCode;Código
-Admin.RegionEdit.lblName;Nome
-Admin.RegionEdit.btnSaveRegion;Guardar Região
-Admin.RegionEdit.btnDesactiveRegion;Região desativada
-Admin.RegionEdit.btnActiveRegion;Região ativa
-Admin.RegionEdit.regionCodeAlreadyExistMessage;Já existe uma região com esse código 
-Admin.RegionEdit.desactivateMessage;A região foi desativada
-Admin.RegionEdit.activateMessage;A região foi ativada
-Admin.RegionEdit.lblOriginCountryName;País de origem
-Admin.RegionEdit.lblDestinyCountryName;País de destino
-Admin.RegionEdit.dliAllCountries;Todos os países
-Admin.RegionList.TitleInternational;Regiões Internacionais
-Admin.RegionList.TitleLocal;Regiões locais
-Admin.RegionList.InfoLocal;(Ativo / País / Código / Nome)
-Admin.RegionList.InfoInternational;(Activo / País de origem / País de destino / Código / Nome)
-Admin.RegionList.dliCountries;- Todos os países -
-Admin.RegionList.lblNewRegion;Nova Região
-Admin.RegionZipCodes.Title;Códigos Postais
-Admin.RegionZipCodes.lblAddNewZP;Adicionar novo CP, dígitos máximos:
-Admin.RegionZipCodes.inputError;Este campo deve ser numérico
-Admin.RegionZipCodes.iconDelete;Apagar Log
-Admin.RegionZipCodes.deleteMessage;Os dados foram removidos corretamente
-Admin.RegionZipCodes.errorMessage;O código já existe no mesmo país
-Admin.RegionZipCodes.validationMessage;Caráter não válido
-Admin.ImportPricesList.Title;Lista de preços de importação por região
-Admin.ImportPricesList.lblSelectRegionToImport;Selecione o tipo de região que deseja ser importada
-Admin.ImportPricesList.dliInternational;Internacional
-Admin.ImportPricesList.dliLocal;Local
-Admin.ImportPricesList.lblDownloadTemplate;Download do modelo para importação
-Admin.ImportPricesList.btnDownload;Download do Modelo -
-Admin.ImportPricesList.lblSelectDestinityCountry;Selecione o país de origem
-Admin.ImportPricesList.dliSelectDestinityCountry;- Selecione um país de origem -
-Admin.ImportPricesList.lblCountry;País
-Admin.ImportPricesList.lblBcaPark;Parque BCA
-Admin.ImportPricesList.lblSelectFilledTemplate;Selecione o modelo preenchido com os dados de importação
-Admin.ImportPricesList.btnAnalize;Analize Documento -
-Admin.ImportPricesList.lblAnalysisResult;Resultados da análise
-Admin.ImportPricesList.lblResultsSuccess1;O documento foi analisado corretamente, está prestes a ser importado
-Admin.ImportPricesList.lblResultsSuccess2;registros, pressione no botão seguinte para prosseguir.
-Admin.ImportPricesList.lblResultsErrorImportTemplate;Ocorreu um erro ao importar o modelo
-Admin.ImportPricesList.lblResultsErrorAnalizeFile;Ocorreu um erro ao analisar o documento nas linhas:
-Admin.ImportPricesList.lblBadLine;linha
-Admin.ImportPricesList.COMPOUND_NOT_FOUND;- Local não encontrado
-Admin.ImportPricesList.REGION_NOT_FOUND;- Região não encontrada
-Admin.ImportPricesList.FORMAT_NOT_VALID;- Formato não válido
-Admin.ImportPricesList.btnImport;Importar
-Admin.ImportPricesList.lblResultsImport;Resultados da importação
-Admin.ImportPricesList.lblResultSuccess1;Foram importados com sucesso
-Admin.ImportPricesList.lblResultSuccess2;Entradas
-Admin.ImportPricesList.lblErrorImportTemplateInLines;Ocorreu um erro ao importar o modelo nas linhas:
-Admin.ImportLocalPricesList.Title;Importar preço local
-Admin.FillFileWithPrices.dliSelectTemplate;Seleccionar modelo
-Admin.FillFileWithPrices.Title;Calcular preço por modelo
-Admin.FillFileWithPrices.InputsTitle;Entradas
-Admin.FillFileWithPrices.lblInputsInfo;Atribuir as colunas correspondentes do modelo
-Admin.FillFileWithPrices.OutputsTitle;Saídas
-Admin.FillFileWithPrices.lblOutputsInfo;Foram encontrados erros no modelo, por favor verifique os erros e tente novamente:
-Admin.FillFileWithPrices.lblOutputsErrorRow;Erros na linha:
-Admin.FillFileWithPrices.btnCreateNew;Criar Modelo
-Admin.FillFileWithPrices.lblTemplateName;Nome do Modelo
-Admin.FillFileWithPrices.lblPickUpCountryCode;Código do País de recolha
-Admin.FillFileWithPrices.lblPickUpCompoundCode;Código do local de recolha
-Admin.FillFileWithPrices.lblDeliveryCountryCode;Código do País de entrega
-Admin.FillFileWithPrices.lblDeliveryPostcode;Código Postal de entrega
-Admin.FillFileWithPrices.lblVehicleType;Tipo de veículo
-Admin.FillFileWithPrices.lblResultPrice;Preço resultante
-Admin.FillFileWithPrices.lblResultLeadTime;Tempo de entrega resultante
-Admin.FillFileWithPrices.bntSaveTemplate;Gravar
-Admin.FillFileWithPrices.bntRemoveTemplate;Remover
-Admin.FillFileWithPrices.bntFillPrices;Calcular e preencher preços
-Admin.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Tipo de veículo não encontrado
-Admin.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;País de recolha inválido
-Admin.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;País de entrega inválido
-Admin.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Instalações inválidas
-Admin.PricesList.Container.Title;Administrador de lista de preços por regiões
-Admin.PricesList.BcaBranchList.Title;Parque de origem BCA
-Admin.PricesList.CountryList.Title;País de origem
-Admin.PricesList.DestinityCountryList.Title;País de destino
-Admin.PricesList.DestinityRegionList.Title;Regiões de destino
-Admin.PricesList.DestinityRegionList.lblCode;Código
-Admin.PricesList.DestinityRegionList.lblRegion;Região
-Admin.PricesList.DestinityRegionList.lblOriginCountry;Origem
-Admin.PricesList.PriceListEdit.Title;Edição de Preços
-Admin.PricesList.PriceListEdit.lblInfo;Preencha todos os campos para editar um preço
-Admin.PricesList.PriceListEdit.lblEstimatedTime;Tempo estimado
-Admin.PricesListLocal.Container.Title;Lista de Preços por Km Local
-Admin.PricesListLocal.CountryListLocal.Title;Selecione o país
-Admin.PricesListLocal.PricesListLocalEdit.Title;Edição de Preços
-Admin.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Preencha todos os campos para criar ou editar um preço
-Admin.PricesListLocal.PricesListLocalEdit.lblUpToKm;Até (km)
-Admin.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Dias estimados
-Admin.PricesListLocal.PricesListLocalEdit.btnDelete;Apagar
-Admin.PricesListLocal.PriceListLocalList.Title;Lista de Preços / Distância
-Admin.PricesListLocal.PriceListLocalList.lblUpToKm;Até a Km
-Admin.PricesListLocal.PriceListLocalList.lblNewLog;Novo log
-Admin.PricesListLocal.PriceListLocalList.lblUpTo;Até
-Admin.PricesListLocal.PriceListLocalList.lblKm;km
-Admin.PricesListLocal.PriceListLocalList.lblKm;dias
-Admin.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Local não encontrado
-Admin.Country.CountryContainer.Title;Configuração do país
-Admin.Country.CountryEdit.lblInfo;Preencha todos os campos para editar um país
-Admin.Country.CountryEdit.lblCountryName;Nome do país
-Admin.Country.CountryEdit.lblOriginCountry;País de origem (com parques BCA)
-Admin.Country.CountryEdit.lblDestinityCountry;País de destino
-Admin.Country.CountryEdit.lblZipCodeLongitudeValidation;Comprimento do Código Postal para validação
-Admin.Country.CountryEdit.lblResourceKey;Chave de Recurso
-Admin.Country.CountryEdit.iconWarning;Se modificar este campo, os registos na base de dados serão apagados
-Admin.Country.CountryEdit.lblLocalTransportType;Tipo de transporte local
-Admin.Country.CountryEdit.dliRegion;Por região
-Admin.Country.CountryEdit.dliKm;Por Kms
-Admin.Country.CountryEdit.iconInfoSearchRegion;Número de dígitos para pesquisar por região. Ex: 28005 -> CEP 28 (2 dígitos)
-Admin.Country.CountryEdit.lblZipCode;Primeiros Dígitos por Código Postal
-Admin.Country.CountryEdit.lblMandatoryTransportation;Transporte Obrigatório
-Admin.Country.CountryEdit.dliOrlblYes;Sim
-Admin.Country.CountryEdit.dliOrlblNo;Não
-Admin.Country.CountryEdit.lblMandatoryTransportationMessage;Mensagem obrigatória de transporte
-Admin.Country.CountryEdit.lblNonMandatoryTransportationMessage;Mensagem de transporte não obrigatória
-Admin.Country.CountryEdit.btnSaveCountry;Gravar o país
-Admin.Country.CountryEdit.warningMessage;Se modificar este campo, todas as taxas e regiões relacionadas com este país serão eliminadas
-Admin.Country.CountryEdit.lblZipPlaceholder;Espaço reservado para código
-Admin.Country.CountryEdit.lblMoneySymbolNational;Símbolo da moeda local
-Admin.Country.CountryEdit.lblMoneySymbolInternational;Símbolo da moeda internacional
-Admin.Country.CountryEdit.lblInternationalTransportActive;Transporte Internacional activo
-Admin.Country.CountryEdit.lblLocalTransportActive;Transporte local activo
-Admin.Country.CountryEdit.lblTransportRequestActive;Activo
-Admin.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Emails para pedir transporte internacional
-Admin.Country.CountryEdit.lblEmailsToRequestLocalTransport;Emails para pedir transporte local
-Admin.Country.CountryEdit.lblShowFieldOptionRequest1;Mostrar opção 1
-Admin.Country.CountryEdit.lblShowFieldOptionRequest2;Mostrar opção 2
-Admin.Country.CountryEdit.lblShowFieldOptionRequest3;Mostrar opção 3
-Admin.Country.CountryEdit.lblShowFieldOptionRequest4;Mostrar opção 4
-Admin.Country.CountryEdit.lblShowFieldOptionRequest5;Mostrar opção 5
-Admin.Country.CountryEdit.lblShowFieldOptionRequest6;Mostrar opção 6
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest1;Obrigatória opção 1
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest2;Obrigatória opção 2
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest3;Obrigatória opção 3
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest4;Obrigatória opção 4
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest5;Obrigatória opção 5
-Admin.Country.CountryEdit.lblIsMandatoryOptionRequest6;Obrigatória opção 6
-Admin.Country.CountryEdit.lblTitleRequestTransport;Pedir Transporte
-Admin.Country.CountryEdit.lblInfoRequestTransport;Aviso: Tem de ir ao gestor de recursos se quer editar: etiquetas, rodapé e cabeçalho do email
-Admin.Country.CountryEdit.lblInputFileOption;Carregar ficheiros
-Admin.Country.CountryList.Title;Selecione um país
-Admin.Country.CountryList.lblInfo;Internacional Activo / Local Activo / País / Código / Nome
-Admin.Resources.Container.lblResourceManager;Gerenciador de recursos
-Admin.Resources.LanguageList.lblSelectLanguage;Selecione um idioma
-Admin.Resources.ResourceEdit.lblWriteAddress;Escreva um endereço
-Admin.Resources.ResourceEdit.btnSaveResource;Salvar Recurso
-Admin.Resources.ResourceList.lblSelectResource;Selecione o recurso
-Admin.CompoundEdit.Title;Editar local
-Admin.CompoundEdit.Info;Completar todos os campos para criar ou editar Local
-Admin.CompoundEdit.lblAddress;Morada
-Admin.CompoundEdit.lblInternationalAddress;Internacional Activo
-Admin.CompoundEdit.lblLocalActive;Local Activo
-Admin.CompoundEdit.lblCoordsX;Coordenadas X
-Admin.CompoundEdit.lblCoordsY;Coordenadas Y
-Admin.CompoundEdit.btnSaveCompound;Guardar Local
-Admin.CompoundEdit.btnDeleteCompound;Apagar Local
-Admin.CompoundEdit.btnLocateCompound;Localizar Local
-Admin.CompoundEdit.locateMessage;O local foi localizado
-Admin.CompoundConfiguration.Title;Configurar Local
-Admin.CompoundConfiguration.Info;(Internacional Activo / Local Activo / Localizar Activo / País / Código / Nome)
-Admin.CompoundConfiguration.btnNewCompound;Novo Local
+﻿Path;English;Spanish;Dutch;French;Italian;Swedish;Portuguese;German;Polish;Danish
+Calculator.Title;Transport Calculator;Calculadora de transporte;Transport calculator;Calculatrice de transport;Calcolatore di trasporto;Transportkalkylator;Calculador de Transporte;Transport Kalkulator;Kalkulator transportu;Transport beregner
+Calculator.StartAgain;start again;empezar de nuevo;Begin opnieuw;recommencer;ricominciare;Börja om;Começar de novo;Nochmal starten;Rozpocznij ponownie;Start igen
+Calculator.Basic.BasicContainer.lblTransportCalculator;Transport Calculator;Transport Calculator;Transportcalculator;Calculatrice de transport;Calcolatore di trasporto;Transportkalkylator;Calculador de Transporte;Transport Kalkulator;Kalkulator transportu;Transport beregner
+Calculator.Basic.BasicStep1.lblTransportationType;Select Transportation Type;Seleccionar Tipo Transporte;Selecteer het transporttype;Sélectionner le type de transport;Seleziona il tipo di trasporto;Välj Transporttyp;Selecione o tipo de transporte;Transportart auswählen;Wybierz rodzaj transportu;Vælg transporttype
+Calculator.Basic.BasicStep1.btnNational;National;Nacional;Nationaal;National;Nazionale;Nationell;Nacional;National;Narodowy;National
+Calculator.Basic.BasicStep1.btnInternational;International;Internacional;Internationaal;International;Internazionale;Internationell;Internacional;International;Międzynarodowy;International
+Calculator.Basic.BasicStep1.lblPick-upLocation;Select Pick-up Location;Seleccione Ubicación Recogida;Selecteer Pick-up locatie;Sélectionner le lieu de prise en charge;Seleziona il luogo del ritiro;Välj Uppämtningsplats;Selecione local de recolha;Abholort wählen;Wybierz miejsce odbioru;Vælg lokation for afhentning
+Calculator.Basic.BasicStep1.lblCountryPick-upLocation;Please select the pick-up location (Country);Por favor seleccione ubicación de recogida (País);Selecteer de Pick-up locatie (land);Veuillez sélectionner le lieu de prise en charge (pays);Si prega di selezionare il luogo di ritiro (Paese);Var god välj hämtningsplats (Land);Por favor, selecione o local de recolha (País);Bitte den Abholort wählen;Proszę wybrać miejsce odbioru (kraj);Vælg venligst lokation for afhentning (Land)
+Calculator.Basic.BasicStep1.dliSelect;-- Select --;-- Seleccionar --;- Selecteer -;- Sélectionner -;- Seleziona -;-- Välj --;- Selecione -; - Bitte auswählen - ;- Wybierz -;-- Vælg --
+Calculator.Basic.BasicStep1.lblErrorLoadingCountry;Must select a loading country;Debe seleccionar un país de carga;Moet een Pick-up land selecteren;Doit choisir un pays de chargement;Devi selezionare un Paese di ritiro;Vänligen välj ett lastningsland;Deve selecionar um país de carga;Bitte Land der Abholung auswählen;Musisz wybrać kraj załadunku;Afhentningsland skal vælges
+Calculator.Basic.BasicStep1.lblBCAPick-upLocation;Please select the pick-up location (BCA location);Por favor seleccione ubicación de recogida (BCA);Selecteer de Pick-up locatie (BCA-locatie);Veuillez sélectionner le lieu de prise en charge (emplacement BCA);Si prega di selezionare il luogo di ritiro (piazzale BCA);Var god välj hämtningsplats (BCA compound);Por favor, selecione o local de recolha (local da BCA);Bitte BCA Standort der Abholung auswählen;Proszę wybrać miejsce odbioru (lokalizacja BCA);Vælg venligst lokation for afhentning (BCA lokation)
+Calculator.Basic.BasicStep1.lblErrorCompound;Must select a pick-up location;Debe seleccionar un lugar de recogida;Moet een Pick-up locatie selecteren;Doit choisir un lieu de prise en charge;Devi selezionare un luogo di ritiro;Måste välja en hämtningsplats;Deve selecionar um local de recolha;Bitte einen Abholstandort auswählen;Musisz wybrać miejsce odbioru;Afhentningslokation skal vælges
+Calculator.Basic.BasicStep1.lblSelectDeliveryLocation;Select Delivery Location;Seleccione Ubicación Entrega;Selecteer bezorglocatie;Sélectionner le lieu de livraison;Seleziona la località di consegna;Välj leveransplats;Selecione o local de entrega;Bitte den Lieferstandort wählen;Wybierz miejsce dostawy;Vælg lokation for levering
+Calculator.Basic.BasicStep1.lblSelectDestinationCountry;Please select destination country;Por favor seleccione el país de destino;Selecteer het land van bestemming;Veuillez sélectionner le pays de destination;Si prega di selezionare il paese di destinazione;Var god välj destinationsland;Por favor selecione o país de destino;Bitte Land des Lieferstandorts auswählen;Proszę wybrać kraj dostawy;Vælg venligst destinationsland
+Calculator.Basic.BasicStep1.lblErrorDestinationCountry;Must select a destination country;Debe seleccionar un país de destino;Moet een land van bestemming selecteren;Doit choisir un pays de destination;Devi selezionare un paese di destinazione;Måste välja ett destinationsland;Deve selecionar um país de destino;Bitte Land der Auslieferung auswählen;Musisz wybrać kraj dostawy;Destinationsland skal vælges
+Calculator.Basic.BasicStep1.lblZipCodeDestination;Please enter destination postcode;Por favor ingrese el código postal de destino;Voer de postcode van bestemming in;Veuillez entrer le code postal de destination;Inserisci il codice postale della destinazione;Vänligen ange destinationens postnummer;Por favor, indique o código postal do destino;Bitte die Postleitzahl des Lieferstandorts auswählen;Wprowadź kod pocztowy miejsca dostawy;Venligst indtast postnummer for destination
+Calculator.Basic.BasicStep1.lblErrorZipCode;Must write a valid zipcode;Debe escribir un código postal válido;Moet een geldige postcode schrijven;Doit écrire un code postal valide;Devi scrivere un codice postale valido;Måste skriva ett giltigt postnummer;Deve escrever um código postal válido;Bitte eine gültige Postleitzahl angeben;Musisz wprowadzić prawidłowy kod pocztowy;Gyldig postnummer skal vælges
+Calculator.Basic.BasicStep1.btnCalculate;Calculate;Calcular;Berekenen;Calculer;Calcola;Beräkna;Calcular;Berechnen;Oblicz;Beregn
+Calculator.Basic.BasicStep2.btnGoBack;Go Back;Regresar;Ga terug;Retour;Torna indietro;Gå tillbaka;Voltar;Zurück;Wróć;Tilbage
+Calculator.Basic.BasicStep2.lblDataSelected;Data Selected For Calculation;Datos Seleccionados para el Cálculo;Gegevens geselecteerd voor berekening;Données sélectionnées pour le calcul;Dati selezionati per il calcolo;Data vald för beräkning;Dados selecionados para cálculo;Daten für die Berechnung ausgewählt;Dane wybrane do obliczeń;Data valgt til beregning
+Calculator.Basic.BasicStep2.lblTransportationType;Transportation type;Tipo de transporte;Vervoer type;Type de transport;Tipo di trasporto;Transporttyp;Tipo de transporte;Transportart;Rodzaj transportu;Transporttype
+Calculator.Basic.BasicStep2.lblPickupLocationCountry;Pick-up location (Country);Lugar de recogida (País);Ophaal locatie (land);Lieu de prise en charge (pays);Luogo di ritiro (Paese);Upphämtningsplats (Land);Local de recolha (país);Abholstandort (Land);Miejsce odbioru (kraj);Afhentningslokation (Land)
+Calculator.Basic.BasicStep2.lblPickupLocationBCA;Pick-up location (BCA);Lugar de recogida (BCA);Ophaal locatie (BCA);Lieu de prise en charge (BCA);Luogo di ritiro (BCA);Upphämtningsplats (BCA);Local de recolha (BCA);Abholstandort (BCA);Miejsce odbioru (BCA);Afhentningslokation (BCA)
+Calculator.Basic.BasicStep2.lblDestinationCountry;Destination country;País de destino;Bestemming land;Pays de destination;Paese di destinazione;Destinationsland;País de destino;Zielland;Kraj dostawy;Destination
+Calculator.Basic.BasicStep2.lblDestinationPostcodeRegion;Destination postcode/region;Código postal/región de destino;Bestemmingsnummer / regio;Code postal / région de destination;Codice postale della destinazione / regione;Destination Postnummer / region;Código postal / região de destino;Postleitzahl / Region des Lieferstandorts;Kod pocztowy / region dostawy;Destination
+Calculator.Basic.BasicStep2.lblCalculationResult;Calculation Result;Resultado del Cálculo;Resultaat;Résultat du calcul;Risultato del calcolo;Beräkningsresultat;Resultado do cálculo;Berchnetes Ergebnis;Wynik obliczeń;Beregningsresultat
+Calculator.Basic.BasicStep2.lblVehicleType;Vehicle Type;Tipo de Vehículo;Voertuigtype;Type de véhicule;Tipo di veicolo;Fordonstyp;Tipo de veículo;Fahrzeugtyp;Typ pojazdu;Køretøjstype
+Calculator.Basic.BasicStep2.lblNumber;Number;Número;Nummer;Numéro;Numero;Siffra;Número;Nummer;Liczba;Nummer
+Calculator.Basic.BasicStep2.lblFee;Fee;Cuota;Prijs;Frais;Tariffa;Avgift;Taxa;Gebühr;Opłata;Transportpris / gebyr
+Calculator.Basic.BasicStep2.lblDeliveryDeliveryUpTo;Delivery up to;Entrega hasta;Levering tot;Livraison jusqu'à;Consegna entro;Leverans upp till;Entrega até;Lieferung bis zu;Dostawa do;Levering op til
+Calculator.Basic.BasicStep2.lblBankWorkingDays;(bank working days);(días hábiles bancarios);(Werkdagen);(jours ouvrables bancaires);(giorni lavorativi );(bankdagar);Dias úteis;(Bankarbeitstage);(dni robocze);(hverdage)
+Calculator.Basic.BasicStep2.lblPerPassengerCar;Per passenger car;Por vehículo de pasajeros;Personenauto;Par voiture;Per autovettura;Per personbil;Por ligeiro;Je Personenkraftwagen;za samochód osobowy;Pr. personbil
+Calculator.Basic.BasicStep2.lblPerSUV;Per SUV;Por SUV;SUV;Par SUV;Per SUV;Per SUV;Por SUV;Je Geländewagen;za SUV;Pr. SUV
+Calculator.Basic.BasicStep2.lblPerLCV;Per LCV;Por LCV;LCV;Par VUL;Per LCV;Per LCV;Por LCV;Je Kleintransporter;za LCV;Pr. van
+Calculator.Basic.BasicStep2.lblFullTruckLoad;Full Truck Load;Full Truck Load;Full Truck Load;Chargement complet du camion;Carico completo;Full lastbilslast;Carga Camião Completo;Komplettladung;Cała lora ;Fuldt læs
+Calculator.Basic.BasicStep2.btnRequestThisTransport;Request this Transport;Solicitar este Transporte;Plaats Transport Opdracht;Effectuer la demande de transport;Richiedi questo Trasporto;Beställ denna transport;Pedir este transporte;Transport anfragen;Zamów transport;Anmod om denne transport 
+Calculator.Basic.BasicStep2.btnGetMoreInfo;Find more info in our page;Ver más información en nuestra página;Meer informatie op onze webpagina;Trouver plus d'information sur notre page;Maggiori informazioni sulla nostra pagina;Se mer info på vår hemsida;Encontre mais informações na nossa página;Weitere Informationen finden Sie auf unserer Webseite;Więcej informacj znajdziesz na naszej stronie;Find mere information på vores side
+Calculator.Basic.BasicStep3.btnGoBack;Go Back;Regresar;Ga Terug;Retour;Torna indietro;Gå tillbaka;Voltar;Zurück;Wróć;Tilbage
+Calculator.Basic.BasicStep3.lblRequestTransport;Request Transport;Solicitar Transporte;Plaats Transport Opdracht;Effectuer la demande de transport;Conferma il trasporto;Boka transport;Pedir transporte;Transport anfragen;Zamów transport;Anmod transport 
+Calculator.Basic.BasicStep3.lblOverview;Overview;Resumen;Overzicht;Vue d'ensemble;Sintesi;Översikt;Visão geral;Übersicht;Przegląd ;Oversigt
+Calculator.Basic.BasicStep3.lblInfoDetails;To request this transport, please provide your contact details below. When all information provided is correct we will send you the transport invoice by email. If there is any info missing we will contact you.;Para solicitar el transporte, proporcione sus datos de contacto y envíenos los detalles. Si toda la información proporcionada es correcta, le enviaremos la factura. Si falta alguna información, nos pondremos en contacto con usted.;Vul uw gegevens hieronder in om uw transport order te plaatsen. Wanneer alle informatie correct is zullen we u direct een bevestiging en uw transport factuur toesturen. Indien er informatie incorrect of involledig is nemen wij contact met u op.;Afin d'effectuer la demande de transport;Per richiedere questo trasporto, inserisci i dettagli di contatto richiesti. Se tutti i dati saranno corretti, riceverai la fattura di trasporto via mail. Se qualche dato è incorretto o mancante, ti contatteremo.;För att boka denna transport;Para pedir este transporte, por favor forneça abaixo os detalhes do contacto. Quando todos os detalhes estiverem correctos, enviaremos a factura do transporte por email. Se faltar alguma informação, entraremos em contacto.;Bitte geben Sie unten Ihre Kontaktdaten an;Aby zamówić transport;For at anmode om denne transport
+Calculator.Basic.BasicStep3.lblMandatoryField;Mandatory Field;Campo Obligatorio;Verplicht veld;Champ obligatoire;Campo obbligatorio;Obligatorsikt fält;Campo obrigatório;Pflichtfeld;Pole obowiązkowe ;Obligatorisk felt
+Calculator.Basic.BasicStep3.btnOrderThisTransport;Complete this Transport;Completar el Transporte;Bevestig Transport Opdracht;Compléter la demande de transport;Completa questo trasporto;Boka denna transport;Complete este transporte;Transport beauftragen;Zakończ zapytanie o transport ;Færdiggør denne transport
+Calculator.Basic.BasicStep3.btnAddVehicle;Add Vehicle;Añadir Vehículo;Voeg voertuig toe;Ajouter un véhicule;Aggiungi Veicolo;Lägg till fordon;Adicionar veículo;Fahrzeug hinzufügen;Dodaj pojazd ;Tilføj køretøj
+Calculator.Basic.BasicStep3.lblContactEmail;Contact Email;Email de Contacto;Contact email;Adresse email;Email di contatto;Kontakt via email;Email de contacto;E-Mail Kontakt;Email kontaktowy;Kontakt E-mail
+Calculator.Basic.BasicStep3.lblVehicleVINPlateNo;Vehicle VIN / Plate No;Vehicle VIN / Matrícula;Voertuig VIN / Kenteken;Numéro d'identification du véhicule / Numéro de plateau;Nr Telaio/Targa del veicolo;Chassienummer / regnummer;Nº Chassis/Matrícula;VIN;VIN pojazdu / numer rejestracyjny ;Stel nummer / nummerplade 
+Calculator.Basic.BasicStep3.lblRemarks;Remarks;Comentarios;Opmerking;Remarques;Osservazioni;Viktig info/noteringar;Anotações;Bemerkungen;Uwagi ;Bemærkninger
+Calculator.Basic.BasicStep3.lblDeliveryAddress;Delivery Address;Dirección de entrega;Bezorglocatie;Adresse de livraison;Indirizzo di Consegna;Leveransadress;Morada de entrega;Lieferadresse;Adres dostawy ;Leverings adresse 
+Calculator.Basic.BasicStep3.lblErrorInvalidCharacters;Invalid Characters;Carácteres Inválidos;Ongeldige tekens;Caractère non valide;Carattere non valido;Ogiltiga tecken;Caracteres inválidos;Ungültige Angaben;Nieprawidłowe znaki;Ugyldige tegn
+Calculator.Basic.BasicStep3.lblChooseFile;Choose File...;Elegir Archivo...;Kies bestand…;Choisir un fichier;Scegli file…;Välj fil…;Escolha ficheiro …;Datei auswählen…;Wypierz plik...;Vælg fil
+Calculator.Basic.BasicStep3.lblEmptyList;Empty List;Lista Vacía;Geen bestand bijgevoegd;Liste vide;Elenco vuoto;Töm lista;Lista vazia;Liste ist leer;Pusta lista ;Tom liste 
+Calculator.Basic.BasicStep3.lblSelectedFiles;Selected Files;Archivos Seleccionados;Geselecteerde bestanden;Fichier(s) sélectionné(s);File selezionati;Valda filer;Ficheiros seleccionados;Ausgewählte Dateien;Wybrane pliki ;Valgte filer 
+Calculator.Basic.BasicStep3.lblTransportType;Transport Type;Tipo de Transporte;Vervoer type;Type de transport;Tipo di trasporto;Transport typ;Tipo de transporte;Transporttyp;Rodzaj transportu ;Transport type
+Calculator.Basic.BasicStep3.lblOverviewVIN;VIN / Plate;VIN / Matrícula;VIN / Kenteken;numéro d'identification du véhicule / plateau;Telaio/Targa;Chassienummer / regnummer;Chassis/Matrícula;Fahrzeugidentifikationsnummer;VIN/ numer rejestracyjny ;Stel nummer / nummerplade 
+Calculator.Basic.BasicStep3.lblOverviewTransportType;Type;Tipo;Type;Type;Tipologia;Typ;Tipo;Typ;Rodzaj;Type
+Calculator.Basic.BasicStep3.lblOverviewPrice;Price;Precio;Prijs;Prix;Prezzo;Pris;Preço;Preis;Cena;Pris
+Calculator.Basic.BasicStep3.lblOverviewDelete;Delete;Borrar;Verwijder;Supprimer;Annullare;Radera;Apagar;löschen;Usuń;Slet
+Calculator.Basic.BasicStep3.lblTotalVehicles;Vehicles;Vehiculos;Voertuigen;Véhicules;Veicoli;Bilar;Veículos;Fahrzeuge;Pojazdy;Køretøjer
+Calculator.Basic.BasicStep3.lblTotalTransportPrice;Transport Price;Precio Transporte;Transport prijs;Prix du transport;Tariffa di Trasporto;Transport pris;Preço do transporte;Transportkosten;Cena transportu;Transport prirs
+Calculator.Basic.BasicStep3.lblMessageMinVehicle;You must add at least one vehicle;Debe añadir un vehiculo como minimo;Voeg tenminste één voertuig toe;Vous devez ajouter au moins un véhicule.;Devi aggiungere almeno un veicolo;Du måste lägga till minst ett fordon;Tem adicionar pelo menos um veículo;Sie müssen erst ein Fahrzeug hinzufügen;Musisz dodać przynajmniej jeden pojazd ;Du skal tilføje mindst 1 køretøj
+Calculator.Basic.BasicStep3.lblMessageNumVehiclesMax;Only 8 vehicles can be added;Solo se pueden añadir 8 vehiculos;U kunt maximaal 8 voertuigen toevoegen;Seulement 8 véhicules peuvent être ajoutés.;Possono essere aggiunti al massimo 8 veicoli;Endast 8 fordon kan läggas till;Apenas pode adicionar 8 veículos;Es können nur 8 Fahrzeuge hinzugefügt werden;Tylko 8 pojazdów może być dodanych ;Kun 8 køretøjer kan tilføjes 
+Calculator.Basic.BasicStep3.lblMessageInfoFullTruck;The price of the truck will be charged only one time;El precio del camión solo se cobrará una vez;De Full Truck prijs wordt slechts eenmaal in rekening gebracht.;Le prix du camion ne sera facturé qu'une seule fois;Il prezzo della bisarca verrà addebitato una volta sola;Priset för en hel lastbil faktureras endast en gång;O preço do transporte só será cobrado uma vez;Der Preis für eine Komplettladung wird nur einmal berechnet;Cena ciężarówki zostanie naliczona tylko raz;Betalingen for læsset vil kun forekomme en gang
+Calculator.Basic.BasicStep4.btnOrderThisTransport;Complete this Transport;Pedir el transporte;Bevestig Transport Opdracht;Compléter la demande de transport;Completa questo trasporto;Gör klart denna transport;Completar este transporte;Transport beauftragen;Dokończ zapytanie o transport ;Færdiggør denne transport
+Calculator.Basic.BasicStep4.lblPhoneNumber;Phone number;Teléfono;Telefoon;Numéro de téléphone;Numero di telefono;Telefon nummer;Número de telefone;Telefonnummer;Numer telefonu ;Telefon nummer
+Calculator.Basic.BasicStep4.placeholderCity;City;Ciudad;Stad;Ville;Città;Stad;Cidade;Stadt;Miasto;By
+Calculator.Basic.BasicStep4.placeholderStreet;Street;Calle;Straat;Rue;Via;Gata;Rua;Straße;Ulica;Vejnavn
+Calculator.Basic.BasicStep4.placeholderPostalCode;Postal Code;C.P.;Postcode;Code Postal;CAP;Postnummer;Código Postal;Postleitzahl;Kod pocztowy ;Postnummer
+Calculator.Basic.BasicStep4.placeholderCountry;Country;Pais;Land;Pays;Nazione:;Land;País;Land;Kraj;Land
+Calculator.Basic.BasicStep4.CustomerNamelbl;Customer Name;Nombre del Comprador;Klantnaam;Nom du client;Nome cliente;Köparens namn;Nome do cliente;Kundenname;Nazwa klienta ;Fulde navn
+Calculator.Step1.Title;STEP 1 - SELECT TRANSPORTATION TYPE;PASO 1 - SELECCIONE TIPO DE TRANSPORTE;STAP 1 - SELECTEER HET TYPE TRANSPORT;ÉTAPE 1 - SÉLECTIONNER LE TYPE DE TRANSPORT;PASSAGGIO 1 - SELEZIONA IL TIPO DI TRASPORTO;STEG 1 - VÄLJ TRANSPORTTYP;PASSO 1 - SELECIONAR TIPO DE TRANSPORTE;SCHRITT 1 - TRANSPORTART WÄHLEN;KROK 1 - WYBIERZ RODZAJ TRANSPORTU;TRIN 1 - VÆLG TRANSPORTTYPE
+Calculator.Step1.Local;LOCAL;LOCAL;LOCAL;LOCAL;LOCALE;LOKAL;LOCAL;LOKAL;KRAJOWY;LOKAL
+Calculator.Step1.International;INTERNATIONAL;INTERNACIONAL;INTERNATIONAL;INTERNATIONAL;INTERNAZIONALE;INTERNATIONELL;INTERNATIONAL;INTERNATIONAL;MIĘDZYNARODOWY;INTERNATIONAL
+Calculator.Step1.InformationTextTitle;Information:;Información;informatie;Information;informazioni:;Information;Informação;Information;Informacja;Information
+Calculator.Step1.InformationText;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.;In tegenstelling tot wat vaak wordt gedacht;Contrairement à la croyance populaire;Contrariamente alla credenza popolare;I motsats till popular tro är Lorem Ipsum inte bara slumpmässig text. Den har rötter i en klassisk latinlitteratur från 45 f.Kr.;Ao contrário da crença popular, Lorem Ipsum não é simplesmente um texto aleatório. Tem raízes numa peça da literatura latina clássica de 45 aC, completando 2000 anos de idade. Richard McClintock.;Entgegen der landläufigen Meinung ist Lorem Ipsum kein einfacher Text. Es hat Wurzeln in einem Stück klassischer lateinischer Literatur aus dem Jahr 45 v. Chr. Und ist damit über 2000 Jahre alt. Richard McClintock.;Wbrew powszechnemu przekonaniu, Lorem Ipsum nie jest po prostu przypadkowym tekstem. Ma korzenie w klasycznej literaturze łacińskiej z 45 r. Pne, dzięki czemu ma ponad 2000 lat. Richard McClintock.;I modsætning til popular tro er Lorem Ipsum ikke blot tilfældig tekst. Den har rødder i et klassisk latinsk litteratur fra 45 f.Kr.
+Calculator.Step2.Title;STEP 2 - SELECT BCA COUNTRY;PASO 2 - SELECCIONE PAIS BCA;STAP 2 - SELECTEER BCA LAND;ÉTAPE 2 - CHOISISSEZ UN PAYS BCA;PASSAGGIO 2 - SELEZIONA PAESE BCA;STEG 2 - VÄLJ BCA LAND;PASSO 2 - SELECIONE O PAÍS BCA;SCHRITT 2 - BCA LAND AUSWÄHLEN;KROK 2 - WYBIERZ KRAJ BCA;TRIN 2 - VÆLG BCA LAND
+Calculator.Step3.Title;STEP 3 - SELECT PICK-UP LOCATION IN FRANCE;PASO 3 - SELECCIONE LA UBICACIÓN DE RECOGIDA EN FRANCIA;STAP 3 - SELECTEER PICK-UP LOCATIE IN FRANKRIJK;ÉTAPE 3 - SÉLECTIONNER L’EMPLACEMENT DE PRISE EN CHARGE EN FRANCE;PASSAGGIO 3 - SELEZIONARE LA POSIZIONE DI RITIRO IN FRANCIA;STEG 3 - VÄLJ UPPHÄMTNINGSPLATS I FRANKRIKE;PASSO 3 - SELECIONE O LOCAL DE CARGA NA FRANÇA;SCHRITT 3 - WÄHLEN SIE DEN ABHOLUNGSORT IN FRANKREICH;KROK 3 - WYBIERZ MIEJSCE ODBIORU WE FRANCJI;TRIN 3 - VÆLG PICK-UP PLACERING I FRANKRIG
+Calculator.Step4.Title;STEP 4 - SELECT DESTINATION COUNTRY;PASO 4 - SELECCIONE EL PAÍS DE DESTINO;STAP 4 - SELECTEER HET BESTEMMINGSLAND;ÉTAPE 4 - SÉLECTIONNER LE PAYS DE DESTINATION;PASSAGGIO 4 - SELEZIONA PAESE DI DESTINAZIONE;STEG 4 - VÄLJ DESTINATION LAND;PASSO 4 - SELECIONAR O PAÍS DE DESTINO;SCHRITT 4 - ZIELLAND WÄHLEN;KROK 4 - WYBIERZ KRAJ DOSTAWY;TRIN 4 - VÆLG DESTINATION LAND
+Calculator.Step5.Title;STEP 5 - SET DELIVERY LOCATION IN FRANCE;PASO 5 - CONFIGURAR LA UBICACIÓN DE ENTREGA EN FRANCIA;STAP 5 - PLAATS DE PLAATS VAN LEVERINGEN IN FRANKRIJK;ÉTAPE 5 - DÉFINIR L'EMPLACEMENT DE LIVRAISON EN FRANCE;FASE 5 - IMPOSTARE LA POSIZIONE DELLA CONSEGNA IN FRANCIA;Steg 5 - Ange leveransplats i Frankrike;PASSO 5 - LOCALIZAÇÃO DE ENTREGA EM FRANÇA;SCHRITT 5 - LIEFERUNGSORT IN FRANKREICH;KROK 5 - USTAWIĆ LOKALIZACJĘ DOSTAWY WE FRANCJI;TRIN 5 - SET LEVERINGSPLAD I FRANKRIG
+Calculator.Step5.LocalAddress;LOCAL ADDRESS;DIRECCIÓN LOCAL;PLAATSELIJK ADRES;ADRESSE LOCALE;INDIRIZZO LOCALE;LOKAL ADRESS;ENDEREÇO LOCAL;LOKALE ADRESSE;ADRES LOKALNY;LOKAL ADRESSE
+Calculator.Step5.ZipCode;ZIP CODE;CÓDIGO POSTAL;ZIP CODE;CODE POSTAL;CAP;POSTNUMMER;Código Postal;Postleitzahl;KOD POCZTOWY;POSTNUMMER
+Calculator.Step5.Address;ADDRESS;DIRECCIÓN;ADRES;Adresse;INDIRIZZO;Adress;Morada;Adresse;ADRES;Adresse
+Calculator.Step5.VehicleType;Vehicle Type;TIPO DE VEHÍCULO;vehicleType;Type de véhicule;Tipo veicolo;Fordonstyp;Tipo de Veículo;Fahrzeugtyp;Rodzaj pojazdu:;VehicleType
+Calculator.Step5.PassengerCar;Passenger Car;Coche de Pasajeros;Personenauto;Voiture;Autovettura;Passagerarbil;Ligeiro;PKW;Samochód osobowy;Passager bil
+Calculator.Step5.Suv;SUV;SUV;SUV;SUV;SUV;SUV;SUV;SUV;SUV;SUV
+Calculator.Step5.Lcv;LCV;LCV;LCV;Utilitaire;LCV;LCV;LCV;LCV;LCV;LCV
+Calculator.Step5.FullTruckLoad;Full Truck Load;Full Truck Load;Volledige lading vrachtwagen;Chargement complet du camion;Carico completo;Full lastbilslast;Carga completa do camião;Komplettladung;Pełna lora ;Fuld lastbelastning
+Calculator.Step5.ZipNumber;ZIP NUMBER;NÚMERO POSTAL;ZIP NUMMER;NUMÉRO POSTAL;CAP;Postnummer;Código Postal;PLZ;KOD POCZTOWY;ZIP-nummer
+Calculator.Step5.Region;REGION;REGIÓN;REGIO;RÉGION;REGIONE;OMRÅDE;REGIÃO;REGION;REGION;OMRÅDE
+Calculator.Step5.Calculate;CALCULATE;CALCULAR;BEREKEN;CALCULER;CALCOLA;BERÄKNA;CALCULAR;BERECHNEN;OBLICZ;BEREGN
+Calculator.Step6.Title;FINAL STEP - RESULT;PASO FINAL - RESULTADO;EINDSTAP - RESULTAAT;ÉTAPE FINALE - RÉSULTAT;ULTIMO STEP - RISULTATO;SLUTSATS - RESULTAT;PASSO FINAL - RESULTADO;Letzter Schritt - Ergebnis;KOŃCOWY KROK - WYNIK;ENDELIGE TRIN - RESULTAT
+Calculator.Step6.DeliveryType;Delivery Type:;Tipo de Entrega:;Leveringstype:;Type de livraison :;Tipo di consegna:;Leverans typ:;Tipo de entrega:;Lieferart:;Rodzaj dostawy:;Leveringstype:
+Calculator.Step6.Country;Country:;País:;land:;Pays :;Nazione:;Land:;País:;Land:;Kraj:;Land:
+Calculator.Step6.Pick-upLocation;Pick-up Location:;Lugar de Recogida:;Ophaal locatie:;Lieu de prise en charge :;Luogo di ritiro:;Upphämtningsplats:;Local de carga:;Abholort:;Miejsce odbioru:;Opsamlingssted:
+Calculator.Step6.DestinationCountry;Destination Country:;País de Destino:;Bestemming Land:;Pays de destination :;Paese di destinazione:;Destination Land:;País de destino:;Zielland:;Kraj dostawy:;Destinationsland:
+Calculator.Step6.DestinationRegion;Destination Region:;Región de Destino:;Bestemmingsregio:;Région de destination :;Regione di destinazione:;Destinationsregion:;Região de destino:;Zielregion:;Region dostawy:;Destinationsområde:
+Calculator.Step6.Distance;Distance:;Distancia:;Afstand:;Distance :;Distanza:;Distans:;Distância:;Entfernung:;Odległość:;Afstand:
+Calculator.Step6.VehicleType;Vehicle Type:;Tipo de Vehículo:;Voertuig type:;Type de véhicule :;Tipo di veicolo:;Fordonstyp:;Tipo de veículo:;Fahrzeugtyp:;Rodzaj pojazdu:;Køretøjstype:
+Calculator.Step6.TotalPrice;Total Price:;Precio Total:;Totale prijs:;Prix total :;Prezzo totale:;Totalbelopp:;Preço Total:;Gesamtpreis:;Cena całkowita:;Total pris:
+Calculator.Step6.EstimatedDeliveryDate;Estimated Delivery Date:;Fecha Estimada de Entrega:;Geschatte leverdatum:;Date de livraison estimée :;Data di consegna stimata:;Beräknat leveransdatum:;Data de entrega estimada:;Voraussichtliches Lieferdatum:;Szacowana data dostawy:;Forventet leveringsdato:
+Admin.Common.removeConfirmMessage;Do you want to delete the record?;¿Desea eliminar el registro?;Wilt u deze data verwijderen?;Souhaitez-vous effacer ?;Vuoi rimuovere questo documento?;Vill du radera denna post?;Deseja apagar o registo?;Möchten Sie den Datensatz löschen?;Chcesz usunąć ten wpis? ;Ønsker du at slette anmodningen?
+Admin.Common.removeMessage;Removed correctly;Eliminado correctamente;Correct verwijderd;Correctement retiré;Rimosso correttamente;Raderad korekt;Removido correctamente;Richtig entfernt;Usunięto poprawnie ;korrekt fjernet 
+Admin.Common.lblPricePassengerCar;Passenger Car Price;Precio Passenger Car;Prijs van de passagiersauto;Prix de la voiture;Prezzo autovettura;Passagerarbil Pris;Preço de ligeiro;Preis je Personenkraftwagen;Cena samochodu osobowego;Pris for personbil
+Admin.Common.lblPriceSUV;SUV Price;Precio SUV;SUV-prijs;Prix du SUV;Prezzo SUV;SUV-pris;Preço SUV;Preis je Geländewagen;Cena SUV;SUV pris
+Admin.Common.lblPriceLCV;LCV Price;Precio LCV;LCV-prijs;Prix du véhicule utilitaire;Prezzo LCV;LCV-pris;Preço LCV;Preis je Kleintransporter;Cena LCV;VAN pris
+Admin.Common.lblPriceFullTruckLoad;Full Truck Load Price;Precio Full Truck Load;Full Truck Load-prijs;Prix de chargement complet du camion;Prezzo carico completo;Full lastbilspris;Preço para Camião completo;Preis je Komplettladung;Cena pełnej lory;Fuldt læs pris
+Admin.Common.lblSingleCarTransportationDay;Single Car Transportation Days;Días Transporte Single Car;Single Car Vervoerdagen;Journées de transport en voiture simple;Giorni di trasporto per autovettura singola;Transportdagar för enstaka bilar;Dias de transporte para só uma viatura;Lieferzeit in Tagen bei Einzelfahrzeugen;Dni transportu pojedynczego samochodu osobowego;Enkelt bil transport dage
+Admin.Common.lblFullLoadTransportationDay;Full Load Transportation Days;Días Transporte Full Load;Full Truck Vervoerdagen;Journées de transport en charge complète;Giorni di trasporto per carico completo;Transportdagar för fulla lastbilslaster;Dias de transporte para Camião completo;Lieferzeit in Tagen bei Komplettladung;Dni transportu przy pełnej lorze ;Fuldt læs transport dage
+Admin.Common.lblPC;PC;PC;PC;ordinateur personnel;PC;PC;PC;PKW;PC;Personbil
+Admin.Common.lblSUV;SUV;SUV;SUV;SUV;SUV;SUV;SUV;Geländewagen;SUV;SUV
+Admin.Common.lblLCV;LCV;LCV;LCV;Utilitaire;LCV;LCV;LCV;Kleintransporter;LCV;Van
+Admin.Common.lblFTL;FTL;FTL;FTL;FTL;FTL;FTL;FTL;Komplettladung;FTL;FTL
+Admin.Common.lblSingle;Single;Single;Single;unique;Singolo;Enstaka;Único;Einzel;Pojedynczy;Enkelt
+Admin.Common.lblFull;Full;Full;Full;complet;Pieno;Full;Completo;Komplett;Pełny;Fuld
+Admin.Common.successMessage;The data has been saved correctly;Los datos se han guardado correctamente;De gegevens zijn correct opgeslagen;Les données ont été sauvegardées correctement;I dati sono stati salvati correttamente;Data har sparats korrekt;Os dados foram salvos corretamente;Daten wurden richtig erfasst;Dane zostały zapisane poprawnie;Dataen er gemt korrekt
+Admin.Common.errorCodeMsg;The inserted code already exists;El codigo introducido ya existe;De opgegeven postcode bestaat al;Le code inséré existe déjà.;Il codice inserito è già presente;Den infogade koden finns redan;O código inserido já existe;Die angegebenen Daten existieren bereits;Wpisany kod już istnieje ;Koden eksisterer allerede 
+Admin.Common.lblDays;days;dias;Dagen;journées;giorni;dagar;dias;Tage;Dni;dage
+Admin.Common.CalculatorPriceNotFoundMessage;Message for the price not found;Mensaje para el precio no encontrado;Bericht voor de prijs niet gevonden;Message pour le prix non trouvé;Messaggio per il prezzo non trovato;Meddelande för priset inte hittat;Mensagem para o preço não encontrado;Preisanfrage nicht gefunden;Oferta cenowa nie została znaleziona ;Meddelelse for pris ikke fundet
+Admin.Common.CalculatorPriceFoundMessageFrance;Message for the price found - France;Mensaje para el precio encontrado - Francia;Bericht voor de prijs gevonden - Frankrijk;Message pour le prix trouvé - France;Messaggio per il prezzo trovato - Francia;Meddelande för det angivna priset - Frankrike;Mensagem para o preço encontrado - França;Nachricht zum gefundenen Preis - Frankreich;Oferta cenowa za transport - Francja;Meddelelse for pris ikke fundet - Frankrig
+Admin.Common.CalculatorPriceFoundMessageItaly;Message for the price found - Italy;Mensaje para el precio encontrado - Italia;Bericht voor de gevonden prijs - Italië;Message pour le prix trouvé - Italie;Messaggio per il prezzo trovato - Italia;Meddelande för det pris som hittades - Italien;Mensagem para o preço encontrado - Itália;Nachricht zum gefundenen Preis - Italien;Oferta cenowa za transport - Włochy;Meddelelse for pris ikke fundet - Italien
+Admin.Common.CalculatorPriceFoundMessageGermany;Message for the price found - Germany;Mensaje para el precio encontrado - Alemania;Bericht voor de prijs gevonden - Duitsland;Message pour le prix trouvé - Allemagne;Messaggio per il prezzo trovato - Germania;Meddelande för det pris som hittades - Tyskland;Mensagem para o preço encontrado - Alemanha;Nachricht zum gefundenen Preis - Deutschland;Oferta cenowa za transport - Niemcy;Meddelelse for pris ikke fundet - Tyskland
+Admin.Common.CalculatorPriceFoundMessagePortugal;Message for the price found - Portugal;Mensaje para el precio encontrado - Portugal;Bericht voor de prijs gevonden - Portugal;Message pour le prix trouvé - Portugal;Messaggio per il prezzo trovato - Portogallo;Meddelande för det angivna priset - Portugal;Mensagem para o preço encontrado - Portugal;Nachricht zum gefundenen Preis - Portugal;Oferta cenowa za transport - Portugalia;Meddelelse for pris ikke fundet - Portugal
+Admin.Common.CalculatorPriceFoundMessageDenmark;Message for the price found - Denmark;Mensaje para el precio encontrado - Dinamarca;Bericht voor de prijs gevonden - Denemarken;Message pour le prix trouvé - Danemark;Messaggio per il prezzo trovato - Danimarca;Meddelande för det angivna priset - Danmark;Mensagem para o preço encontrado - Dinamarca;Nachricht zum gefundenen Preis - Dänemark;Oferta cenowa za transport - Dania;Meddelelse for pris ikke fundet - Danmark
+Admin.Common.CalculatorPriceFoundMessageSpain;Message for the price found - Spain;Mensaje para el precio encontrado - España;Bericht voor de prijs gevonden - Spanje;Message pour le prix trouvé - Espagne;Messaggio per il prezzo trovato - Spagna;Meddelande för det angivna priset - Spanien;Mensagem para o preço encontrado - Espanha;Nachricht zum gefundenen Preis - Spanien;Oferta cenowa za transport - Hiszpania;Meddelelse for pris ikke fundet - Spanien
+Admin.Common.CalculatorPriceFoundMessageNetherlands;Message for the price found - Netherlands;Mensaje para el precio encontrado - Paises Bajos;Bericht voor de prijs gevonden - Nederland;Message pour le prix trouvé - Pays-Bas;Messaggio per il prezzo trovato - Paesi Bassi;Meddelande för det angivna priset - Nederländerna;Mensagem para o preço encontrado - Holanda;Nachricht zum gefundenen Preis - Niederlande;Oferta cenowa za transport - Holandia;Meddelelse for pris ikke fundet - Holland
+Admin.Common.CalculatorPriceFoundMessageSweden;Message for the price found - Sweden;Mensaje para el precio encontrado - Suecia;Bericht voor de prijs gevonden - Zweden;Message pour le prix trouvé - Suéde;Messaggio per il prezzo trovato - Svezia;Meddelande för det angivna priset - Sverige;Mensagem para o preço encontrado - Suécia;Preisanfrage nicht gefunden - Belgien;Oferta cenowa za transport - Szwecja;Meddelelse for pris ikke fundet - Belgien
+Admin.Common.CalculatorPriceFoundMessageBelgium;Message for the price found - Belgium;Mensaje para el precio encontrado - Bélgica;Bericht voor de prijs gevonden - België;Message pour le prix trouvé - Belgique;Messaggio per il prezzo trovato - Belgio;Meddelande för det angivna priset - Belgien;Mensagem para o preço encontrado - Bélgica;Nachricht zum gefundenen Preis - Schweden;Oferta cenowa za transport - Belgia;Meddelelse for pris ikke fundet - Tjekkiet
+Admin.Common.CalculatorPriceFoundMessageCzechRepublic;Message for the price found - CzechRepublic;Mensaje para el precio encontrado - República Checa;Bericht voor de prijs gevonden - Czech Republic;Message pour le prix trouvé - République Tchèque;Messaggio per il prezzo trovato - Repubblica Ceca;Meddelande för det pris som hittades - CzechRepublic;Mensagem para o preço encontrado - CzechRepublic;Nachricht zum gefundenen Preis - Tschechische Republik;Oferta cenowa za transport - Czechy;Meddelelse for pris ikke fundet - Østrig
+Admin.Common.CalculatorPriceFoundMessageAustria;Message for the price found - Austria;Mensaje para el precio encontrado - Austria;Bericht voor de prijs gevonden - Oostenrijk;Message pour le prix trouvé - Autriche;Messaggio per il prezzo trovato - Austria;Meddelande för det angivna priset - Österrike;Mensagem para o preço encontrado - Austria;Nachricht zum gefundenen Preis - Österreich;Oferta cenowa za transport - Austria;Meddelelse for pris ikke fundet - Ungarn
+Admin.Common.CalculatorPriceFoundMessageHungary;Message for the price found - Hungary;Mensaje para el precio encontrado - Hungría;Bericht voor de gevonden prijs - Hongarije;Message pour le prix trouvé - Hongrie;Messaggio per il prezzo trovato - Ungheria;Meddelande för det angivna priset - Ungern;Mensagem para o preço encontrado - Hungria;Nachricht zum gefundenen Preis - Ungarn;Oferta cenowa za transport - Węgry;Meddelelse for pris ikke fundet - Slovenien
+Admin.Common.CalculatorPriceFoundMessageSlovenia;Message for the price found - Slovenia;Mensaje para el precio encontrado - Eslovenia;Bericht voor de prijs gevonden - Slovenië;Message pour le prix trouvé - Slovénie;Messaggio per il prezzo trovato - Slovenia;Meddelande för det pris som hittades - Slovenien;Mensagem para o preço encontrado - Eslovénia;Nachricht zum gefundenen Preis - Slovenien;Oferta cenowa za transport - Słowenia;Meddelelse for pris ikke fundet - Kroatien
+Admin.Common.CalculatorPriceFoundMessageCroatia;Message for the price found - Croatia;Mensaje para el precio encontrado - Croacia;Bericht voor de gevonden prijs - Kroatië;Message pour le prix trouvé - Croatie;Messaggio per il prezzo trovato - Croazia;Meddelande för det pris som hittades - Kroatien;Mensagem para o preço encontrado - Croácia;Nachricht zum gefundenen Preis - Kroatien;Oferta cenowa za transport - Chorwacja;Meddelelse for pris ikke fundet - Rumænien
+Admin.Common.CalculatorPriceFoundMessageRomania;Message for the price found - Romania;Mensaje para el precio encontrado - Rumania;Bericht voor de prijs gevonden - Roemenië;Message pour le prix trouvé - Roumanie;Messaggio per il prezzo trovato - Romania;Meddelande för det pris som hittades - Rumänien;Mensagem para o preço encontrado - Romania;Nachricht zum gefundenen Preis - Rumänien;Oferta cenowa za transport - Rumunia;Meddelelse for pris ikke fundet - Slovakiet
+Admin.Common.CalculatorPriceFoundMessageSlovakia;Message for the price found - Slovakia;Mensaje para el precio encontrado - Eslovaquia;Bericht voor de prijs gevonden - Slowakije;Message pour le prix trouvé - Slovaquie;Messaggio per il prezzo trovato - Slovacchia;Meddelande för det angivna priset - Slovakien;Mensagem para o preço encontrado - Slovakia;Nachricht zum gefundenen Preis - Slovakai;Oferta cenowa za transport - Słowacja;Meddelelse for pris ikke fundet - Schweiz
+Admin.Common.CalculatorPriceFoundMessageSwitzerland;Message for the price found - Switzerland;Mensaje para el precio encontrado - Suiza;Bericht voor de prijs gevonden - Zwitserland;Message pour le prix trouvé - Suisse;Messaggio per il prezzo trovato - Svizzera;Meddelande för det pris som hittades - Schweiz;Mensagem para o preço encontrado - Suíça;Nachricht zum gefundenen Preis - Schweiz;Oferta cenowa za transport - Szwajcaria;Meddelelse for pris ikke fundet - Schweiz
+Admin.Common.CalculatorPriceFoundMessageEstonia;Message for the price found - Estonia;Mensaje para el precio encontrado - Estonia;Bericht voor de prijs gevonden - Estland;Message pour le prix trouvé - Estonie;Messaggio per il prezzo trovato - Estonia;Meddelande för det angivna priset - Estland;Mensagem para o preço encontrado - Estónia;Nachricht zum gefundenen Preis - Estland;Oferta cenowa za transport - Estonia;Meddelelse for pris ikke fundet - Estland
+Admin.Common.CalculatorPriceFoundMessageLatvia;Message for the price found - Latvia;Mensaje para el precio encontrado - Letonia;Bericht voor de prijs gevonden - Letland;Message pour le prix trouvé - Lettonie;Messaggio per il prezzo trovato - Lettonia;Meddelande för det pris som hittades - Lettland;Mensagem para o preço encontrado - Letónia;Nachricht zum gefundenen Preis - Lettland;Oferta cenowa za transport - Łotwa;Meddelelse for pris ikke fundet - Letland
+Admin.Common.CalculatorPriceFoundMessageLithuania;Message for the price found - Lithuania;Mensaje para el precio encontrado - Lituania;Bericht voor de prijs gevonden - Litouwen;Message pour le prix trouvé - Lituanie;Messaggio per il prezzo trovato - Lituania;Meddelande för det angivna priset - Litauen;Mensagem para o preço encontrado - Lituânia;Nachricht zum gefundenen Preis - Litauen;Oferta cenowa za transport - Litwa;Meddelelse for pris ikke fundet - Litauen
+Admin.Common.CalculatorPriceFoundMessagePoland;Message for the price found - Poland;Mensaje para el precio encontrado - Polonia;Bericht voor de gevonden prijs - Polen;Message pour le prix trouvé - Pologne;Messaggio per il prezzo trovato - Polonia;Meddelande för det pris som hittades - Polen;Mensagem para o preço encontrado - Polónia;Nachricht zum gefundenen Preis - Polen;Oferta cenowa za transport - Polska;Meddelelse for pris ikke fundet - Polen
+Admin.Common.CalculatorPriceFoundMessageFinland;Message for the price found - Finland;Mensaje para el precio encontrado - Finlandia;Bericht voor de gevonden prijs - Finland;Message pour le prix trouvé - Finlande;Messaggio per il prezzo trovato - Finlandia;Meddelande för det pris som hittades - Finland;Mensagem para o preço encontrado - Finlandia;Nachricht zum gefundenen Preis - Finland;Oferta cenowa za transport - Finlandia;Meddelelse for pris ikke fundet - Finland
+Admin.Common.CalculatorPriceFoundMessageLuxemburg;Message for the price found - Luxemburg;Mensaje para el precio encontrado - Luxemburgo;Bericht voor de gevonden prijs - Luxemburg;Message pour le prix trouvé - Luxembourg;Messaggio per il prezzo trovato - Lussemburgo;Meddelande för det pris som hittades - Luxemburg;Mensagem para o preço encontrado - Luxamburgo;Nachricht zum gefundenen Preis - Luxemburg;Oferta cenowa za transport - Luksemburg;Meddelelse for pris ikke fundet - Luxembourg
+Admin.Common.CalculatorPriceFoundMessageNorway;Message for the price found - Norway;Mensaje para el precio encontrado - Noruega;Bericht voor de gevonden prijs - Noorwegen;Message pour le prix trouvé - Norvège;Messaggio per il prezzo trovato - Norvegia;Meddelande för det pris som hittades - Norge;Mensagem para o preço encontrado - Noruega;Nachricht zum gefundenen Preis - Norwegen;Oferta cenowa za transport -Norwegia;Meddelelse for pris ikke fundet - Norge
+Admin.Common.CalculatorPriceFoundMessageBulgaria;Message for the price found - Bulgaria;Mensaje para el precio encontrado - Bulgaria;Bericht voor de gevonden prijs - Bulgarije;Message pour le prix trouvé - Bulgarie;Messaggio per il prezzo trovato - Bulgaria;Meddelande för det pris som hittades - Bulgarien;Mensagem para o preço encontrado - Bulgária;Nachricht zum gefundenen Preis - Bulgarien;Oferta cenowa za transport - Bułgaria;Meddelelse for pris ikke fundet - Bulgarien
+Admin.Common.CountryFrance;France;Francia;Frankrijk;France;Francia;Frankrike;França;Frankreich;Francja;Frankrig
+Admin.Common.CountryItaly;Italy;Italia;Italië;Italie;Italia;Italien;Itália;Italien;Włochy;Italien
+Admin.Common.CountryGermany;Germany;Alemania;Duitsland;Allemagne;Germania;Tyskland;Alemanha;Deutschland;Niemcy;Tyskland
+Admin.Common.CountryPortugal;Portugal;Portugal;Portugal;Portugal;Portogallo;Portugal;Portugal;Portugal;Portugalia;Portugal
+Admin.Common.CountryDenmark;Denmark;Dinamarca;Denemarken;Dannemark;Danimarca;Danmark;Dinamarca;Dänemark;Dania;Danmark
+Admin.Common.CountrySpain;Spain;España;Spanje;Espagne;Spagna;Spanien;Espanha;Spanien;Hiszpania;Spanien
+Admin.Common.CountryNetherlands;Netherlands;Países Bajos;Nederland;Pays-Bas;Olanda;Nederländerna;Holanda;Niederlande;Holandia;Holland
+Admin.Common.CountrySweden;Sweden;Suecia;Zweden;Suède;Svezia;Sverige;Suécia;Schweden;Szwecja;Sverige
+Admin.Common.CountryBelgium;Belgium;Bélgica;België;Belgique;Belgio;Belgien;Bélgica;Belgien;Belgia;Belgien
+Admin.Common.CountryCzechRepublic;CzechRepublic;República Checa;Tsjechië;République Tchèque;Repubblica Ceca;Tjeckien;República Checa;Tschechiche Republik;Czechy;Tjekkiet
+Admin.Common.CountryAustria;Austria;Austria;Oostenrijk;Autriche;Austria;Österrike;Austria;Österreich;Austria;Østrig
+Admin.Common.CountryHungary;Hungary;Hungría;Hongarije;Hongrie;Ungheria;Ungern;Hungria;Ungarn;Węgry;Ungarn
+Admin.Common.CountrySlovenia;Slovenia;Eslovenia;Slovenië;Slovénie;Slovenia;Slovenien;Eslovenia;Slowenien;Słowenia;Slovenien
+Admin.Common.CountryCroatia;Croatia;Croacia;Kroatië;Croatie;Croazia;Kroatien;Croácia;Kroatien;Chorwacja;Kroatien
+Admin.Common.CountryRomania;Romania;Rumania;Roemenië;Roumanie;Romania;Rumänien;Roménia;Rumänien;Rumunia;Rumænien
+Admin.Common.CountrySlovakia;Slovakia;Eslovaquia;Slowakije;Slovaquie;Slovacchia;Slovakien;Eslovaquia;Slovakai;Słowacja;Slovakiet 
+Admin.Common.CountrySwitzerland;Switzerland;Suiza;Zwitserland;Suisse;Svizzera; Schweiz;Suíça;Schweiz;Szwajcaria;Schweiz
+Admin.Common.CountryEstonia;Estonia;Estonia;Estland;Estonie;Estonia;Estland;Estónia;Estland;Estonia;Estland
+Admin.Common.CountryLatvia;Latvia;Letonia;Letland;Lettonie;Lettonia;Lettland;Letónia;Lettland;Łotwa;Letland
+Admin.Common.CountryLithuania;Lithuania;Lituania;Litouwen;Lituanie;Lituania;Litauen;Lituania;Litauen;Litwa;Litauen
+Admin.Common.CountryPoland;Poland;Polonia;Polen;Pologne;Polonia;Polen;Polónia;Polen;Polska;Polen
+Admin.Common.CountryFinland;Finland;Finlandia;Finland;Finlande;Finlandia;Finland;Finlandia;Finland;Finlandia;Finland
+Admin.Common.CountryLuxemburg;Luxemburg;Luxemburgo;Luxemburg;Luxembourg;Lussemburgo;Luxemburg;Luxamburgo;Luxemburg;Luksemburg;Luxembourg
+Admin.Common.CountryNorway;Norway;Noruega;Noorwegen;Norvège;Norvegia;Norge;Noruega;Norwegen;Norwegia;Norge
+Admin.Common.CountryBulgaria;Bulgaria;Bulgaria;Bulgarije;Bulgarie;Bulgaria;Bulgarien;Bulgária;Bulgarien;Bułgaria;Bulgarien
+Admin.Common.CountryAlbania;Albania;Albania;Albanië;Albanie;Albania;Albanien;Albânia;Albanien;Albania;Albanien
+Admin.Common.CountryBosniaHerzegovina;Bosnia & Herzegovina;Bosnia y Herzegovina;Bosnië en Herzegovina;Bosnie & Herzégovine;Bosnia Erzegovina;Bosnien-Hercegovina;Bósnia e Herzegovina;Bosnien & Herzegowina;Baśnia i Harcegowina;Bosnien og Hercegovina
+Admin.Common.CountryGreece;Greece;Grecia;Griekenland;Grèce;Grecia;Grekland;Grécia;Griechenland;Grecja;Grækenland
+Admin.Common.CountryKosovo;Kosovo;Kosovo;Kosovo;Kosovo;Kossovo;Kosovo;Kosovo;Kosovo;Kosowo;Kosovo
+Admin.Common.CountryMacedonia;Macedonia;Macedonia;Macedonië;Macédonie;Macedonia;Makedonien;Macedónia;Mazedonien;Macedonia;Markedonien
+Admin.Common.CountrySerbia;Serbia;Serbia;Servië;Serbie;Serbia;Serbien;Sérvia;Serbien;Serbia;Serbien
+Admin.Common.CountryUkraine;Ukraine;Ucrania;Oekraïne;Ukraine;Ucraina;Ukarina;Ucrania;Ukraine;Ukraina;Ukraine
+Admin.Common.successMailMessage;The email has been sent;El correo ha sido enviado;Email verstuurd;L'email a été envoyé;L'email è stata inviata con successo;E-postmeddelandet har skickats;O email foi enviado;Die E-Mail wurde erfolgreich versendet;Email został wysłany ;E-mailen er blevet sendt
+Admin.Common.LabelNameToOptionRequest1;Options name to transport request 1;Nombre de opciones para petición de transporte 1;Opties veldnaam voor transport verzoek 1;Nom des options de la demande de transport 1;Nomi opzionali per richiesta di trasporto 1;Alternativ namn för transportförfrågan 1;Nome da opção para pedido de transporte 1;Optionaler Name für Transportauftrag 1;Nazwa zapytania transportowego 1;Valg af navn til transportanmodning 1
+Admin.Common.LabelNameToOptionRequest2;Options name to transport request 2;Nombre de opciones para petición de transporte 2;Opties veldnaam voor transport verzoek 2;Nom des options de la demande de transport 2;Nomi opzionali per richiesta di trasporto 2;Alternativ namn för transportförfrågan 2;Nome da opção para pedido de transporte 2;Optionaler Name für Transportauftrag 2;Nazwa zapytania transportowego 2;Valg af navn til transportanmodning 2
+Admin.Common.LabelNameToOptionRequest3;Options name to transport request 3;Nombre de opciones para petición de transporte 3;Opties veldnaam voor transport verzoek 3;Nom des options de la demande de transport 3;Nomi opzionali per richiesta di trasporto 3;Alternativ namn för transportförfrågan 3;Nome da opção para pedido de transporte 3;Optionaler Name für Transportauftrag 3;Nazwa zapytania transportowego 3;Valg af navn til transportanmodning 3
+Admin.Common.LabelNameToOptionRequest4;Options name to transport request 4;Nombre de opciones para petición de transporte 4;Opties veldnaam voor transport verzoek 4;Nom des options de la demande de transport 4;Nomi opzionali per richiesta di trasporto 4;Alternativ namn för transportförfrågan 4;Nome da opção para pedido de transporte 4;Optionaler Name für Transportauftrag 4;Nazwa zapytania transportowego 4;Valg af navn til transportanmodning 4
+Admin.Common.LabelNameToOptionRequest5;Options name to transport request 5;Nombre de opciones para petición de transporte 5;Opties veldnaam voor transport verzoek 5;Nom des options de la demande de transport 5;Nomi opzionali per richiesta di trasporto 5;Alternativ namn för transportförfrågan 5;Nome da opção para pedido de transporte 5;Optionaler Name für Transportauftrag 5;Nazwa zapytania transportowego 5;Valg af navn til transportanmodning 5
+Admin.Common.LabelNameToOptionRequest6;Options name to transport request 6;Nombre de opciones para petición de transporte 6;Opties veldnaam voor transport verzoek 6;Nom des options de la demande de transport 6;Nomi opzionali per richiesta di trasporto 6;Alternativ namn för transportförfrågan 6;Nome da opção para pedido de transporte 6;Optionaler Name für Transportauftrag 6;Nazwa zapytania transportowego 6;Valg af navn til transportanmodning 6
+Admin.Common.EmailHeaderText;Text for email header;Texto para el encabezado del email;Tekst voor koptekst email;Texte du header de l'email;Testo per intestazione email;Text för epost rubrik;Texto para cabeçalho do email;Text für E-Mail Header;Tekst w nagłówku emaila;Tekst til E-mail sidehoved
+Admin.Common.EmailFooterText;Text for email footer;Texto para el pie de página del email;Tekst voor voettekst email;Texte du footer de l'email;Testo per piè di pagina email;Text för epost sidfot;Texto para rodapé do email;Text für E-Mail Footer;Tekst w stopce emaila ;Tekst til E-mail sidefod 
+Admin.Common.InternationalFileText;Text for Request International Transport Documents;Texto para Petición de Documentos de Transporte Internacional;Tekst voor verzoek documenten internationaal transport;Texte de demande de documents de transport international;Testo per Documenti di Richiesta di Trasporto Internazionale;Text för begäran av internationella transportdokument;Texto para Pedido de Documentos de Transporte Internacional;Text für die Abfrage internationaler Transportdokumente;Tekst aby zamówić dokumenty międzynarodowego transportu ;Tekst for anmodning om internationale transportdokumenter
+Admin.Common.LocalFileText;Text for Request Local Transport Documents;Texto para Petición de Documentos de Transporte Local;Tekst voor verzoek documenten lokaal transport;Texte de demande de documents de transport local;Testo per Documenti di Richiesta di Trasporto Nazionale;Text för begäran av lokala transportdokument;Texto para Pedido de Documentos de Transporte Local;Text für Abfrage lokaler Transportdokumente;Tekst aby zamówić dokumenty lokalnego transportu ;Tekst for anmodning om lokale transportdokumenter
+Admin.Common.CalculatorFinalMessage;Message when you finish the calculator;Mensaje cuando finalizas la calculadora;Bericht na verzenden transport opdracht;Message lorsque vous terminez le devis;Messaggio dopo la conclusione del calcolatore;Meddelande när du lämnar kalkylatorn;Mensagem de termino de calculo;Nachricht wenn der Kalkulator beendet wird;Wiadomość po zakończeniu pracy kalkulatora;Meddelelse når beregningen færdiggøres
+Admin.Common.URLFastTrackToDoorDelivery;URL Fast Track - To Door Delivery;URL Fast Track - Entrega puerta a puerta;URL Fast Track - To Door Delivery;URL Fast track - Livraison chez le client;URL Fast Track - A indirizzo acquirente;URL Fast track - dörr till dörr leverans;URL Rótulo Fast Track;URL Fast Track - Endkundenbelieferung;URL Fast Track - dostawa na wskazany adres;URL hurtig sporing - Til dør levering
+Admin.Common.TextInfoFastTrackCalculator;Info Fast Track Label;Etiqueta de información Fast Track;Info Fast Track Label;Label information fast track;Info Fast Track Etichetta;Info Fast track ;Info  Rótulo Fast Track;Information Fast Track Kennung;Etykieta informacyjna Fast Track;Information hurtig sporing label
+Admin.Common.URLFastTrackToHubDelivery;URL Fast Track - To Hub Delivery;URL Fast Track - Entrega en hub;URL Fast Track - To Hub Delivery;URL Fast track - Livraison sur site BCA;URL Fast Track - A piazzale ;URL Fast Track - Leverans till upphämtningsplats;URL  Fast Track - para transporte de entrega ;URL Fast Track - Zustelldepot;URL Fast Track - dostawa do HUBu;URL hurtig sporing - Til hub levering
+Admin.Layout.Title;ETC - ADMINISTRATOR <br /> <span>European Transport Calculator</span>;ETC - ADMINISTRADOR <br /> <span>European Transport Calculator</span>;ETC - ADMINISTRATOR <br /> <span> Europese transportcalculator </ span>;ETC - ADMINISTRATEUR <br /> <span> Calculateur de transport européen </ span>;ETC - AMMINISTRATORE <br /> <span> European Transport Calculator </ span>;ETC - ADMINISTRATOR <br /> <span> European Transport Calculator </ span>;ETC - ADMINISTRADOR <br /> <span> Calculadora Europeia de Transportes </ span>;ETC - Administrator <br /> <span>Europäischer Transport Kalkulator</span>;ETC - ADMINISTRATOR <br /> <span> Europejski kalkulator transportu </ span>;ETC - ADMINISTRATOR <br /> <span>European Transport Calculator</span>
+Admin.Layout.Welcome;Welcome<br />;Bienvenido<br />;Welkom <br />;Bienvenue <br />;Benvenuto <br />;Välkommen <br />;Bem-vindo <br />;Willkommen <br />;Witamy <br />;Velkommen
+Admin.Layout.lblCountry;Country;País;Land;pays;Paese;Land;País;Land;Kraj;Land
+Admin.Layout.btnCancel;Cancel;Cancelar;Annuleren;annuler;Annulla;Avbryt;Cancelar;Abbrechen;Anuluj;Annuller
+Admin.Layout.btnSave;Save;Guardar;Save;Enregistrer;Salva;Spara;Guardar;Speichern;Zapisz;Gem
+Admin.Layout.CountryUser;Country User;Usuario País;Landgebruiker;Pays utilisateur;Utente Paese;Landanvändare;Utilizador do país;Land Benutzer;Użytkownik krajowy;Lande bruger
+Admin.Layout.EtsUser;ETS User;Usuario ETS;ETS-gebruiker;Utilisateur ETS;Utente ETS;ETS-användare;Utilizador ETS;ETS Benutzer;Użytkownik ETS;ETS bruger
+Admin.Layout.AdminUser;Admin User;Usuario Admin;Admin-gebruiker;Utilisateur administrateur;Utente amministratore;Admin Användare;Utilizador Admin;Administratorbenutzer;Konto administratora ;Administrationsbruger
+Admin.Layout.inputError;This field is required;Este campo es obligatorio;Dit veld is verplicht;Ce champ est obligatoire;Questo campo è obbligatorio;Detta fält är obligatoriskt;Este campo é obrigatório;Angabe erforderlich;To pole jest wymagane;Dette felt er obligatorisk
+Admin.Layout.inputErrorFormat;Format is not valid;Formato no válido.;Formaat is niet geldig;Le format n'est pas valide;Il formato non è valido;Formatet är inte giltigt;Formato não é válido;Falsches Format;Format jest nieprawidłowy;Formatet er ugyldigt
+Admin.Layout.lblPrice;Price;Precio;Prijs;prix;Prezzo;Pris;Preço;Preis;Cena;Pris
+Admin.Login.lblUserLogin;USER LOGIN;INICIO DE SESIÓN DE USUARIO;GEBRUIKERS AANMELDEN;CONNEXION UTILISATEUR;LOGIN UTENTE;ANVÄNDARNAMN;LOGIN DO UTILIZADDOR;BENUTZER-LOGIN;Nazwa użytkownika;BRUGER LOGIN
+Admin.Login.btnSignIn;Sign in;Registrarse;Log in;Se connecter;Accedi;Logga in;Entrar;Anmelden;Zaloguj się;Log ind
+Admin.Login.lblError;Your username or password is incorrect.;Su nombre de usuario o contraseña es incorrecto.;Uw gebruikersnaam of wachtwoord is onjuist.;Votre nom d'utilisateur ou mot de passe est incorrect.;Il tuo nome utente o password non sono corretti.;Ditt användarnamn eller lösenord är felaktigt.;Utilizador ou Senha incorreto;Ihr Benutzername oder Passwort ist falsch.;Nazwa użytkownika lub hasło jest nieprawidłowe.;Brugernavn eller Adgangskode er forkert
+Admin.Dashboard.Title;Welcome to ETC - Administrator Dashboard;Bienvenido a ETC - Panel de Administración;Welkom bij ETC - Administrator Dashboard;Bienvenue dans ETC - Tableau de bord administrateur;Benvenuti in ETC - Pannello amministrazione;Välkommen till ETC - Administratör Dashboard;Bem-vindo ao ETC - Painel do Administrador;Willkommen bei ETC - Administrator Dashboard;Witamy w ETC - panelu administratora;Velkommen til ETC - Administrator panel
+Admin.Dashboard.lblUserLogs;Last 30 Calculated Bugets;Últimos 30 Presupuestos Calculados;Laatste 30 berekende bugs;30 derniers budgets calculés;Ultimi 30 Preventivi calcolati;Senaste 30 Beräknade priser;Últimos 30 orçamentos calculados;Letzte 30 berechnete Budgets;30 ostatnich wyliczeń ;Sidste 30 beregnede
+Admin.Dashboard.lblLoadingData;Loading Data...;Cargando Datos...;Gegevens laden ...;Chargement des données ...;Caricamento dati ...;Laddar data...;A carregar …;Daten werden geladen ...;Ładowanie danych ...;Indlæser data…
+Admin.Dashboard.lblDate;Date;Fecha;Datum;date;Data;Datum;Data;Datum;Data;Dato
+Admin.Dashboard.lblIP;IP;IP;IP;IP;IP;IP;IP;IP;IP;IP
+Admin.Dashboard.lblType;Type;Tipo;Type;Type;Tipo;Typ;Tipo;Bitte eingeben;Rodzaj;Type
+Admin.Dashboard.lblCountryFrom;Country From;País Desde;Land van;Pays de départ;Paese da;Land från;País De;Land von;Kraj z;Land fra
+Admin.Dashboard.lblParkFrom;Park From;Parque Desde;Park van;Parc de départ;Parco di provenienza;Park Från;Parque De;Abholstandort;Plac z ;Startsted
+Admin.Dashboard.lblZipCode;Zip Code;Código Postal;Postcode;Code postal;CAP;Postnummer;Código Postal;Postleitzahl;Kod pocztowy;Postnummer
+Admin.Dashboard.lblDestinationCountry;Destination Country;País Destino;Bestemming land;Pays de destination;Paese di destinazione;Destinationsland;País de destino;Zielland;Kraj dostawy;Destinationsland
+Admin.UsersList.Title;Users;Usuarios;Gebruikers;Les utilisateurs;Utenti;användare;Utilizadores;Benutzer;Użytkownicy;Brugere
+Admin.UsersList.Info;(Active / User Rol / Country / UserLogin / Last Login);(Activo / Rol de Usuario / País / Inicio de Sesión de Usuario / Último Inicio de Sesión);(Active / User Role / Country / UserLogin / Last Log);(Actif / Utilisateur Rol / Pays / UserLogin / Dernière connexion);(Attivo / Ruolo utente / Paese / Login utente / Ultimo accesso);(Aktiv / Användarroll / Land / Användarlogin / Senast inloggad);(Ativo / Função / País / Login / Último Login);(Aktiv / Benutzerrolle / Land / Benutzeranmeldung / Letzte Anmeldung);(Aktywny / Rola użytkownika/ Kraj /Nazwa użytkownika / Ostatnie logowanie);(Aktiv / Bruger rolle / Land / Brugerlogin / Sidste login)
+Admin.UsersList.AddNewUser;Add New User;Agregar Nuevo Usuario;Nieuwe gebruiker toevoegen;Ajouter un nouvel utilisateur;Aggiungi nuovo utente;Lägg till ny användare;Adicionar novo utilizador;Neuen Benutzer hinzufügen;Dodaj nowego użytkownika;Tilføj ny bruger
+Admin.UsersList.Active;Active;Activo;Actief;actif;Attivo;Aktiva;Ativo;Aktiv;Aktywny;Aktiv
+Admin.UsersList.NotActive;Not Active;No Activo;Niet actief;Pas actif;Non attivo;Inte aktiv;Não ativo;Nicht aktiv;Nieaktywny;Inaktiv
+Admin.UsersList.UserRegion;User Region;Región del Usuario;Gebruikersregio;Région utilisateur;Regione utente;Användarregion;Região do utilizador;Benutzerregion;Region użytkownika;Bruger region
+Admin.UsersEdit.Title;User Edition;Edición de Usuario;Gebruikerseditie;User Edition;Edizione utente;Användarutgåva;Edição do utilizador;Benutzeredition;Edytuj użytkownika;Rediger bruger
+Admin.UsersEdit.Info;Fill all the fields to create or edit an user;Complete todos los campos para crear o editar un usuario;Vul alle velden in om een gebruiker te maken of te bewerken;Remplir tous les champs pour créer ou éditer un profil utilisateur;Compila tutti i campi per creare o modificare l'utente;Fyll i alla fält för att skapa eller redigera en användare;Preencha todos os campos para criar ou editar um utilizador;Füllen Sie alle Felder aus;Wypełnij wszystkie pola;Udfyld alle felter for at oprette eller redigere en bruger
+Admin.UsersEdit.Name;Name;Nombre;Naam;nom;Nome;namn;Nome;Name;Imię;Navn
+Admin.UsersEdit.Surname;Surname;Apellido;Achternaam;nom de famille;Cognome;Efternamn;Sobrenome;Name;Nazwisko;Efternavn
+Admin.UsersEdit.UserName;User Name to Login;Nombre de Usuario para Iniciar Sesión;Gebruikersnaam om in te loggen;Nom d'utilisateur pour se connecter;Nome utente per il login;Användarnamn att logga in med;Nome de utilizador para login;Benutzername zum Anmelden;Nazwa użytkownika do logowania;Brugernavn til login
+Admin.UsersEdit.Email;Email;Email;e-mail;email;Email;E-post;e-mail;E-Mail;E-mail;Email
+Admin.UsersEdit.DefaultLanguage;Default Language;Idioma predeterminado;Standaardtaal;Langue par défaut;Lingua predefinita;Standardspråk;Idioma padrão;Standardsprache;Język domyślny ;Standardsprog
+Admin.UsersEdit.Role;Role;Rol;Rol;rôle;Ruolo;Roll;Função;Rolle;Rola;Rolle
+Admin.UsersEdit.SaveUser;Save User;Guardar Usuario;Bewaar gebruiker;Enregistrer l'utilisateur;Salva utente;Spara användare;Gravar utilizador;Benutzer speichern;Zapisz użytkownika;Gem bruger
+Admin.UsersEdit.SendPasswordByEmail;Send Password By Email;Enviar Contraseña por Email;Stuur wachtwoord per e-mail;Envoyer le mot de passe par email;Invia password per e-mail;Skicka lösenord via e-post;Enviar senha por email;Passwort per Mail zusenden;Wyślij hasło e-mailem;Send adgangskode via Email
+Admin.UsersEdit.DesactiveUser;Desactive User;Desactivar Usuario;Deactiveer gebruiker;Utilisateur désactivé;Utente non attivo;Inaktiv användare;Utilizador não ativo;Benutzer deaktivieren;Dezaktywuj użytkownika;Deaktiver bruger
+Admin.UsersEdit.ActiveUser;Active User;Activar Usuario;Actieve gebruiker;Utilisateur actif;Utente attivo;Aktiv användare;Utilizador ativo;Aktiver Benutzer;Aktywny użytkownik;Aktiv bruger
+Admin.UsersEdit.desactiveMessage;The user has been desactivated;El usuario se ha desactivado;De gebruiker is gedesactiveerd;L'utilisateur a été désactivé;L'utente è stato disattivato;Användaren har avaktiverats;Este Utilizador foi desativado;Der Benutzer wurde deaktiviert;Użytkownik został dezaktywowany;Brugeren er deaktiveret
+Admin.UsersEdit.activeMessage;The user has activated;El usuario se ha activado;De gebruiker is geactiveerd;L'utilisateur a activé;L'utente si è attivato;Användaren har aktiverats;Este Utilizador foi ativado;Der Benutzer wurde aktiviert;Użytkownik został aktywowany;Bruger er aktiveret
+Admin.UsersEdit.emailSentMessage;The email has been sent successfully;Se ha enviado el correo con éxito;De e-mail is succesvol verzonden;L'email a été envoyé avec succès;L'email è stata inviata con successo;E-postmeddelandet har skickats framgångsrikt;O email foi enviado com sucesso;Die E-Mail wurde erfolgreich versendet;E-mail został wysłany pomyślnie;Email sendt med success
+Admin.RightMenu.lblMyCountry;My Country;Mi País;Mijn land;Mon pays;Il mio Paese;Mitt land;Meu país;Mein Land;Mój kraj;Mit land
+Admin.RightMenu.lblMyEmail;My Email;Mi Email;Mijn e-mail;Mon email;La mia email;Min e-post;Meu email;Meine E-Mail;Mój e-mail;Min Email
+Admin.RightMenu.imgFlag;"<img src=""/assets/images/flags/flag_en.png"" />";"<img src=""/assets/images/flags/flag_es.png"" />";"<img src=""/assets/images/flags/flag_nl.png""/>";"<img src =""/assets/images/flags/flag_fr.png""/>";"<img src=""/assets/images/flags/flag_it.png""/>";"<img src =""/assets/images/flags/flag_sv.png""/>";"<img src =""/assets/images/flags/flag_pt.png""/>";"<img src=""/assets/images/flags/flag_de.png""/>";"<img src=""/assets/images/flags/flag_pl.png""/>";"<img src =""/assets/images/flags/flag_da.png""/>"
+Admin.RightMenu.Title1;General;General;Algemeen;général;Generale;Allmän;Geral;Allgemein;Ogólny;Generelt
+Admin.RightMenu.lblLanguageName;English;Spanish;Nederlands;Français;Inglese;Svenska;Português;Deutsch;Polski;Dansk
+Admin.RightMenu.Dashboard;Dashboard;Dashboard;Dashboard;tableau de bord;Cruscotto;Dashboard;Painel de instrumentos;Übersicht;Dashboard;Panel
+Admin.RightMenu.MassCalculationByExcel;Mass Excel Calculator;Calculadora Excel de Masa;Massa Excel Calculator;Calculatrice excel en masse;Calcolatore di massa Excel;Mass Excel kalkylator;calculadora mass excell;Mehrfachkalkulation in Excel;Kalkulator masy Excel;Excel udregner
+Admin.RightMenu.Title2-AdminUser;Admin Users Menu;Menú de Usuarios Administradores;Beheerder gebruikersmenu;Menu Utilisateurs Admin;Menu Utenti amministratori;Admin Användarmeny;Menu de utilizadores administradores;Admin Benutzermenü;Menu administratora;Admin brugermenu
+Admin.RightMenu.Title2-ETSUser;ETS Users Menu;Menú de Usuarios ETS;ETS-gebruikersmenu;Menu Utilisateurs ETS;Menu Utenti ETS;ETS-användarmenyn;Menu de utilizadores ETS;ETS Benutzermenü;Menu użytkowników ETS;ETS brugermenu
+Admin.RightMenu.Title2-UserCountry;Users Country Menu;Menú de Usuarios País;Gebruikers Landmenu;Menu Pays Utilisateurs;Menu utenti Paese;Användare Landsmeny;Menu de utilizador por país;Land des Benutzers;Menu kraj użytkowników;Brugers landemenu
+Admin.RightMenu.LocalRegionsAdministrator;Local Regions;Regiones Locales;Lokale regio's;Régions locales;Regioni locali;Lokala regioner;Regiões locais;Lokale Regionen;Regiony lokalne;Lokale regioner
+Admin.RightMenu.RegionsAdministrator;International Regions;Regiones Internacionales;Internationale regio's;Régions internationales;Regioni internazionali;Internationella regioner;Regiões Internacionais;Internationale Regionen;Regiony międzynarodowe;Internationale regioner
+Admin.RightMenu.ImportRegionsAdministrator;Import Regions;Importación de Regiones;Regio's importeren;Régions d'importations;Importa regioni;Importregioner;Regiões de importação;Regionen importieren;Importuj regiony;Import regioner
+Admin.RightMenu.PriceListAdministratorInternational;International Price List by Region;Lista de Precios por Regiones Inter.;Internationale prijslijst per regio;Liste de prix internationaux par région;Listino prezzi internazionale per regione;Internationell prislista efter region;Lista de Preços Internacionais por Região;Internationale Preisliste nach Region;Międzynarodowy cennik według regionu;International prisliste pr. region
+Admin.RightMenu.PriceListAdministratorLocal;Local Price List by Region;Lista de Precios por Regiones Local;Lokale prijslijst per regio;Liste de prix locale par région;Listino prezzi locale per regione;Lokal prislista efter region;Lista de Preços Locais por Região;Lokale Preisliste nach Region;Lokalny cennik według regionu;Lokal prisliste pr. region
+Admin.RightMenu.LocalPriceListAdministrator;Price List by Local Km;Lista de Precios por Km Local;Prijslijst door Local Km;Liste de prix par kilomètre local;Listino prezzi per Km locale;Prislista med Lokal Km;Lista de Preços por Km Locais;Preisliste nach lokalen Km;Cennik według lokalnych Km;Lokalpris pr. km.
+Admin.RightMenu.ImportPriceListAdministrator;Import Price List By Region;Importar Lista de Precios Por Region;Prijslijst importeren per regio;Liste de prix d'importation par région;Importa listino prezzi per regione;Importera prislista efter region;Lista de preços de importação por região;Importpreisliste nach Region;Cennik importu według regionu;Import prisliste pr. region
+Admin.RightMenu.ImportLocalPrices;Import Prices List by Local Km;Importar Lista de Precios Por Km;Prijslijst importeren op lokale Km;Liste des prix d'importation par kilomètre local;Importa listino prezzi per km;Importera priser Lista med lokala Km;Lista de Preços de Importação por Km Local;Import Preisliste nach lokalen Km;Lista cen importu według lokalnych km;Importer lokalpris-liste pr. km
+Admin.RightMenu.CountryConfiguration;Countries Configuration;Configuración de Paises;Landen configuratie;Configuration des pays;Configurazione del Paese;Länder Konfiguration;Configuração do país;Länderkonfiguration;Konfiguracja krajowa;Rediger land
+Admin.RightMenu.CompoundConfiguration;Compounds Configuration;Configuración de Campas;Compound configuratie;configuration du centre;Configurazione del Piazzale;Compounds Configuration;Configuração das instalações;Verbindungskonfiguration;Konfiguracja polowa;Konfigurere compound 
+Admin.RightMenu.UsersAdministrator;Users;Usuarios;Gebruikers;Les utilisateurs;Utenti;användare;Utilizadores;Benutzer;Użytkownicy;Brugere
+Admin.RightMenu.ResourceAdministrator;Resource Manager;Administrador de Recursos;Resource Manager;Gestionnaire de ressources;Responsabile delle risorse;Resurshanteraren;Gerenciador de recursos;Kapazitätensteuerung;Menedżer zasobów;Ressource-manager
+Admin.RightMenu.ImportFileToCalculatePrices;Calculate Prices by Template;Calcular Precios por Plantilla;Bereken prijzen middels template;Calculer les prix avec le template;Calcola i prezzi dal template;Beräkna priser per mall;Calcular os preços por modelo;Preis nach Vorlage kalkulieren;Oblicz cenę ;Beregn priser via skabelon
+Admin.RightMenu.UserLogsAdministrator;User Logs;Registros de usuario;Gebruikerslogboeken;Entrées de l'utilisateur;Registri utente;Användarloggar;Logs do utilizador;Benutzerprotokolle;Logi użytkowników;Bruger logs
+Admin.RightMenu.Title3;User;Usuario;Gebruiker;utilisateur;Utente;Användare;Utilizador;Benutzer;Użytkownik;Bruger
+Admin.RightMenu.EditMyUser;Edit My User;Editar Mi Usuario;Bewerk mijn gebruiker;Editer mon utilisateur;Modifica il mio utente;Redigera min användare;Editar o meu utilizador;Bearbeiten Sie meinen Benutzer;Edytuj użytkownika;Rediger min bruger
+Admin.RightMenu.LogOff;Log Off;Desconectarse;Afmelden;Se déconnecter;Disconnetti;Logga ut;Logoff;Abmelden;Wyloguj się;Log af
+Admin.RegionEdit.Title;Region Edition;Edición de Región;Regio-editie;Edition de région;Edizione regionale;Region Edition;Editar Região;Anpassung Region;Edycja regionalna;Rediger region
+Admin.RegionEdit.Info;Complete all fields to create or edit a region;Complete todos los campos para crear o editar una región;Vul alle velden in om een regio te maken of te bewerken;Remplissez tous les champs pour créer ou éditer une région;Completa tutti i campi per creare o modificare una regione;Fyll i alla fält för att skapa eller redigera en region;Preencha todos os campos para criar ou editar uma região;Füllen Sie alle Felder aus;Wypełnij wszystkie pola;Udfyld alle felter for at oprette eller redigere en region
+Admin.RegionEdit.lblCode;Code;Código;Code;code;Codice;Kod;Código;Code;Kod;Postnr.
+Admin.RegionEdit.lblName;Name;Nombre;Naam;nom;Nome;namn;Nome;Name;Nazwa;Navn
+Admin.RegionEdit.btnSaveRegion;Save Region;Guardar Región;Regio opslaan;Enregistrer la région;Salva regione;Spara region;Guardar Região;Region speichern;Zapisz region;Gem region
+Admin.RegionEdit.btnDesactiveRegion;Desactive Region;Desactivar Región;Regio deactiveren;Région désactive;Regione non attiva;Inaktiv region;Região desativada;Region deaktivieren;Dezaktywuj region;Deaktiver region
+Admin.RegionEdit.btnActiveRegion;Active Region;Activar Región;Actieve regio;Région active;Regione attiva;Aktiv region;Região ativa;Region aktivieren;Aktywuj region;Aktiv region
+Admin.RegionEdit.regionCodeAlreadyExistMessage;A region with that code already exists;Ya existe una región con ese código;Er bestaat al een regio met die code;Une région avec ce code existe déjà;Una regione con quel codice esiste già;En region med den koden finns redan;Já existe uma região com esse código ;Eine Region mit diesem Code ist bereits vorhanden;Region z tym kodem już istnieje;En region med denne kode eksisterer allerede
+Admin.RegionEdit.desactivateMessage;The region has been desactivated;La región se ha desactivado;De regio is gedesactiveerd;La région a été désactivée;La regione è stata disattivata;Regionen har avaktiverats;A região foi desativada;Die Region wurde deaktiviert;Region został dezaktywowany;Regionen er deaktiveret
+Admin.RegionEdit.activateMessage;The region has been activated;La región se ha activado;De regio is geactiveerd;La région a été activée;La regione è stata attivata;Regionen har aktiverats;A região foi ativada;Die Region wurde aktiviert;Region został aktywowany;Regionen er aktiveret
+Admin.RegionEdit.lblOriginCountryName;Origin Country;País Origen;Ophaal land;Pays d'origine;Paese di origine;Ursprungsland;País de origem;Herkunftsland;Kraj pochodzenia ;Oprindelsesland
+Admin.RegionEdit.lblDestinyCountryName;Destiny Country;País Destino;Bestemming land;Pays d'expédition;Paese di destinazione;Destinationsland;País de destino;Bestimmungsland;Kraj przeznaczenia ;Leverings land
+Admin.RegionEdit.dliAllCountries;All Countries;Todos los Paises;Alle landen;Tous les pays;Tutti i Paesi;Alla länder;Todos os países;Alle Länder;Wszystkie kraje ;Alle lande
+Admin.RegionList.TitleInternational;International Regions;Regiones Internacionales;Internationale regio's;Régions internationales;Regioni internazionali;Internationella regioner;Regiões Internacionais;Internationale Regionen;Regiony międzynarodowe;Internationale regioner
+Admin.RegionList.TitleLocal;Local Regions;Regiones Locales;Lokale regio's;Régions locales;Regioni locali;Lokala regioner;Regiões locais;Lokale Regionen;Regiony lokalne;Lokale regioner
+Admin.RegionList.InfoLocal;(Active / Country / Code / Name);(Activo / País / Código / Nombre);(Actief / Land / Code / Naam);(Actif / Pays / Code / Nom);(Attivo / Paese / Codice / Nome);(Aktiv / Land / Kod / Namn);(Ativo / País / Código / Nome);(Aktiv / Land / Code / Name);(Aktywny / Kraj / Kod / Nazwa);(Aktive / Land / Postnr. / Navn)
+Admin.RegionList.InfoInternational;(Active / Origin Country / Destiny Country / Code / Name);(Activo / País Origen / País Destino / Código / Nombre);(Actief / Pick-up Land / Code / Naam);(Actif / Pays d'origine / Pays d'expédition / Code / Nom);(Attivo/ Paese di origine / Paese di destinazione / Codice / Nome);(Aktiv / Ursprungsland/ Destinationsland /Kod/ Namn);(Activo / País de origem / País de destino / Código / Nome);(Aktiv / Herkunftsland / Bestimmungsland / Postleitzahl / Name);(Aktywny / Kraj pochodzenia / Kraj przeznaczenia / Kod / Nazwa);(Aktiv / Bruger rolle / Land / Brugerlogin / Sidste login)
+Admin.RegionList.dliCountries;-- All Countries --;-- Todos los Paises --;- Alle landen -;- Tous les pays -;- Tutti i paesi -;-- Alla länder --;- Todos os países -;- Alle Länder -;- Wszystkie kraje -;-- Alle lande --
+Admin.RegionList.lblNewRegion;New Region;Nueva Región;Nieuwe regio;Nouvelle région;Nuova Regione;Ny region;Nova Região;Neue Region;Nowy region;Ny region
+Admin.RegionZipCodes.Title;Zip Codes;Códigos Postales;Postcodes;Codes postaux;Codici postali;Postnummer;Códigos Postais;Postleitzahlen;Kody pocztowe;Postnumre
+Admin.RegionZipCodes.lblAddNewZP;Add New CP, max digits:;Añadir Nuevo CP, máx digitos:;Nieuwe PC toevoegen;Ajouter un nouveau CP;Aggiungi nuovo CP;Lägg till ny CP;Adicionar novo CP, dígitos máximos:;Addiere neue CP;Dodaj nowe CP;Postnr.
+Admin.RegionZipCodes.inputError;This field must be numeric;Este campo debe ser numérico;Dit veld moet numeriek zijn;Ce champ doit être numérique;Questo campo deve essere numerico;Detta fält måste vara numeriskt;Este campo deve ser numérico;Numerisches Feld;To pole musi być numeryczne;Dette felt skal være numerisk
+Admin.RegionZipCodes.iconDelete;Delete Log;Eliminar Registro;Log verwijderen;Supprimer l'entrée;Elimina registro;Ta bort logg;Apagar Log;Protokoll löschen;Usuń raport;Slet log
+Admin.RegionZipCodes.deleteMessage;The data has been removed correctly;Se ha eliminado correctamente;De gegevens zijn correct verwijderd;Les données ont été supprimées correctement;I dati sono stati rimossi correttamente;Uppgifterna har tagits bort korrekt;Os dados foram removidos corretamente;Die Daten wurden korrekt entfernt;Dane zostały usunięte poprawnie;Dataen er fjernet korrekt
+Admin.RegionZipCodes.errorMessage;The code already exists within the same country;El código ya existe dentro del mismo país;De code bestaat al in hetzelfde land;Le code existe déjà dans le même pays;Il codice esiste già nello stesso paese;Koden finns redan inom samma land;O código já existe no mesmo país;Der Code existiert bereits im selben Land;Kod już istnieje w tym samym kraju;Koden eksisterer allerede inden for samme land
+Admin.RegionZipCodes.validationMessage;Character not valid;Caracter no válido;Karakter niet geldig;Caractère non valide;Carattere non valido;Karaktären är inte giltig;Caráter não válido;Charakter nicht gültig;Znak jest nieważny;Tegn ugyldigt
+Admin.ImportPricesList.WarningText;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.;PLEASE NOTE: WITH “MAKE IMPORT” YOU DELETE THE CURRENT PRICELIST AND REPLACE IT COMPLETELY WITH THE NEW PRICELIST. Therefore, please ensure that you always upload ALL prices – adding or changing only certain prices is NOT possible.
+Admin.ImportPricesList.Title;Import Price List By Region;Importar Lista de Precios por Región;Prijslijst importeren per regio;Liste de prix d'importation par région;Importa listino prezzi per regione;Importera prislista efter region;Lista de preços de importação por região;Importpreisliste nach Region;Cennik importu według regionu;Import prisliste pr. region
+Admin.ImportPricesList.lblSelectRegionToImport;Select the type of Region that will be imported;Seleccione el tipo de Región que va a importar;Selecteer het type Regio dat zal worden geïmporteerd;Sélectionner le type de région à importer;Seleziona il tipo di regione che vuoi importare;Välj typ av region som ska importeras;Selecione o tipo de região que deseja ser importada;Wählen Sie den Regionstyp aus;Wybierz typ regionu;Vælg type af region som skal importeres
+Admin.ImportPricesList.dliInternational;International;Internacional;Internationaal;au niveau international;Internazionale;Internationell;Internacional;International;Międzynarodowy;International
+Admin.ImportPricesList.dliLocal;Local;Local;Lokaal;local;Locale;Lokal;Local;Lokal;Lokalny ;Lokal
+Admin.ImportPricesList.lblDownloadTemplate;Download template for import;Descargar plantilla para la importación;Download template voor importeren;Télécharger le modèle pour l'importation;Scarica il modello per l'importazione;Ladda ner mall för import;Download do modelo para importação;Laden Sie die Vorlage für den Import herunter;Pobierz szablon do importu;Download skabelon for import
+Admin.ImportPricesList.btnDownload;Download Template - ;Descargar Plantilla - ;Template downloaden -;Télécharger le modèle -;Scarica modello -;Hämta mall -;Download do Modelo;Vorlage herunterladen -;Pobierz szablon -;Download skabelon -
+Admin.ImportPricesList.lblSelectDestinityCountry;Select the country of origin;Seleccione el país de origen;Selecteer het land van herkomst;Sélectionner le pays d'origine;Seleziona il paese di origine;Välj ursprungsland;Selecione o país de origem;Wählen Sie das Herkunftsland;Wybierz kraj pochodzenia;Vælg oprindelsesland
+Admin.ImportPricesList.dliSelectDestinityCountry;-- Select a country of origin --;-- Seleccione un país de origen --;- Selecteer een land van herkomst -;- Choisir un pays d'origine -;- Seleziona un paese di origine -;- Välj ett ursprungsland -;- Selecione um país de origem -;- Wählen Sie ein Herkunftsland -;- Wybierz kraj pochodzenia -;-- Vælg oprindelsesland --
+Admin.ImportPricesList.lblCountry;Country;País;Land;pays;Paese;Land;País;Land;Kraj;Land
+Admin.ImportPricesList.lblBcaPark;BCA Park;Parque BCA;BCA Park;Parc BCA;Piazzale BCA;BCA Park;Parque BCA;BCA Park;BCA Park;BCA compound
+Admin.ImportPricesList.lblSelectFilledTemplate;Select the template filled with the import data;Seleccione la plantilla rellena con los datos de la importación;Selecteer de template gevuld met de importgegevens;Sélectionner le modèle rempli les données importées;Seleziona il modello riempito con i dati di importazione;Välj mallen fylld med importdata;Selecione o modelo preenchido com os dados de importação;Wählen Sie die Vorlage;Wybierz szablon wypełniony danymi importu;Vælg skabelonen der er udfyldt med import data
+Admin.ImportPricesList.btnAnalize;Analize Document - ;Analizar Documento - ;Analize Document -;Analyser le document -;Analizza il documento -;Analysera dokument -;Analize Documento;Dokument analysieren -;Analiza dokumentu;Analyser dokument - 
+Admin.ImportPricesList.lblAnalysisResult;Results of the analysis;Resultados del análisis;Resultaten van de analyse;Résultats de l'analyse;Risultati dell'analisi;Resultat av analysen;Resultados da análise;Ergebnisse der Analyse;Wyniki analizy;Resultat af analysen
+Admin.ImportPricesList.lblResultsSuccess1;The document has been analyzed correctly, it is about to import;El Documento se ha analizado correctamente, esta a punto de importar;Het document is correct geanalyseerd;Le document a été correctement analysé;Il documento è stato analizzato correttamente;Dokumentet har analyserats korrekt;O documento foi analisado corretamente, está prestes a ser importado;Das Dokument wurde korrekt analysiert;Dokument został przeanalizowany poprawnie;Dokumentet er analyseret korrekt. Det er ved at importere
+Admin.ImportPricesList.lblResultsSuccess2;records, press on the next button to proceed.;registros, presione en el siguiente boton para proceder.;records;enregistrements;risultati, premi sul tasto NEXT per procedere.;poster;registros, pressione no botão seguinte para prosseguir.;Aufzeichnungen;rekordy;"optegnelser. Klik næste"" for at fortsætte """
+Admin.ImportPricesList.lblResultsErrorImportTemplate;An error occurred while importing the template;Ha ocurrido un error al importar la plantilla;Er is een fout opgetreden tijdens het importeren van de sjabloon;Une erreur s'est produite lors de l'importation du modèle;Si è verificato un errore durante l'importazione del modello;Ett fel uppstod när mallen importerades;Ocorreu um erro ao importar o modelo;Beim Importieren der Vorlage ist ein Fehler aufgetreten;Wystąpił błąd podczas importowania szablonu;En fejl opstod ved import af skabelonen
+Admin.ImportPricesList.lblResultsErrorAnalizeFile;An error occurred when analyzing the document in the lines:;Ha ocurrido un error al analizar el documento en las lineas:;Er is een fout opgetreden bij het analyseren van het document in de regels:;Une erreur s'est produite lors de l'analyse du document dans les lignes:;Si è verificato un errore durante l'analisi del documento nelle righe:;Ett fel uppstod vid analys av dokumentet i raderna:;Ocorreu um erro ao analisar o documento nas linhas:;Bei der Analyse des Dokuments in den Zeilen ist ein Fehler aufgetreten:;Wystąpił błąd podczas analizy dokumentu w wierszach:;En fejl opstod under analysen af dokumentlinjerne:
+Admin.ImportPricesList.lblBadLine;Line;Linea;Regel;Ligne;Linea;Linje;linha;Linie;Linia;Linje
+Admin.ImportPricesList.btnImport;Make Import;Realizar Importación;Importeer;Importer;Importa;Gör Import;Importar;Import erstellen;Dokonaj importu;Lav import
+Admin.ImportPricesList.lblResultsImport;Results of the import;Resultados de la importación;Resultaten van de import;Résultats de l'importation;Risultati dell'importazione;Resultat av importen;Resultados da importação;Ergebnisse des Imports;Wyniki importu;Resultater af import
+Admin.ImportPricesList.lblResultSuccess1;Have been successfully imported;Se han importado con éxito;Zijn geïmporteerd;Ont été importés avec succès;Sono stati importati con successo;Har importerats framgångsrikt;Foram importados com sucesso;Wurde erfolgreich importiert;Zostały pomyślnie zaimportowane;Logs
+Admin.ImportPricesList.lblResultSuccess2;logs;registros;logs;les entrées;logs;loggar;Entradas;Protokolle;Raporty;logs
+Admin.ImportPricesList.lblErrorImportTemplateInLines;An error occurred when importing the template in the lines:;Ha ocurrido un error al importar la plantilla en las lineas:;Er is een fout opgetreden bij het importeren van de template in de regels:;Une erreur s'est produite lors de l'importation du modèle dans les lignes:;Si è verificato un errore durante l'importazione del modello nelle righe:;Ett fel uppstod vid import av mallen i raderna:;Ocorreu um erro ao importar o modelo nas linhas:;Beim Importieren der Vorlage in den Zeilen ist ein Fehler aufgetreten:;Wystąpił błąd podczas importowania szablonu w wierszach:;En fejl opstod under import af skabelonen i linjerne:
+Admin.ImportLocalPricesList.Title;Import Local Price;Importación de lista de precios locales;Lokale prijs importeren;Prix local d'importation;Importa prezzo locale;Importera lokalt pris;Importar preço local;Lokalen Preis importieren;Importuj cenę lokalną;Importer lokal pris
+Admin.FillFileWithPrices.dliSelectTemplate;--  Select Template --;Seleccione una Plantilla;Selecteer een template;Sélectionner un modèle;Seleziona template;Välj mall;Seleccionar modelo;Vorlage auswählen;Wybierz szablon;Vælg skabelon
+Admin.FillFileWithPrices.Title;Calculate Prices by Template;Calcular Precios por Plantilla;Bereken prijzen middels template;Calculer les prix par modèle;Calcola i prezzi dal template;Beräkna priser per mall;Calcular preço por modelo;Preis nach Vorlage kalkulieren;Oblicz cenę ;Beregn priser i skabelon
+Admin.FillFileWithPrices.InputsTitle;Inputs;Entradas;Inputs;Données;Entrate;Ingångar;Entradas;Einkäufe;Wprowadzone dane ;input
+Admin.FillFileWithPrices.lblInputsInfo;Assign the corresponding columns of the template.;Asignar las columnas correspondientes de la plantilla.;Wijs de juiste kolommen van de template toe;Assigner les colonnes correspondantes du modèle;Assegna le colonne corrispondenti dal template;Tilldela motsvarande kolumner i mallen;Atribuir as colunas correspondentes do modelo;Ordnen Sie die Spalten der Vorlage zu;Przypisz odpowiednie kolumny szablonu ;Tildel de tilsvarende kolonner i skabelonen
+Admin.FillFileWithPrices.OutputsTitle;Outputs;Salidas;Outputs;Résultats;Uscite;Utgångar;Saídas;Ausgänge;Otrzymane dane ;output
+Admin.FillFileWithPrices.lblOutputsInfo;Errors have been found in the template, please check the errors and try again:;Se han encontrado errores en la plantilla, por favor revise los errores y vuelva a intentarlo:;Fout gevonden in de template;Des erreurs ont été trouvées dans le modèle. Merci de vérifier les erreurs et de réessayer:;Ci sono errori nel template, controllare e riprovare: ;Felaktiga uppgifter - vänligen kontrollera och försök igen;Foram encontrados erros no modelo;Es wurde ein Fehler in der Vorlage gefunden;Błędy zostały znalezione w szablonie. Sprawdź błędy i spróbuj jeszcze raz: ;Der er fundet fejl i skabelonen. Kontrollér fejlene og prøv igen:
+Admin.FillFileWithPrices.lblOutputsErrorRow;Error in the row: ;Error en la fila: ;Fout in rij:;Erreur dans la ligne:;Errore nella riga:;Fel i raden:;Erros na linha:;Fehler in der Zeile:;Błąd w rzędzie:;Fejl i rækken: 
+Admin.FillFileWithPrices.btnCreateNew;Create Template;Crear Plantilla;Maak Template;Créer un modèle;Crea Template;Skapa mall;Criar Modelo;Vorlage erstellen;Stwórz szablon;Opret ny skabelon
+Admin.FillFileWithPrices.lblTemplateName;Template Name;Nombre Plantilla;Naam Template;Nom du modèle;Nome Template;Mall namn;Nome do Modelo;Name der Vorlage;Nazwa szablonu ;Skabelons navn
+Admin.FillFileWithPrices.lblPickUpCountryCode;Pick-Up Country Code;Código País de Recogida;Ophaal locatie Land Code;Code pays de collecte;Codice Paese di ritiro;Lägg till landskod;Código do País de recolha;Ländercode des Abholungslandes;Kod kraju załadunku ;Afhentnings landekode
+Admin.FillFileWithPrices.lblPickUpCompoundCode;Pick-Up Compound Code;Código Campa de Recogida;Ophaal locatie Compound Code;Code parc de collecte;Codice piazzale di ritiro;Lägg till Compound kod;Código do local de recolha;Verbindungscode für die Abholung;Kod załadunku placu ;Afhentnings stedets postnummer
+Admin.FillFileWithPrices.lblDeliveryCountryCode;Delivery Country Code;Código País de Entrega;Bestemmming Land Code;Code pays de livraison;Codice Paese di consegna;Leverans av landskod;Código do País de entrega;Code des Lieferlandes;Kod kraju dostarczenia ;Leverings landekode
+Admin.FillFileWithPrices.lblDeliveryPostcode;Delivery Postcode;Código Postal de Entrega;Bestemming Postcode;Code postal de livraion;CAP di consegna;Leverans av postnummer;Código Postal de entrega;Lieferland Postleitzahl;Kod pocztowy dostarczenia ;Leverings postnummer
+Admin.FillFileWithPrices.lblVehicleType;Vehicle Type;Tipo de Vehículo;Voertuig type;Type de véhicule;Tipo veicolo;Fordonstyp;Tipo de veículo;Fahrzeugtyp;Rodzaj pojazdu ;Køretøjstype
+Admin.FillFileWithPrices.lblResultPrice;Result Price;Precio Resultado;Resultaat prijs;Prix de vente;Prezzo risultato;Pris resultat;Preço resultante;Gesamtpreis;Cena ;Resultatpris 
+Admin.FillFileWithPrices.lblResultLeadTime;Result Lead Time;Plazo de Entrega Resultado;Resultaat lead time;Délai;Tempo di consegna risultato;Resultat ledtid;Tempo de entrega resultante;Ergebnis Vorlaufzeit;Czas dostawy ;Leveringstids 
+Admin.FillFileWithPrices.bntSaveTemplate;Save;Guardar;Opslaan;Enregistrer;Salva;Spara;Gravar;Sichern;Zapisz ;Gem
+Admin.FillFileWithPrices.bntRemoveTemplate;Remove;Eliminar;Verwijderen;Enlever;Rimuovi;Flytta;Remover;Löschen;Usuń ;Fjern 
+Admin.FillFileWithPrices.bntFillPrices;Calculate and Fill Prices;Calcular y Rellenar Precios;Bereken en geef prijzen;Calculez et complétez les prix;Calcolare e riempire i prezzi;Beräkna och fyll i priset;Calcular e preencher preços;Kalkulieren und Preise berechnen;Oblicz i wypełnij ceny ;Beregn og udfyld priser
+Admin.FillFileWithPrices.VEHICLE_TYPE_NOT_VALID;Type of vehicle not found;Tipo de vehículo no encontrado;Type voertuig niet gevonden;Type de véhicule non trouvé;Tipo di veicolo non trovato;Fordonstyp hittas ej;Tipo de veículo não encontrado;Fahrzeugtyp nicht gefunden;Rodzaj pojazdu nie znaleziony ;køretøjstype er ikke fundet
+Admin.FillFileWithPrices.PICKUP_COUNTRY_NOT_VALID;Invalid pick-up country;País de recogida no válido;Ongeldige ophaal locatie land;Pays de collecte non valide;Paese di ritiro non valido;Ogiltigt land för hämtning;País de recolha inválido;Ungültiges Abholungsland;Niepoprawny kraj załadunku ;Ugyldig afhentningsland
+Admin.FillFileWithPrices.DELIVERY_COUNTRY_NOT_VALID;Invalid delivery country;País de entrega no válido;Ongeldige bestemming land;Pays de livraison non valide;Paese di destinazione non valido;Ogiltigt leveransland;País de entrega inválido;Ungültiges Lieferland;Niepoprawny kraj dostarczenia ;Ugyldigt leveringsland
+Admin.FillFileWithPrices.COMPOUND_CODE_NOT_VALID;Invalid Compound;Parque no válido;Ongeldige compound;Parc non valide;Piazzale non valido;Ogiltig compound;Instalações inválidas;Ungültige Verbindung;Niepoprawny plac ;Ugyldigt afhentningssted
+Admin.FillFileWithPrices.Template_save_success;Saved successfully;Guardada con éxito.;Opslaan succesvol;Sauvegarde réussie;Salvato con successo;Sparat;Guardado  com Sucesso;Erfolgreich gespeichert;Zapisano;Gemt succesfuldt
+Admin.PricesList.Container.Title;Price List Administrator by Regions;Administrador de Lista de Precios por Regiones;Prijslijstbeheerder per regio;Liste de prix administrateur par région;Listino prezzi amministratore per regioni;Prislista administratör efter region;Administrador de lista de preços por regiões;Preisliste Administrator nach Regionen;Administrator listy według regionów;Prisliste administrator pr. region
+Admin.PricesList.BcaBranchList.Title;BCA park of origin;Parque BCA de origen;BCA park van herkomst;Parc BCA de départ;Piazzale di provenienza BCA;BCA-ursprungsparken;Parque de origem BCA;BCA-Park des Ursprungs;BCA park pochodzenia;BCA opsamlingssted
+Admin.PricesList.CountryList.Title;Country of origin;País de origen;Land van herkomst;Pays d'origine;Paese di provenienza;Ursprungsland;País de origem;Herkunftsland;Kraj pochodzenia;Oprindelsesland
+Admin.PricesList.DestinityCountryList.Title;Destination country;País de destino;Bestemming land;Pays de destination;Paese di destinazione;Destinationsland;País de destino;Zielland;Kraj docelowy;Destinationsland
+Admin.PricesList.DestinityRegionList.Title;Destination regions;Regiones de Destino;Bestemmingsregio's;Régions de destination;Regioni di destinazione;Destinationsregioner;Regiões de destino;Zielregionen;Regiony docelowe;Destinationsregion
+Admin.PricesList.DestinityRegionList.lblCode;Code;Código;Code;Code;Codice;Koda;Código;Code;Kod;Kode
+Admin.PricesList.DestinityRegionList.lblRegion;Region;Región;Regio;Région;Regione;Område;Região;Region;Region;Region
+Admin.PricesList.DestinityRegionList.lblOriginCountry;Origin;Origen;Oorspong;Origine;Origine;Ursprung;Origem;Herkunft;Pochodzenie ;Oprindelse
+Admin.PricesList.DestinityRegionList.lblActive;Active;Activo;Actief;Actif/ve;Attivo;Aktiv;Inactivo;Aktiv;Aktywny;Aktiv
+Admin.PricesList.DestinityRegionList.lblInactive;Inactive;Inactivo;Inactief;Inactif/ve;Non attivo;Inaktiv;Preço Editado;Inaktiv;Nieaktywny;Inaktiv
+Admin.PricesList.PriceListEdit.Title;Price Edition;Edición de Precio;Prijseditie;Prix d'édition;Edizione di prezzo;Prisutgåva;Edição de Preços;Preis Ausgabe;Edytuj cenę;Rediger pris
+Admin.PricesList.PriceListEdit.lblInfo;Complete all fields to edit a price;Complete todos los campos para editar un precio;Vul alle velden in om te bewerken aan de prijs;Remplisser tous les champs pour modifier un prix;Completa tutti i campi per modificare un prezzo;Fyll i alla fält för att ändra ett pris;Preencha todos os campos para editar um preço;Füllen Sie alle zu bearbeitenden Felder aus;Wypełnij wszystkie pola;Udfyld alle felter for at redigere pris
+Admin.PricesList.PriceListEdit.lblEstimatedTime;Estimated Time;Tiempo Estimado;Geschatte tijd;Temps estimé;Tempo stimato;Beräknad tid;Tempo estimado;Geschätzte Zeit;Szacowany czas;Estimeret tid
+Admin.PricesListLocal.Container.Title;Price List by Local Km;Lista de Precios por Km Local;Prijslijst door Local Km;Liste de prix par kilomètre local;Listino prezzi per Km locale;Prislista med Lokal Km;Lista de Preços por Km Local;Preisliste nach lokalen Km;Cennik według lokalnych Km;Prisliste pr. lokal km.
+Admin.PricesListLocal.CountryListLocal.Title;Select Country;Seleccione País;Selecteer Land;Choisisser le pays;Seleziona Paese;Välj land;Selecione o país;Wählen Sie ein Land;Wybierz kraj;Vælg land
+Admin.PricesListLocal.PricesListLocalEdit.Title;Price Edition;Edición de Precio;Prijseditie;Prix Édition;Edizione di prezzo;Prisutgåva;Edição de Preços;Preisanpassung;Edytuj cenę;Rediger pris
+Admin.PricesListLocal.PricesListLocalEdit.lblCompleteAllFields;Complete all fields to create or edit a price;Complete todos los campos para crear o editar un precio;Vul alle velden in om een prijs te maken of te bewerken;Remplissez tous les champs pour créer ou modifier un prix;Completa tutti i campi per creare o modificare un prezzo;Fyll i alla fält för att skapa eller ändra ett pris;Preencha todos os campos para criar ou editar um preço;Füllen Sie alle Felder aus;Wypełnij wszystkie pola;Udfyld alle felter for at oprette eller redigere pris
+Admin.PricesListLocal.PricesListLocalEdit.lblUpToKm;Up to (km);Hasta (km);Tot (km);Jusqu'à (km);Fino a (km);Upp till (km);Até (km);Bis zu (km);Do (km);Op til (km)
+Admin.PricesListLocal.PricesListLocalEdit.lblEstimatedDays;Estimated Days;Días Estimados;Geschatte dagen;Nombre estimé de jours;Giorni stimati;Beräknade dagar;Dias estimados;Geschätzte Tage;Szacowane dni;Estimerede dage
+Admin.PricesListLocal.PricesListLocalEdit.btnDelete;Delete;Borrar;Verwijder;Effacer;Cancellare;Radera;Apagar;Löschen;Usuń;Slet
+Admin.PricesListLocal.PriceListLocalList.Title;Price List/Distance;Listado de Precios/Distancia;Prijslijst / afstand;Liste de prix / Distance;Listino prezzi / Distanza;Prislista / Distans;Lista de Preços / Distância;Preisliste / Entfernung;Cennik / odległość;Prisliste/distance
+Admin.PricesListLocal.PriceListLocalList.lblUpToKm;Up to Km;Hasta Km;Tot km;Jusqu'à km;Fino a Km;Upp till Km;Até a Km;Bis zu Km;Do km;op til
+Admin.PricesListLocal.PriceListLocalList.lblNewLog;New Log;Nuevo Registro;Nieuw logboek;Nouvelle entrée;Nuovo registro;Ny logg;Novo log;Neues Protokol;Nowy raport;Ny log
+Admin.PricesListLocal.PriceListLocalList.lblUpTo;Up to;Hasta;Tot;Jusqu'à;Fino a;Up to;Até;Bis zu;Do;Op til
+Admin.PricesListLocal.PriceListLocalList.lblKm;km;km;km;km;km;km;km;KM;km;KM
+Admin.PricesListLocal.PriceListLocalList.lblDays;days;días;dagen;jours;giorni;dagar;dias;Tage;dni;dage
+Admin.ErrorExcelBadLine.COMPOUND_NOT_FOUND;Compound not found;Parque no encontrado;Compound niet gevonden;Centre de stockage non trouvé;Piazzale non trovato;Compound ej hittat;Local não encontrado;Standort nicht gefunden;Nie znaleziono placu;Plads ikke fundet
+Admin.Country.CountryContainer.Title;Countries Configuration;Configuración de Paises;Landen configuratie;Configuration des pays;Configurazione del Paese;Länder Konfiguration;Configuração do país;Länderkonfiguration;Konfiguracja kraju;Lande konfiguration
+Admin.Country.CountryEdit.lblInfo;Complete all fields to edit a country;Complete todos los campos para editar un país;Vul alle velden in om een land te bewerken;Remplissez tous les champs pour éditer un pays;Completa tutti i campi per modificare un Paese;Fyll i alla fält för att redigera ett land;Preencha todos os campos para editar um país;Füllen Sie alle Felder aus;Wypełnij wszystkie pola;Udfyld alle felter for at redigere land
+Admin.Country.CountryEdit.lblCountryName;Country Name;Nombre País;Land naam;Nom du pays;Nome del Paese;Lands namn;Nome do país;Name des Landes;Nazwa kraju;Landenavn
+Admin.Country.CountryEdit.lblOriginCountry;Country of Origin (With BCA Parks);País de Origen (Con Parques BCA);Land van herkomst (met BCA-parken);Pays d'origine (avec parcs BCA);Paese di origine (con piazzali BCA);Ursprungsland (med BCA-parker);País de origem (com parques BCA);Herkunftsland (mit BCA Parks);Kraj pochodzenia (z parkami BCA);Oprindelsesland
+Admin.Country.CountryEdit.lblDestinityCountry;Destination country;País de Destino;Bestemming land;Pays de destination;Paese di destinazione;Destinationsland;País de destino;Zielland;Kraj docelowy;Destinationsland
+Admin.Country.CountryEdit.lblZipCodeLongitudeValidation;ZipCode length for validation;Longitud de Código Postal para Validación;PostCode-lengte voor validatie;Longueur du code postal pour validation;Lunghezza del CAP per la convalida;postummer-längd för validering;Comprimento do Código Postal para validação;PLZ-Länge für die Validierung;Długość kodu pocztowego dla sprawdzenia poprawności;Postnr. længde for validering
+Admin.Country.CountryEdit.lblResourceKey;Resource Key;Clave de Recurso;Resource Key;Clé de ressource;Chiave di risorsa;Resursnyckel;Chave de Recurso;Ressourcenschlüssel;Klucz zasobów;Ressource nøgle
+Admin.Country.CountryEdit.iconWarning;If you modify this field, records in the database will be deleted;Si modifica este campo, se eliminarán registros en la base de datos;Als u dit veld wijzigt;Si vous modifiez ce champ;Modificando questo campo i risultati del database verranno eliminati;Om du ändrar detta fält kommer poster i databasen att raderas;Se modificar este campo;Wenn Sie dieses Feld ändern;Jeśli zmodyfikujesz to pole;Optegnelser i databasen vil blive slettet
+Admin.Country.CountryEdit.lblLocalTransportType;Type of Local Transportation;Tipo de Transporte Local;Type lokaal transport;Type de transport local;Tipo di trasporto locale;Typ av lokala transporter;Tipo de transporte local;Art des lokalen Transports;Rodzaj transportu lokalnego;Type af lokal transport
+Admin.Country.CountryEdit.dliRegion;By region;Por región;Per regio;Par région;Per regione;Enligt region;Por região;Nach Region;Według regionu;Pr. region
+Admin.Country.CountryEdit.dliKm;By Kms;Por Kms;Door Kms;Par Kms;Per km;Av Kms;Por Kms;Anhand Km;Wg km;Pr. km.
+Admin.Country.CountryEdit.iconInfoSearchRegion;Number of digits to search by region. Ex: 28005 -> Zipcode 28 (2 digits);Nº de dígitos para buscar por región. Ej: 28005 -> Código Postal 28 (2 dígitos);Aantal cijfers om te zoeken op regio. Ex: 28005 -> Postcode 28 (2 cijfers);Nombre de chiffres à rechercher par région. Ex: 28005 -> Code postal 28 (2 chiffres);Numero di digitazioni per ricerca per regione. Es: 28005 -> CAP 28 (2 digitazioni);Antal siffror att söka efter region. Ex: 28005 -> Postnummer 28 (2 siffror);Número de dígitos para pesquisar por região. Ex: 28005 -> CEP 28 (2 dígitos);Anzahl der zu suchenden Ziffern nach Region. Bsp: 28005 -> Postleitzahl 28 (2 Ziffern);Liczba cyfr do wyszukiwania według regionu. Przykład: 28005 -> Kod pocztowy 28 (2 cyfry);Antal af tal at søge pr. region
+Admin.Country.CountryEdit.lblZipCode;First Digits by ZipCode;Primeros Dígitos por Código Postal;Eerste cijfers door PostCode;Premiers chiffres par code postal;Prime digitazioni per CAP;Första siffror från postnummer;Primeiros Dígitos por Código Postal;Erste Zeichen der PLZ;Pierwsze cyfry według kodu pocztowego;Første tal pr. postnr.
+Admin.Country.CountryEdit.lblMandatoryTransportation;Mandatory Transportation;Transporte Obligatorio;Verplicht transport;Transport obligatoire;Trasporto obbligatorio;Obligatorisk transport;Transporte Obrigatório;Verpflichtender Transport;Transport obowiązkowy ;Obligatorisk transport
+Admin.Country.CountryEdit.dliOrlblYes;Yes;Sí;Ja;Oui;Sì;Ja;Sim;Ja;Tak;Ja
+Admin.Country.CountryEdit.dliOrlblNo;No;No;Nee;Non;No;Nej;Não;Nein;Nie;Nej
+Admin.Country.CountryEdit.lblMandatoryTransportationMessage;Mandatory transport message;Mensaje de transporte obligatorio;Verplicht transportbericht;Message de transport obligatoire;Messaggio di trasporto obbligatorio;Obligatoriskt transportmeddelande;Mensagem obrigatória de transporte;Verpflichtende Transportnachricht;Wiadomość odnośnie obowiązkowego transport ;Obligatorisk transport meddelelse
+Admin.Country.CountryEdit.lblNonMandatoryTransportationMessage;Non-mandatory transport message;Mensaje de transporte no obligatorio;Niet-verplichte transportboodschap;Message de transport non obligatoire;Messaggio di trasporto non obbligatorio;Ej obligatoriskt transportmeddelande;Mensagem de transporte não obrigatória;Obligatorsiche Transportnachricht;Wiadomość odnośnie nieobowiązkowego transport ;Valgfri transport meddelelse
+Admin.Country.CountryEdit.btnSaveCountry;Save Country;Guardar País;Land opslaan;Enregistrer le pays;Salva Paese;Spara land;Gravar o país;Land speichern;Zapisz kraj;Gem land
+Admin.Country.CountryEdit.warningMessage;If you modify this field, all fees and regions related to this country will be eliminated;Si modifica este campo, se eliminarán todas las tarifas y regiones relacionadas con este país;Als u dit veld wijzigt;Si vous modifiez ce champ;Modificando questo campo tutte le tariffe e regioni collegate a questo Paese verranno eliminate;Om du ändrar detta fält elimineras alla avgifter och regioner som är relaterade till detta land;Se modificar este campo;Wenn Sie dieses Feld ändern;Jeśli modyfikujesz to pole;Transportpris
+Admin.Country.CountryEdit.lblZipPlaceholder;Zip Placeholder;Marcador de posición de código postal;Postcode placeholder;Code postal de substitution;Segnaposto CAP;Postnummer;Espaço reservado para código;PLZ Platzhalter;Zastępczy kod pocztowy ;Zip code 
+Admin.Country.CountryEdit.lblMoneySymbolNational;National Money Symbol;Símbolo de moneda nacional;Symbool nationale munt;Symbole de monnaie nationale;Simbolo moneta nazionale;National pengasymbol;Símbolo da moeda local;Nationales Währungssymbol;Narodowy symbol waluty ;National penge symbol
+Admin.Country.CountryEdit.lblMoneySymbolInternational;International Money Symbol;Símbolo de moneda internacional;Symbool internationale munt;Symbole de monnaie internationale;Simbolo moneta internazionale;Internationell pengasymbol;Símbolo da moeda internacional;Internationales Währungssymbol;Międzynarodowy symbol waluty ;International penge symbol 
+Admin.Country.CountryEdit.lblInternationalTransportActive;International Transport Active;Transporte Internacional Activo;International Transport Actief;Transport international actif;Trasporto internazionale attivo;Internationell aktiv transport;Transporte Internacional activo;Internationaler Transport aktiv;Transport międzynarodowy aktywny ;International transport aktiv
+Admin.Country.CountryEdit.lblLocalTransportActive;Local Transport Active;Transporte Local Activo;Lokaal Transport Actief;Transport local actif;Trasporto locale attivo;Lokal aktiv transport;Transporte local activo;Nationaler Transport aktiv;Transport lokalny aktywny ;Lokal transport aktiv
+Admin.Country.CountryEdit.lblTransportRequestActive;Active;Activo;Actief;Actif/ve;Attivo;Aktiv;Activo;Aktiv;Aktywny ;Aktiv
+Admin.Country.CountryEdit.lblEmailsToRequestInternationalTransport;Emails to Request International Transport;Emails para Petición de Transporte Internacional;Emails om Internationaal Transport te bestellen;Emails pour demander un transport international;Email per richiesta Trasporto Nazionale;E-post för att begära internationell transport;Emails para pedir transporte internacional;E-Mails für internationale Transportanfragen;Email aby zamówić transport międzynarodowy;E-mails til at anmode om international transport 
+Admin.Country.CountryEdit.lblEmailsToRequestLocalTransport;Emails to Request Local Transport;Emails para Petición de Transporte Local;Emails om Lokaal Transport te bestellen;Emails pour demander un transport local;Email per richiesta Trasporto Internazionale;E-post för att begära lokal transport;Emails para pedir transporte local;E-Mails für nationale Transportanfragen;Email aby zamówić transport lokalny;E-mails forspørgelse af lokal transport 
+Admin.Country.CountryEdit.lblShowFieldOptionRequest1;Show Option 1;Mostrar Opción 1;Weergeven Optie 1;Montrer l'option 1;Mostra opzione 1;Visa alternativ 1;Mostrar opção 1;Option 1 anzeigen;Pokaż opjcę 1;Vis mulighed 1
+Admin.Country.CountryEdit.lblShowFieldOptionRequest2;Show Option 2;Mostrar Opción 2;Weergeven Optie 2;Montrer l'option 2;Mostra opzione 2;Visa alternativ 2;Mostrar opção 2;Option 2 anzeigen;Pokaż opjcę 2;Vis mulighed 2
+Admin.Country.CountryEdit.lblShowFieldOptionRequest3;Show Option 3;Mostrar Opción 3;Weergeven Optie 3;Montrer l'option 3;Mostra opzione 3;Visa alternativ 3;Mostrar opção 3;Option 3 anzeigen;Pokaż opjcę 3;Vis mulighed 3
+Admin.Country.CountryEdit.lblShowFieldOptionRequest4;Show Option 4;Mostrar Opción 4;Weergeven Optie 4;Montrer l'option 4;Mostra opzione 4;Visa alternativ 4;Mostrar opção 4;Option 4 anzeigen;Pokaż opjcę 4;Vis mulighed 4
+Admin.Country.CountryEdit.lblShowFieldOptionRequest5;Show Option 5;Mostrar Opción 5;Weergeven Optie 5;Montrer l'option 5;Mostra opzione 5;Visa alternativ 5;Mostrar opção 5;Option 5 anzeigen;Pokaż opjcę 5;Vis mulighed 5
+Admin.Country.CountryEdit.lblShowFieldOptionRequest6;Show Option 6;Mostrar Opción 6;Weergeven Optie 6;Montrer l'option 6;Mostra opzione 6;Visa alternativ 6;Mostrar opção 6;Option 6 anzeigen;Pokaż opjcę 6;Vis mulighed 6
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest1;Is Mandatory Option 1;Obligatorio Opción 1;Verplicht veld 1;Option 1 obligatoire;L'opzione 1 è obbligatoria;Obligatoriskt alternativ 1;Obrigatória opção 1;Ist Pflichtfeldoption 1;Jest obowiązkowa opcja 1;Obligatorisk mulighed 1
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest2;Is Mandatory Option 2;Obligatorio Opción 2;Verplicht veld 2;Option 2 obligatoire;L'opzione 2 è obbligatoria;Obligatoriskt alternativ 2;Obrigatória opção 2;Ist Pflichtfeldoption 2;Jest obowiązkowa opcja 2;Obligatorisk mulighed 2
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest3;Is Mandatory Option 3;Obligatorio Opción 3;Verplicht veld 3;Option 3 obligatoire;L'opzione 3 è obbligatoria;Obligatoriskt alternativ 3;Obrigatória opção 3;Ist Pflichtfeldoption 3;Jest obowiązkowa opcja 3;Obligatorisk mulighed 3
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest4;Is Mandatory Option 4;Obligatorio Opción 4;Verplicht veld 4;Option 4 obligatoire;L'opzione 4 è obbligatoria;Obligatoriskt alternativ 4;Obrigatória opção 4;Ist Pflichtfeldoption 4;Jest obowiązkowa opcja 4;Obligatorisk mulighed 4
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest5;Is Mandatory Option 5;Obligatorio Opción 5;Verplicht veld 5;Option 5 obligatoire;L'opzione 5 è obbligatoria;Obligatoriskt alternativ 5;Obrigatória opção 5;Ist Pflichtfeldoption 5;Jest obowiązkowa opcja 5;Obligatorisk mulighed 5
+Admin.Country.CountryEdit.lblIsMandatoryOptionRequest6;Is Mandatory Option 6;Obligatorio Opción 6;Verplicht veld 6;Option 6 obligatoire;L'opzione 6 è obbligatoria;Obligatoriskt alternativ 6;Obrigatória opção 6;Ist Pflichtfeldoption 6;Jest obowiązkowa opcja 6;Obligatorisk mulighed 6
+Admin.Country.CountryEdit.lblTitleRequestTransport;Request Transport;Petición de Transporte;Bestel Transport;Demande de transport;Richiedi Trasporto;Begär transport;Pedir Transporte;Transport anfragen;Zamów transport ;Anmod om transport
+Admin.Country.CountryEdit.lblInfoRequestTransport;Notice: You must go to the Resource Manager if you want to edit: labels, footer and email header;Nota: Debes ir al Administrador de Recursos si quieres editar: etiquetas, pie de página y encabezado del email;Notitie: in Resource Manager kunnen de weergegeven labels / kop tekst email en voettekst email gewijzigd worden;Attention: veuillez contacter le gestionnaire de ressources si vous désirez éditer: des étiquettes;Nota: rivolgiti all'amministratore se vuoi modificare: etichette, piè di pagina e intestazione email;Notera: Du måste gå till Resource Manager för att editera: labels, footer and email mallar;Aviso: Tem de ir ao gestor de recursos se quer editar: etiquetas, rodapé e cabeçalho do email;Notiz: Sie müssen zum Resourcen Manager wenn Sie folgende Daten bearbeiten möchten: labels;Uwaga: należy przejść do Menedżera zasobów;Bemærk: I tilfælde af at labels, sidefod og e-mailhoved, bedes du gå til nærmeste Ressource Manager
+Admin.Country.CountryEdit.lblInputFileOption;Upload files;Permitir subir archivos;Voeg bestanden toe;Importer des documents;Carica i file;Ladda upp filer;Carregar ficheiros;Datei uploaden;Dołącz pliki ;Upload filer 
+Admin.Country.CountryEdit.lblInfoRequestTransportActive;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;Per la richiesta di trasporto, il cliente deve sempre fornire il proprio indirizzo e-mail / numero di telefono / indirizzo di consegna (campi fissi e obbligatori nel calcolatore) Se sono necessarie ulteriori informazioni per il proprio paese di vendita, si prega di attivare i campi seguenti:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:;For Request Transport, the customer always need to provide his Contact Email / Phone Number / Delivery Address (fixed and mandatory fields in the calculator)If there is any more information needed for your sales country, please activate those fields below:
+Admin.Country.CountryList.Title;Select a country;Seleccione un país;Selecteer een land;Choisissez un pays;Seleziona un paese;Välj ett land;Selecione um país;Wählen Sie ein Land aus;Wybierz kraj;Vælg et land
+Admin.Country.CountryList.lblInfo;International Active / Local Active / Country /Code / Name;Activo Internacional / Activo Local / País / Código / Nombre;Internationaal Actief / Lokaal Actief / Land / Code / Naam;Actif internationalement / actif localement / Pays / Code / Nom;Attivo internazionale / Attivo Locale / Paese / Codice / Nome;Internationell Aktiv / Local Aktiv/ Land /Kod / Namn;Internacional Activo / Local Activo / País / Código / Nome;International Aktiv / notional aktiv / Land / PLZ / Name;Międzynarodowy aktywny / Lokalny aktywny / Kraj / Kod / Nazwa ;International Aktiv / Lokal Aktiv / Land / Kode / Navn
+Admin.Resources.Container.lblResourceManager;Resource Manager;Administrador de Recursos;Resource Manager;Gestionnaire de ressources;Responsabile delle risorse;Resurshanteraren;Gerenciador de recursos;Kapazitätensteuerung;Menedżer zasobów;Ressource-manager
+Admin.Resources.LanguageList.lblSelectLanguage;Select a Language;Seleccione un idioma;Selecteer een taal;Sélectionner une langue;Seleziona una lingua;Välj ett språk;Selecione um idioma;Wählen Sie eine Sprache;Wybierz język;Vælg et sprog
+Admin.Resources.ResourceEdit.lblWriteAddress;Write a address;Escriba una descripción;Geef een adres;Écrire une adresse;Scrivi un indirizzo;Skriv en adress;Escreva um endereço;Adresse schreiben;Wprowadź adres;Noter en adresse
+Admin.Resources.ResourceEdit.btnSaveResource;Save Resource;Guardar Recurso;Bewaar Resource;Enregistrer la ressource;Salva risorsa;Spara resurs;Salvar Recurso;Ressource speichern;Zapisz zasoby;Gem ressource
+Admin.Resources.ResourceList.lblSelectResource;Select the resource;Seleccione el recurso;Selecteer de bron;Sélectionner la ressource;Seleziona la risorsa;Välj resursen;Selecione o recurso;Wählen Sie die Ressource aus;Wybierz zasoby;Vælg ressource
+Admin.CompoundEdit.Title;Edit Compound;Edición de Campa;Wijzig compound;Modifier le parc de stockage;Modifica Piazzale;Redigera compound;Editar local;Standort bearbeiten;Edytuj plac ;Rediger compound
+Admin.CompoundEdit.Info;Complete all fields to create or edit a compound;Complete todos los campos para crear o editar una campa;Vul alle velden om een compound te maken of te wijzigen;Remplir tous les champs pour créer ou éditer un parc de stockage;Completa tutti i campi per modificare o creare un piazzale;Fyll i alla fält för att skapa eller redigera en compound;Completar todos os campos para criar ou editar Local;Füllen Sie alle Felder aus um den Standort zu erstellen oder zu bearbeiten;Wypełnij wszystkie pola;Udfyld alle felter for at oprette eller redigere en compound 
+Admin.CompoundEdit.lblAddress;Address;Dirección;Adres;Adresse;Indirizzo;Adress;Morada;Adresse;Adres;Adresse
+Admin.CompoundEdit.lblInternationalAddress;International Active;Activo Internacional;Internationaal Actief;Actif internationalement;Attivo internazionale ;Internationell Aktiv;Internacional Activo;International Aktiv;Międzynarowody aktywny ;International aktiv
+Admin.CompoundEdit.lblLocalActive;Local Active;Activo Local;Lokaal Actief;Actif localement;Attivo locale;Lokal aktiv ;Local Activo;National Aktiv;Lokalny aktywny ;Lokal aktiv
+Admin.CompoundEdit.lblCoordsX;X Coordinates;Coordenadas X;X Coördinaten;Coordonnées X;Coordinate X;X kordinater;Coordenadas X;X Koordinaten;Wspórzędne X;X Kordinater
+Admin.CompoundEdit.lblCoordsY;Y Coordinates;Coordenadas Y;Y Coördinaten;Coordonnées Y;Coordinate Y;Y kordinater;Coordenadas Y;Y Koordinaten;Współrzędne Y;Y Kordinater 
+Admin.CompoundEdit.btnSaveCompound;Save Compound;Guardar Campa;Compound opslaan;Enregistrer le parc de stockage;Salva piazzale;Spara compound;Guardar Local;Standort speichern;Zapisz plac;Gem compound 
+Admin.CompoundEdit.btnDeleteCompound;Delete Compound;Eliminar Campa;Compound verwijderen;Supprimer le parc de stockage;Elimina piazzale;Radera compound;Apagar Local;Standort löschen;Usuń plac;Slet compound 
+Admin.CompoundEdit.btnLocateCompound;Locate Compound;Localizar Campa;Compound lokaliseren;Parc de stockage local;Localizza piazzale;Lokalisera compound;Localizar Local;Standort lokalisieren;Zlokalizuj plac ;Lokaliser afhentningssted
+Admin.CompoundEdit.locateMessage;The compound has been located;Se ha localizado la campa;De compound is correct gelokaliseerd;Le parc de stockage a été localisé;Il piazzale è stato localizzato;Compound har lokaliserats;O local foi localizado;Der Standort wurde erkannt;Plac został zlokalizowany ;Afhentningsstedet er blevet lokaliseret 
+Admin.CompoundConfiguration.Title;Compound Configuration;Configuración de Campas;Compound configuratie;Configuration du parc de stockage;Configurazione Piazzale;Compound konfiguration;Configurar Local;Standortkonfiguration;Konfiguracja placu;Konfiguration af afhentningsted 
+Admin.CompoundConfiguration.Info;(International Active / Local Active / Locate Active / Country / Code / Name);(Activo Internacional / Activo Local / Activo Localizar / País / Código / Nombre);(Internationaal Actief / Lokaal Actief / Lokalisatie Actief / Land / Code / Naam);(Actif internationalement / actif localement / Pays / Code / Nom);(Attivo Internazionale / Attivo Locale / Paese / Codice / Nome);Internationell Aktiv / Local Aktiv/ Local Aktiv/ Land /Kod / Namn;(Internacional Activo / Local Activo / Localizar Activo / País / Código / Nome);International Aktiv / notional aktiv / Land / PLZ / Name;Międzynarodowy aktywny / Lokalny aktywny / Kraj / Kod / Nazwa ;(International aktiv / Lokal aktiv / Find aktiv / Land / Kode / Navn)
+Admin.CompoundConfiguration.btnNewCompound;New Compound;Nueva Campa;Nieuwe Compound;Nouveau parc de stockage;Nuovo piazzale;Ny Compound;Novo Local;Neuer Standort;Nowy plac;Ny lokation
