@@ -7,8 +7,11 @@ var myObj;
 var objStr;
 var fileName;
 var errorFiles = new Array();
+var finalResult = '';
 
-var charToDelimite = '&';
+var NUMERO_PAISES = 10;
+var STRINGTODELIMIT = 'Path;English;Spanish;Dutch;French;Italian;Swedish;Portuguese;German;Polish;Danish';
+var charToDelimite = '^';
 var loadDsv = d3.dsv(charToDelimite, "text/plain;charset=ANSI");
 
 this.generateJSON();
@@ -17,43 +20,58 @@ function generateJSON() {
 
   this.loadDsv("data/code.analysis.csv", function (data) {
 
-    data.forEach(element => {
+    let nameOfCountries = STRINGTODELIMIT.split(";");
 
+    for (let i = 0; i < NUMERO_PAISES; i++) {
 
-      let content = element['Path;Traductions'].toString();
+      let name = nameOfCountries[i + 1];
 
-      let allContent = content.split(";");
-      let valueArray = allContent[1];
-      let contentArray = allContent[0].split(".");
-      if (valueArray.includes("<") || valueArray.includes("#") || valueArray.includes("-") || valueArray.includes("ø") || valueArray.includes("æ")) {
-        if (valueArray.includes("img")) {
-          valueArray = valueArray.replace('\"', "");
+      data.forEach(element => {
+
+        let content = element[STRINGTODELIMIT].toString();
+        let allContent = content.split(";");
+        let valueArray = allContent[i + 1];
+        let contentArray = allContent[0].split(".");
+
+        if (valueArray.includes("<") || valueArray.includes("#") || valueArray.includes("-") || valueArray.includes("ø") || valueArray.includes("æ")) {
+          if (valueArray.includes("img")) {
+            valueArray = valueArray.replace('\"', "");
+          }
+          this.errorFiles.push(valueArray);
+          valueArray = "INVALID_CHARACTER_" + this.errorFiles.length.toString();
         }
-        this.errorFiles.push(valueArray);
-        valueArray = "INVALID_CHARACTER_" + this.errorFiles.length.toString();
-      }
-      this.EtccNode.expandNodo(contentArray, valueArray);
+        this.EtccNode.expandNodo(contentArray, valueArray);
 
-    });
+      });
 
-    let result = this.EtccNode.getArrayNames();
-    //Correct fromat of json
-    // result = result.slice(0, -1);
-    result += "}";
-    //Final Result
-    var finalResult = "{" + result;
+      let result = this.EtccNode.getArrayNames();
+      //Correct format of json
+      let formatName = '';
+      if (i == 0)
+        formatName = '"' + name + '":'
+      else
+        formatName = ', "' + name + '":'
+
+      result = formatName + '{' + result + "}";
+
+      //Final Result
+      finalResult += result;
+
+    }
+
+    finalResult = "{" + finalResult + "}";
 
     try {
       this.myObj = JSON.parse(finalResult);
       this.objStr = JSON.stringify(this.myObj, undefined, 4);
 
-      this.objStr = "OJO TENER CUIDADO CON LAS ETIQUETAS <IMG... Y LOS PUNTOS EN LOS LABELS\n" + this.replaceInvalidChar(this.objStr);
+      this.objStr = this.replaceInvalidChar(this.objStr);
 
-      document.getElementById("MiID").innerHTML = objStr;
+      document.getElementById("MiID").innerHTML = "OJO TENER CUIDADO CON LAS ETIQUETAS <IMG... Y LOS PUNTOS EN LOS LABELS\n" + objStr;
 
     } catch (e) {
 
-      document.getElementById("MiID").innerHTML = " \n ERROR: " + e.toString();
+      //document.getElementById("MiID").innerHTML = " \n ERROR: " + e.toString();
 
     }
 
@@ -76,7 +94,7 @@ function replaceInvalidChar(str) {
 }
 
 function downloadObjectAsJson() {
-  var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(this.myObj));
+  var dataStr = "data:text/json;charset=utf-8," + objStr;
   // dataStr = this.replaceInvalidChar(dataStr);
   var downloadAnchorNode = document.createElement('a');
   downloadAnchorNode.setAttribute("href", dataStr);

@@ -145,7 +145,7 @@ class Nodo {
     static generarNodosFromJson(data) {
 
         let NodeRoot;
-        
+       
         NodeRoot = new Nodo(null, "root");
         NodeRoot.childsNodes = NodeRoot.expandirJSON(data, NodeRoot);
 
